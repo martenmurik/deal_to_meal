@@ -1,0 +1,1344 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script type="7359e01edb650d01f5f76dc3-text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag("consent", "default", {
+        ad_personalization: "denied",
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        analytics_storage: "denied",
+        functionality_storage: "denied",
+        personalization_storage: "denied",
+        security_storage: "granted",
+        wait_for_update: 500,
+    });
+    gtag("set", "ads_data_redaction", true);
+    gtag("set", "url_passthrough", true);
+</script>
+    
+<script type="7359e01edb650d01f5f76dc3-text/javascript">
+    (() => {
+        window.cshtml = window.cshtml || {}
+        window.cshtml.jsResources = window.cshtml.jsResources || {}
+        window.cshtml.resourceWaits = window.cshtml.resourceWaits || {}
+
+        const jsResources = window.cshtml.jsResources
+        const resourceWaits = window.cshtml.resourceWaits
+
+        window.cshtml.setJsResource = (resourceId, jsResource) => {
+            jsResources[resourceId] = jsResource
+
+            if (resourceWaits[resourceId]) {
+                resourceWaits[resourceId].forEach(wait => wait.resolve(jsResource))
+                delete resourceWaits[resourceId]
+            }
+        }
+
+        const makeDeferred = () => {
+            let result = {}
+
+            result.promise = new Promise((resolve, reject) => {
+                result.resolve = resolve
+                result.reject = reject
+            })
+
+            return result
+        }
+
+        window.cshtml.getJsResource = (resourceId) => {
+            if (jsResources[resourceId]) {
+                return Promise.resolve(jsResources[resourceId])
+            } else {
+                resourceWaits[resourceId] = resourceWaits[resourceId] || []
+                const deferred = makeDeferred()
+                resourceWaits[resourceId].push(deferred)
+                return deferred.promise
+            }
+        }
+    })();
+    
+</script>
+    
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid='2f425a0e-9ead-4907-a51a-66f3858f95da' data-blockingmode="manual" type="7359e01edb650d01f5f76dc3-text/javascript" async></script>
+
+    
+<script type="7359e01edb650d01f5f76dc3-text/javascript" src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"></script>
+
+<script type="7359e01edb650d01f5f76dc3-text/javascript">
+    AppleID.auth.init({
+        clientId : 'ee.barbora.signin',
+        scope : 'name email',
+        redirectURI : 'https://barbora.ee',
+        state : 'origin:web',
+        usePopup : true
+    });
+</script>
+
+    <meta charset="utf-8" />
+    <meta name="apple-itunes-app" content="app-id=1339130115">
+    <meta name="description"
+        content="Kiire toidu ja kodukaupade kohaletoimetamine otse koju. Barbora – hoolega toodud, alati oodatud." />
+    <meta name="og:description"
+        content="Kiire toidu ja kodukaupade kohaletoimetamine otse koju. Barbora – hoolega toodud, alati oodatud." />
+    <meta name="og:type" content="website" />
+    <meta name="og:title" content="Kampaaniad | BARBORA" />
+    <meta name="og:sitename" content="Barbora" />
+
+    
+        <link rel="canonical" href="https://barbora.ee/pakkumised" />
+
+
+
+
+
+        <meta name="facebook-domain-verification" content="-" />
+
+    
+
+
+
+
+
+    <link rel="image_src" href="/Assets/Images/logo-square.png" />
+
+    <meta name="og:image" content="/Assets/Images/logo-square.png" />
+
+    <link rel="shortcut icon" href="/Assets/Images/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin,latin-ext" rel="stylesheet"
+        type="text/css">
+
+    
+
+    <link rel="stylesheet" type="text/css"
+        href="/Assets/Styles/main.css?v=1.49.0" />
+
+    <title>Kampaaniad | BARBORA</title>
+
+    <script type="7359e01edb650d01f5f76dc3-text/javascript">
+        window.currentPage = "allPages";
+
+        // Solution for 'can't find variable: _AutofillCallbackHandler' error on Instagram/Facebook browsers with iOS
+        window._AutofillCallbackHandler = window._AutofillCallbackHandler || function(){}
+    </script>
+
+        <script type="7359e01edb650d01f5f76dc3-text/javascript" src="/shared/translationsasscript?languageShortname=EE"></script>
+
+    
+    
+
+
+
+    <script type="7359e01edb650d01f5f76dc3-text/javascript">
+        // these are needed in order not to have to hardcode urls in JavaScript
+        // and to be able to change route names and not to break links
+
+        window.b_urls = {
+            home: "/",
+            cart: "/ostukorv",
+            search: "/otsing",
+            searchSuggestions: "/otsingu-abi",
+            product: "/toode",
+            userInfoNew: "/uus-minu-andmed",
+            eShopApiBaseUrl: window.location.origin + "/api/eshop/v1/",
+            popUpCampaignImageUrlTemplate: window.location.origin + "/api/images/GetPopUpCampaignImage?id=",
+            recommendations: "/soovitused",
+            cookieConsent: "javascript: CookieConsent.renew()",
+            login: "/logi-sisse",
+            register: "/registreeru",
+            remindPassword: "/parooli-meeldetuletus",
+            goodPriceShopInShopUrl: "poed/superstaarid",
+            drugstore: "poed/NO_TRANSLATION_FOUND_b7f1d14e-88de-4be9-af1e-dd64900382fc",
+            categoriesServiceUrl: "https://production-elb.barbora.lt/api/cache/v1/country/EE",
+            shopInShop: "poed/",
+            inventoryGroup: "/prekiu-grupe",
+            specialOffers: "/pakkumised",
+            myItems: "/minu-andmed/favourites",
+            loyaltyOffers: "/aitah-hind",
+            promotionLandingPage: "",
+            nextPaymentPage: '/checkout',
+            paymentsServiceGenericUrl: "https://production-elb.barbora.ee/api" + "/v1/payments",
+        };
+
+        window.b_data = {
+            clientHostId: "32",
+            versionNumber: "v1.49.0",
+            clientVersion: "1.49.0",
+            CMSToken: "Bearer UNSOBiSDfbCQZVAsn0Qvyhw8OpjkkjRy",
+            companyNameFull: "Supersa O&#220;",
+            companyName: "Barbora",
+            enviromentLocation: "EE",
+            enviroment: "PRD",
+            loyaltyCardInfoLink: "https://aitahkaart.maxima.ee/aitah/minu-aitah",
+            customerSupportEmail: "info@barbora.ee",
+            customerSupportPhone: "555 66 369",
+            androidAppDownloadLink: "https://play.google.com/store/apps/details?id=ee.barbora",
+            iOsAppDownloadLink: "https://itunes.apple.com/us/app/appname/id1339130115?ls=1&amp;mt=8",
+            socialLinks: [{"name":"fb-badge","link":"https://www.facebook.com/BarboraEesti"},{"name":"inst-badge","link":"https://www.instagram.com/barbora.ee"},{"name":"linkedin-badge","link":"https://www.linkedin.com/company/barbora-eesti"},{"name":"yt-badge","link":""}] || [],
+            customerDataRouteName: "uus-minu-andmed",
+            TranslationsPlaceholderMatchingRegex: "{([0-9])+:(.+?)}",
+            authCookieName: ".BRBAUTH",
+            mainDonationsCategoryId: "fad338a7-5773-4bc4-bd24-aa2b00d49f8a",
+            donationsUrlFragment: "annetused",
+            deliveryMethodType: {"Address":1,"PickupPoint":3,"DriveIn":4},
+            couponTypes: {"FlatDiscount":1,"FreeDelivery":2,"PercentageDiscount":3,"GiftCoupon":4},
+            enviromentLocations: {"Lithuania":"LT","Latvia":"LV","Estonia":"EE"},
+            regionShortId: "EE_MAIN_WEB",
+            isCentralEshopClientUrl: true,
+            showCustomerCouponsModal: "False".toLowerCase() == "true",
+            shouldShowRefactoredCoupons: "False".toLowerCase() == "true",
+            currencySymbol: "€",
+            isInfoPageStandalone: "False".toLowerCase() === "true",
+            selectedLanguageData: {
+                id: "b06b0c92-7d3d-4ac4-87df-27dfdb6ca69d".toLowerCase(),
+                name: "Eesti",
+                shortName: "EE",
+                translationFilePath: "/Assets/Translations/ee.json?v=v1.49.0",
+                locale: "et"
+            },
+            availableLanguages: (function(){
+                var langs = [{"Id":"b06b0c92-7d3d-4ac4-87df-27dfdb6ca69d","Name":"Eesti","CultureName":"et-EE","IsDefault":true,"PositionNumber":1,"ShortName":"EE","AvailableForAdmin":true,"AvailableForWeb":true},{"Id":"1595dc26-9ecc-4c7d-b26e-badffc19c6b5","Name":"English","CultureName":"en","IsDefault":false,"PositionNumber":2,"ShortName":"EN","AvailableForAdmin":true,"AvailableForWeb":true},{"Id":"909b6b59-bf29-497c-80e4-1c844f1849c7","Name":"Русский","CultureName":"ru","IsDefault":false,"PositionNumber":3,"ShortName":"RU","AvailableForAdmin":true,"AvailableForWeb":true}];
+                try {
+                    if (false) {
+                        // Append staging-only KEY language to the list for UI selection
+                        langs = [].concat(langs || []);
+                        // Use a synthetic Id and fields expected by the UI
+                        langs.push({ Id: '00000000-0000-0000-0000-00000000KEY', Name: 'KEY', ShortName: 'KEY', IsDefault: false, PositionNumber: 9999, CultureName: 'key', AvailableForAdmin: false, AvailableForWeb: true });
+                    }
+                } catch (e) {}
+                return langs;
+            })(),
+            featureFlagRegistrationConfirmation: "true",
+            emailRegex: "^[a-zA-Z0-9_.+-]+@(?!\\.)(?!.*?\\.\\.)(?!.*\\.$)[a-zA-Z0-9-]+\\.(?!\\.)(?!.*?\\.\\.)(?!.*\\.$)[a-zA-Z0-9-.]+$",
+            phoneNumberRegex: "^(\\+(43|32|357|420|45|372|358|33|49|30|36|353|39|371|370|352|356|31|48|351|421|386|34|46|44|47|41|380))(\\d{7,15})$",
+            isAnalyticSearchEnabled: true,
+            isConstructorSearchEnabled: true,
+            featureFlagAciuCard: "true",
+            featureFlagHideDonationsBlock: "false",
+            featureFlagHideDepositPriceIfZero: "false",
+            featureFlagJitsu: "true",
+            shouldShowEkoMenuItem: true,
+            shouldShowDrugStoreMenuItem: "False".toLowerCase() === "true",
+            isSocialLoginRegistrationEnabled: true,
+            isPopularCategoriesEnabled: false,
+            isShowAlcohol: "true",
+            isNewLoyaltyPromoActive: "false" === "True",
+            jitsuWebKey: "js.31djxulhz1grvselnyy3km.nystcvhdbddoqvta27rgae",
+            jitsuTrackingHostUrl: "https://production-elb.barbora.lt/",
+            liveChatEnabled: true,
+            is1EurOfferMenuItemEnabled: true,
+            isEmailSubscriptionBarEnabled: true,
+            availablePaymentSources: "[{&quot;image&quot;:&quot;https://cdn.barbora.lt/payments/gray-swed.png&quot;,&quot;id&quot;:&quot;1&quot;},{&quot;image&quot;:&quot;https://cdn.barbora.lt/payments/gray-seb.png&quot;,&quot;id&quot;:&quot;2&quot;},{&quot;image&quot;:&quot;https://cdn.barbora.lt/payments/gray-lhv.png&quot;,&quot;id&quot;:&quot;3&quot;},{&quot;image&quot;:&quot;https://cdn.barbora.lt/payments/gray-luminor.png&quot;,&quot;id&quot;:&quot;4&quot;},{&quot;image&quot;:&quot;https://cdn.barbora.lt/payments/gray-coop.png&quot;,&quot;id&quot;:&quot;5&quot;},{&quot;image&quot;:&quot;https://cdn.barbora.lt/payments/gray-pocopay.png&quot;,&quot;id&quot;:&quot;6&quot;},{&quot;image&quot;:&quot;https://cdn.barbora.lt/payments/gray-card-on-delivery-LT.png&quot;,&quot;id&quot;:&quot;7&quot;,&quot;translation&quot;:&quot;Common.RegisterANewCard&quot;},{&quot;image&quot;:&quot;https://cdn.barbora.lt/payments/gray-mastercard.png&quot;,&quot;id&quot;:&quot;8&quot;},{&quot;image&quot;:&quot;https://cdn.barbora.lt/payments/gray-visa.png&quot;,&quot;id&quot;:&quot;9&quot;}]",
+            areBannerMobileImagesEnabled: true,
+            isAllOfferProductsButtonEnabled: true,
+            isNextHeaderEnabled: true,
+            apiVersion: "1.49.0",
+            isDaysOfTasteMenuItemHidden: false,
+            isConsentSplittingEnabled: true,
+            isQuickMealsMenuItemForLVEnabled: true,
+            isNextCartEnabled: true,
+            isNextRegistrationEnabled: true,
+            constructorSearchTestSegments: "constructor_1",
+            amplitudeKey: "",
+            yellowPriceEnabled: true,
+            isGoodPriceMenuItemEnabled: true
+
+        };
+
+        window.b_user_info = null;
+
+        window.b_js_routes = [{"RouteName":"customerDataChangePhone","Url":"NO_TRANSLATION_FOUND_c31d2379-124a-4b2b-8b35-6abb9a27a4ce","ControllerName":null,"ActionName":null,"SequenceInRouting":0,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataPagesList","Url":"/","ControllerName":null,"ActionName":null,"SequenceInRouting":39,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataAddressList","Url":"/kohaletoimetamise-aadress","ControllerName":null,"ActionName":null,"SequenceInRouting":40,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataAddressEdit","Url":"/kohaletoimetamise-aadress/:id","ControllerName":null,"ActionName":null,"SequenceInRouting":41,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataAddressAdd","Url":"/kohaletoimetamise-aadress/lisa-aadress","ControllerName":null,"ActionName":null,"SequenceInRouting":42,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataOrderHistory","Url":"/tellimuste-ajalugu","ControllerName":null,"ActionName":null,"SequenceInRouting":43,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataAciuCard","Url":"/minu-aitah-kaart","ControllerName":null,"ActionName":null,"SequenceInRouting":44,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataUserSettings","Url":"/kasutaja-seaded","ControllerName":null,"ActionName":null,"SequenceInRouting":45,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataChangePassword","Url":"/kasutaja-seaded/muuda-parool","ControllerName":null,"ActionName":null,"SequenceInRouting":47,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataOrderHistoryDetails","Url":"/tellimuste-ajalugu/:id","ControllerName":null,"ActionName":null,"SequenceInRouting":48,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataSavedBaskets","Url":"/salvestatud-ostukorv","ControllerName":null,"ActionName":null,"SequenceInRouting":49,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataPaymentCards","Url":"/maksekaardid","ControllerName":null,"ActionName":null,"SequenceInRouting":50,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataSavedBasketsItem","Url":"/salvestatud-ostukorv/:id","ControllerName":null,"ActionName":null,"SequenceInRouting":51,"Active":true,"IsReactRoute":false},{"RouteName":"customerDataCoupons","Url":"/kupongid","ControllerName":null,"ActionName":null,"SequenceInRouting":58,"Active":true,"IsReactRoute":false}];
+
+        window.b_js_urls = {};
+        window.b_js_routes.forEach(function (route) {
+            window.b_js_urls[route.RouteName] = window.b_urls.userInfoNew + route.Url;
+        });
+
+        window.b_react_routes = [];
+
+        window.b_primary_routes = [{"RouteName":"OffersByCategoryThirdLevel","Url":"pakkumised/{rootCategoryUrl}/{childCategoryUrl}/{grandChildCategoryUrl}","ControllerName":"OffersByCategory","ActionName":"Index","SequenceInRouting":25,"Active":true,"IsReactRoute":false},{"RouteName":"TagedProductsByCategoryThirdLevel","Url":"oko/{rootCategoryUrl}/{childCategoryUrl}/{grandChildCategoryUrl}","ControllerName":"TagedProductsByCategory","ActionName":"Index","SequenceInRouting":29,"Active":true,"IsReactRoute":false},{"RouteName":"Favourites","Url":"minu-lemmikud","ControllerName":"User","ActionName":"Favourites","SequenceInRouting":30,"Active":true,"IsReactRoute":false},{"RouteName":"NewsProductsByCategoryThirdLevel","Url":"uudistooted/{rootCategoryUrl}/{childCategoryUrl}/{grandChildCategoryUrl}","ControllerName":"NewsProductsByCategory","ActionName":"Index","SequenceInRouting":53,"Active":true,"IsReactRoute":false},{"RouteName":"ShopInShop","Url":"poed/{shopName}/{categoryName}","ControllerName":"ShopInShop","ActionName":"Index","SequenceInRouting":55,"Active":true,"IsReactRoute":false},{"RouteName":"AllLoyaltyOffersByCategoryThirdLevel","Url":"aitah-hind/{rootCategoryUrl}/{childCategoryUrl}/{grandChildCategoryUrl}","ControllerName":"AllLoyaltyOffersByCategory","ActionName":"Index","SequenceInRouting":80,"Active":true,"IsReactRoute":false},{"RouteName":"OwnBrandProductsByCategoryThirdLevel","Url":"well-done/{rootCategoryUrl}/{childCategoryUrl}/{grandChildCategoryUrl}","ControllerName":"OwnBrandProductsByCategory","ActionName":"Index","SequenceInRouting":83,"Active":true,"IsReactRoute":false}];
+
+        window.b_info_pages = [{"Id":1,"Title":"Ostmine ja kohaletoimetamine","InfoPages":[{"Id":"4bb5875d-fa0f-4da8-b6d7-86ec8ed1857f","Title":"Kohaletoimetamise teave","Url":"kaupade-kohaletoimetamine","AltUrl":null,"InfoPageCategoryId":1},{"Id":"4c37a9cb-d41a-4d60-b9c6-f5048eb49f7a","Title":"Teeninduspiirkonnad","Url":"teeninduspiirkonnad","AltUrl":null,"InfoPageCategoryId":1},{"Id":"ce0009e1-ba4f-4815-b2dc-7287f4b54c0e","Title":"Makseviisid","Url":"tasumine","AltUrl":null,"InfoPageCategoryId":1},{"Id":"c9b39b69-136d-449a-8199-b033b4b2f323","Title":"AITÄH sooduskaardi reeglid","Url":"aitah-konto-tingimused","AltUrl":null,"InfoPageCategoryId":1},{"Id":"afc653cd-6bc0-4339-b369-1016c35f0eb7","Title":"Kupongide reeglid","Url":"kupongi-reeglid","AltUrl":null,"InfoPageCategoryId":1},{"Id":"bb913680-1179-484a-b9ed-d7769a8140c9","Title":"Kampaaniate tingimused","Url":"kampaania","AltUrl":null,"InfoPageCategoryId":1}]},{"Id":2,"Title":"Abi","InfoPages":[{"Id":"1a941d3f-b8ca-4e8f-a7d4-6cfce76d19c4","Title":"Tellimuse täiendamine","Url":"tellimuse-taiendamine","AltUrl":null,"InfoPageCategoryId":2},{"Id":"e9ba8932-22e9-4e97-91de-060d503cecb6","Title":"Kauba ja raha tagastamine","Url":"kauba-tagastamine","AltUrl":null,"InfoPageCategoryId":2},{"Id":"1e9df8b4-70f3-438c-b2ea-ae8eb01b93cf","Title":"Korduma Kippuvad Küsimused","Url":"kkk","AltUrl":null,"InfoPageCategoryId":2},{"Id":"25d98742-6ae6-4fb4-ad56-8f736d760a41","Title":"Mobiiliäpp","Url":"mobiilirakendus","AltUrl":null,"InfoPageCategoryId":2},{"Id":"08c1741f-b193-4ac6-935a-042d29fb1c99","Title":"Oluline info","Url":"oluline-info","AltUrl":null,"InfoPageCategoryId":2}]},{"Id":3,"Title":"Meist","InfoPages":[{"Id":"f3ef0d75-b2f1-4681-98df-506b8d4cd4c2","Title":"Karjäär","Url":"karjaar","AltUrl":"https://karjaar.barbora.ee/","InfoPageCategoryId":3},{"Id":"eba8bcbc-ff35-4cee-84d3-3ae226252468","Title":"Kandideeri","Url":"kandideeri","AltUrl":null,"InfoPageCategoryId":3},{"Id":"a2bdb7c8-ff5b-4d6d-ab1e-0aa3ff6f77bc","Title":"Sotsiaalne vastutus","Url":"sotsiaalne-vastutus","AltUrl":null,"InfoPageCategoryId":3},{"Id":"a715abbf-6134-4886-8ce8-42a6ff826165","Title":"Toodete järjestus esilehel","Url":"toodete-jarjestus","AltUrl":null,"InfoPageCategoryId":3}]},{"Id":4,"Title":"Muu teave","InfoPages":[{"Id":"c3f88428-2e51-4530-8f0a-0256ba2f3d5d","Title":"Ostu- ja müügitingimused","Url":"ostu-muugitingimused","AltUrl":null,"InfoPageCategoryId":4},{"Id":"7a0a3486-bca4-40e9-8db2-5bfe8d62952b","Title":"Andmekaitsetingimused","Url":"privaatsuspoliitika","AltUrl":null,"InfoPageCategoryId":4},{"Id":"cea5e5c3-ff34-4f29-a801-ae4941e68d09","Title":"Juurdepääsetavus","Url":"juurdepaasetavus","AltUrl":null,"InfoPageCategoryId":4},{"Id":"f4075ade-dfe1-45ad-bd75-f65c4e2fef4e","Title":"WCAG 2.2 AA vastavusaruanne","Url":"wcag-2-2-aa-vastavusaruanne","AltUrl":null,"InfoPageCategoryId":4},{"Id":"bedc98bc-6e76-433b-9161-e3f298cb4cf6","Title":"EN 301 549 vastavusaruanne","Url":"en-301-549-vastavusaruanne","AltUrl":null,"InfoPageCategoryId":4}]}] || [];
+        if (window.b_info_pages.length > 0) {
+            window.b_info_pages.map(function (cols) {
+                return cols.InfoPages.map(function (page) {
+                    var urlString = "/info/urltoreplace";
+                    return Object.assign(page, { FullUrl: urlString.replace("urltoreplace", page.Url) })
+                });
+            });
+        }
+    </script>
+
+
+        <script type="7359e01edb650d01f5f76dc3-text/javascript">
+            window.cnstrc = window.cnstrc || {};
+            window.cnstrc.userSegments = "T032";
+        </script>
+
+        <script type="7359e01edb650d01f5f76dc3-text/javascript">
+            window.cnstrc = window.cnstrc || {};
+            window.cnstrc.testCell = "constructor_1";
+        </script>
+
+    
+<script data-cookieconsent="statistics" type="text/plain">
+        // google analytics
+        (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga("create", "UA-45214439-9", "auto", { allowLinker: true });
+
+        ga("require", "ec");
+
+
+        var customerId = '';
+        if (customerId !== null && customerId !== undefined && customerId !== "") {
+            ga('set', 'userId', customerId);
+        }
+        ga('send', 'pageview');
+</script>
+
+    
+
+<script data-cookieconsent="marketing" type="text/plain">
+	//Facebook Pixel init
+    !function (f, b, e, v, n, t, s) {
+    if (f.fbq) return; n = f.fbq = function () {
+    n.callMethod ?
+    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    }; if (!f._fbq) f._fbq = n;
+    n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+    t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+    }(window,
+    document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '261556848483061');
+    fbq('track', "PageView");
+</script>
+
+<script type="7359e01edb650d01f5f76dc3-text/javascript">
+
+    function Deferred() {
+		var self = this;
+		this.promise = new Promise(function(resolve, reject) {
+		  self.reject = reject
+		  self.resolve = resolve
+		})
+    }
+    window.fbLoaded = (new Deferred());
+
+    //Facebook SDK init
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '1301744606893644',
+            xfbml: true,
+            version: "v8.0",
+        });
+        fbLoaded.resolve()
+    };
+
+    (function (d, s, id) {
+        var js,
+            fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    })(document, "script", "facebook-jssdk");
+</script>
+
+    <script type="7359e01edb650d01f5f76dc3-text/javascript">
+        var userActions = {
+            click: "click",
+            elementClick: "elementClick",
+            detail: "detail",
+            addToCart: "addToCart",
+            removeFromCart: "removeFromCart",
+            checkoutStepRecommendations: "checkout-step-recommendations",
+            checkoutStepViewBasket: "checkout-step-view-basket",
+            checkoutStepShipping: "checkout-step-shipping",
+            checkoutStepPayment: "checkout-step-payment",
+            checkoutStepReceipt: "checkout-step-receipt",
+            purchase: "purchase",
+            completeRegistration: "CompleteRegistration",
+            impression: "impression",
+            internalPromotionClick: "internalPromotionClick",
+            promotionView: "promotionView",
+            promotionClick: "promotionClick",
+            checkoutStep: "checkoutStep",
+            login: "login",
+            register: "register",
+            couponProgramActivation: "couponProgramActivation"
+        };
+
+        var gaEventCategories = {
+            product: "product",
+            cart: "cart",
+            checkout: "checkout",
+            customer: "customer",
+            promotions: "promotions"
+        };
+
+        var reportToFacebook = function (action, data) {
+            if (typeof fbq === 'undefined') {
+                console.info("fbq is undefined");
+                return;
+            }
+            if (data === undefined) {
+                fbq('track', action);
+            }
+            else {
+                fbq('track', action, data);
+            }
+        };
+
+        var getInfoForFacebookFromProductList = function (products) {
+            return {
+                "content_ids": products.map(function (inv) { return inv.id; }),
+                "content_type": "product",
+                "contents": products.map(function (inv) {
+                    var sUnit = inv.units ? inv.units.find(function (obj) { return obj.unit === 'kg' }) : undefined;
+                    if (sUnit === undefined) {
+                        sUnit = inv.unit;
+                    }
+                    return {
+                        "id": inv.id,
+                        "quantity": inv.quantity_unit_independent ? inv.quantity_unit_independent : inv.quantity,
+                        "item_price": sUnit ? sUnit.price : inv.price
+                    }
+                })
+            };
+        }
+
+        var getInfoForFacebookFromProduct = function (product, value, currency) {
+            return {
+                "content_ids": product.id,
+                "content_type": "product",
+                "value": value,
+                "currency": currency
+            }
+        }
+
+        var getInfoForGoogleAnalyticsFromProductInfo = function (product, isImpression) {
+            if (isImpression !== true) {
+                isImpression = false;
+            }
+
+        
+
+        var productData = {};
+            var missingFields = [];
+            if (product.id !== null && product.id !== undefined) {
+                productData.id = product.id;
+            } else {
+                missingFields.push("id");
+            }
+
+            if (product.title !== null && product.title !== undefined) {
+                productData.name = product.title;
+            } else {
+                missingFields.push("title");
+            }
+
+            if (product.brand_name !== null && product.brand_name !== undefined) {
+                productData.brand = product.brand_name;
+            }
+
+            if (product.category_name_full_path !== null && product.category_name_full_path !== undefined) {
+                productData.category = product.category_name_full_path;
+            } else {
+                missingFields.push("category_name_full_path");
+            }
+
+            if (
+                (
+                    product.unit !== null &&
+                    product.unit !== undefined &&
+                    product.unit.price !== null &&
+                    product.unit.price !== undefined
+                ) ||
+                (
+                    product.price !== null &&
+                    product.price !== undefined
+                )
+            ) {
+                try {
+                    productData.price = product.unit.price;
+                } catch (e) {
+                    productData.price = product.price;
+                }
+            } else {
+                missingFields.push("price");
+            }
+
+            if (product.product_position_in_list !== null && product.product_position_in_list !== undefined) {
+                productData.position = product.product_position_in_list;
+            }
+
+            if (isImpression === false) {
+                if (product.quantity_unit_independent !== null && product.quantity_unit_independent !== undefined) {
+                    productData.quantity = product.quantity_unit_independent < 1 ? 1 : product.quantity_unit_independent;
+                } else if (product.quantity !== null && product.quantity !== undefined) {
+                    productData.quantity = product.quantity < 1 ? 1 : product.quantity;
+                }
+            }
+
+            if (isImpression === true) {
+                if (product.list !== null && product.list !== undefined) {
+                    productData.list = `${product.list} - ${product.sectionName}`;
+                } else {
+                    missingFields.push("list");
+                }
+            }
+
+            if (missingFields.length > 0) {
+                console.warn("missing fields: " + missingFields.join(", "));
+            }
+            return productData;
+        };
+
+        var gaIntercept = function () {
+            if (typeof ga === 'undefined') {
+                console.info('ga is undefined');
+                return;
+            }
+            var argumentsExcludingFirst = Array.prototype.slice.call(arguments, 1);
+
+            ga.apply(this, argumentsExcludingFirst);
+        };
+
+        var reportUserActionToThirdParty = function (action, data) {
+            var defaultCurrency = "EUR";
+            var dataForFb = null;
+            switch (action) {
+                case userActions.click:
+                    gaIntercept(userActions.click, "ec:addProduct", getInfoForGoogleAnalyticsFromProductInfo(data));
+                    gaIntercept(userActions.click, "ec:setAction", "click", {
+                        list: data.list
+                    });
+                    gaIntercept(userActions.click, "send", "event", gaEventCategories.product, action);
+                    break;
+
+                case userActions.detail:
+                    //gaIntercept(userActions.detail, "ec:addImpression", getInfoForGoogleAnalyticsFromProductInfo(data, true));
+                    gaIntercept(userActions.detail, "ec:addProduct", getInfoForGoogleAnalyticsFromProductInfo(data));
+                    gaIntercept(userActions.detail, "ec:setAction", "detail");
+                    gaIntercept(userActions.detail, "send", "event", gaEventCategories.product, action);
+                    dataForFb = getInfoForFacebookFromProduct(data, data.price, defaultCurrency);
+                    reportToFacebook("ViewContent", dataForFb);
+                    break;
+
+                case userActions.addToCart:
+                    gaIntercept(userActions.addToCart, "ec:addProduct", getInfoForGoogleAnalyticsFromProductInfo(data));
+                    gaIntercept(userActions.addToCart, "ec:setAction", "add", {
+                        list: `${data.list} - ${data.sectionName}`
+                    });
+                    gaIntercept(userActions.addToCart, "send", "event", gaEventCategories.cart, action);
+                    dataForFb = getInfoForFacebookFromProductList([data]);
+                    reportToFacebook("AddToCart", dataForFb);
+                    break;
+
+                case userActions.removeFromCart:
+                    gaIntercept(userActions.removeFromCart, "ec:addProduct", getInfoForGoogleAnalyticsFromProductInfo(data));
+                    gaIntercept(userActions.removeFromCart, "ec:setAction", "remove");
+                    gaIntercept(userActions.removeFromCart, "send", "event", gaEventCategories.cart, action);
+                    break;
+
+                case userActions.checkoutStepRecommendations:
+                    data.forEach(function (product) {
+                        gaIntercept(userActions.checkoutStepRecommendations, "ec:addProduct", getInfoForGoogleAnalyticsFromProductInfo(product));
+                    });
+                    gaIntercept(userActions.checkoutStepRecommendations, "ec:setAction", "checkout", {
+                        "step": 1
+                    });
+                    gaIntercept(userActions.checkoutStepRecommendations, "send", "event", gaEventCategories.checkout, action);
+                    break;
+
+                case userActions.checkoutStepViewBasket:
+                    data.forEach(function (product) {
+                        gaIntercept(userActions.checkoutStepViewBasket, "ec:addProduct", getInfoForGoogleAnalyticsFromProductInfo(product));
+                    });
+                    gaIntercept(userActions.checkoutStepViewBasket, "ec:setAction", "checkout", {
+                        "step": 2
+                    });
+                    gaIntercept(userActions.checkoutStepViewBasket, "send", "event", gaEventCategories.checkout, action);
+                    break;
+
+                case userActions.checkoutStepShipping:
+                    data.forEach(function (product) {
+                        gaIntercept(userActions.checkoutStepShipping, "ec:addProduct", getInfoForGoogleAnalyticsFromProductInfo(product));
+                    });
+                    gaIntercept(userActions.checkoutStepShipping, "ec:setAction", "checkout", {
+                        "step": 3
+                    });
+                    gaIntercept(userActions.checkoutStepShipping, "send", "event", gaEventCategories.checkout, action);
+                    break;
+
+                case userActions.checkoutStepPayment:
+                    data.forEach(function (product) {
+                        gaIntercept(userActions.checkoutStepPayment, "ec:addProduct", getInfoForGoogleAnalyticsFromProductInfo(product));
+                    });
+                    gaIntercept(userActions.checkoutStepPayment, "ec:setAction", "checkout", {
+                        "step": 4
+                    });
+                    gaIntercept(userActions.checkoutStepPayment, "send", "event", gaEventCategories.checkout, action);
+                    break;
+
+                case userActions.checkoutStepReceipt:
+                    try {
+                        data.inventoryInfo.forEach(function (product) {
+                            gaIntercept(userActions.checkoutStepReceipt, "ec:addProduct", getInfoForGoogleAnalyticsFromProductInfo(product));
+                        });
+                        gaIntercept(userActions.checkoutStepReceipt, "ec:setAction", "checkout", {
+                            "step": 5,
+                            "option": data.paymentSource
+                        });
+                        gaIntercept(userActions.checkoutStepReceipt, "send", "event", gaEventCategories.checkout, action);
+
+                    } catch (e) {
+                        globalThis.report.error('Error while processing checkout step receipt', err, {
+                            data: JSON.stringify(data),
+                        })
+                        console.log(e);
+                    }
+                    break;
+
+                case userActions.purchase:
+                    dataForFb = getInfoForFacebookFromProductList(data.products);
+                    dataForFb["value"] = data.orderPrice;
+                    dataForFb["currency"] = defaultCurrency;
+                    reportToFacebook("Purchase", dataForFb);
+
+                    // report to ga
+
+                    if (data.products !== null && data.products !== undefined && Array.isArray(data.products)) {
+                        data.products.forEach(function (product) {
+                            gaIntercept(userActions.purchase, "ec:addProduct", getInfoForGoogleAnalyticsFromProductInfo(product));
+                        });
+
+                        var purchaseData = {
+                            "id": data.orderId,
+                            "affiliation": data.shopCode,
+                            "revenue": data.orderPrice,
+                            "shipping": data.deliveryPrice,
+                        };
+
+                        if (data.coupon !== undefined && data.coupon !== null) {
+                            purchaseData.coupon = data.coupon;
+                        }
+
+                        gaIntercept(userActions.purchase, "ec:setAction", "purchase", purchaseData);
+
+                        gaIntercept(userActions.purchase, "send", "event", gaEventCategories.checkout, action);
+                    }
+
+                    break;
+
+                case userActions.internalPromotionClick:
+
+                    gaIntercept(userActions.internalPromotionClick, "ec:addPromo", {
+                        "id": data.id,
+                        "name": data.name,
+                        "position": data.position
+                    });
+                    gaIntercept(userActions.internalPromotionClick, "ec:setAction", "promo_click");
+                    gaIntercept(userActions.internalPromotionClick, "send", "event", "Internal Promotions", "click", data.name);
+                    break;
+
+                case userActions.impression:
+                    data.forEach(function (product) {
+                        gaIntercept(userActions.impression, "ec:addImpression", getInfoForGoogleAnalyticsFromProductInfo(product, true));
+                    });
+                    gaIntercept(userActions.impression, "send", "event", gaEventCategories.product, action);
+                    break;
+
+                case userActions.completeRegistration:
+                    gaIntercept(userActions.completeRegistration, "send", "event", gaEventCategories.customer, action);
+                    reportToFacebook(action, data);
+                    break;
+
+                default:
+                    reportToFacebook(action, data);
+            }
+        };
+
+
+        var reportUserActionToGtm = function (action, data, sectionTitle = null) {
+            window.dataLayer = window.dataLayer || [];
+            switch (action) {
+                case userActions.click:
+                    window.dataLayer.push({
+                        event: "click",
+                        elementName: data
+                    });
+                    break;
+                case userActions.elementClick:
+                    window.dataLayer.push({
+                        event: "elementClick",
+                        elementName: data,
+                        sectionName: sectionTitle
+                    });
+                    break;
+
+                case userActions.addToCart:
+                    window.dataLayer.push({
+                        event: "eec.add",
+                        ecommerce: data,
+                    });
+                    break;
+
+                case userActions.promotionView:
+                    try {
+                        window.dataLayer.push({
+                            event: "eec.promotionView",
+                            ecommerce: data,
+                        });
+                    } catch (err) {
+                        const { id, name, creative } = data;
+                        globalThis.report.error('Error while reporting promotionView event to gtm', err, {
+                            id,
+                            name,
+                            creative
+                        })
+                    }
+                    break;
+
+                case userActions.promotionClick:
+                    window.dataLayer.push({
+                        event: "eec.promotionClick",
+                        ecommerce: data,
+                    });
+                    break;
+
+                case userActions.checkoutStep:
+                    window.dataLayer.push({
+                        event: "eec.ecommerce",
+                        ecommerce: data,
+                    });
+                    break;
+
+                case userActions.login:
+                    window.dataLayer.push({
+                        event: "eec.login",
+                        login: data,
+                    });
+                    break;
+
+                case userActions.register:
+                    window.dataLayer.push({
+                        event: "register",
+                        register: data
+                    });
+
+
+                case userActions.couponProgramActivation:
+                    window.dataLayer.push({
+                        event: "couponProgramActivation",
+                        couponProgram: data
+                    });
+
+                default:
+                    break;
+            }
+        };
+    </script>
+
+    
+<script type="7359e01edb650d01f5f76dc3-text/javascript">
+    var ga4EventTypes = {
+        viewItemList: "view_item_list",
+        viewItem: "view_item",
+        viewPromotion: "view_promotion",
+        selectPromotion: "select_promotion",
+        addToCart: "add_to_cart",
+        removeFromCart: "remove_from_cart",
+        beginCheckout: "begin_checkout",
+        purchase: "purchase",
+        socialRegisterStart: "social_register_start",
+        socialRegisterEnd: "social_register_end",
+        socialLogin: "social_login",
+        viewCategory: "view_category",
+        clickCategory: "click_category",
+        clickRegistration: "click_registration",
+        clickRegistrationTab: "click_registration_tab"
+    };
+
+    var reportUserActionToGa4 = function(eventType, eCommerceObj) {
+        if (typeof window.shouldReportEvent === 'function' && !window.shouldReportEvent(eventType)) {
+            return;
+        }
+
+        window.dataLayer = window.dataLayer || []
+
+        window.dataLayer.push({ecommerce: null}); // Clear ecommerce obj as recommended
+        
+        dataLayerObj = {
+            event: eventType,
+            ecommerce: eCommerceObj,
+        };
+
+        window.dataLayer.push(dataLayerObj);
+    };
+</script>
+
+
+    
+
+            <script data-cookieconsent="marketing" type="text/plain">
+            (function(w,d,s,l,i) {
+            w[l]=w[l]||[];
+            w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+            var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+            j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+            f.parentNode.insertBefore(j,f);
+            })(window, document, 'script', 'dataLayer', 'GTM-PJ8ML47');
+
+            window.dataLayer = window.dataLayer || [];
+            var customerId = "";
+            if (customerId !== null && customerId !== undefined) {
+            window.dataLayer.push({
+            'userID': customerId
+            })
+            }
+        </script>
+
+
+
+    <!-- Start SmartBanner configuration -->
+    <meta name="smartbanner:title" content="BARBORA">
+    <meta name="smartbanner:author" content="Osta mugavamalt rakenduse&lt;br/&gt;kaudu!">
+    <meta name="smartbanner:icon-apple" content="/Assets/Images/icons/barbora-logo-ee-512.png">
+    <meta name="smartbanner:icon-google" content="/Assets/Images/icons/barbora-logo-ee-512.png">
+    <meta name="smartbanner:button" content="Ava">
+    <meta name="smartbanner:button-url-apple"
+        content="https://apps.apple.com/ee/app/barbora-ee/id1339130115">
+    <meta name="smartbanner:button-url-google" content="intent://home#Intent;scheme=barbora;package=ee.barbora;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dee.barbora;end">
+    <meta name="smartbanner:enabled-platforms" content="android,ios">
+    <meta name="smartbanner:close-label" content="Sulge">
+    <meta name="smartbanner:hide-path" content="/">
+    <meta name="smartbanner:hide-ttl" content="604800000">
+    <!-- End SmartBanner configuration -->
+
+
+
+</head>
+
+
+
+<body class="">
+
+    <div id="next-styles-placeholder"></div>
+
+    <script type="7359e01edb650d01f5f76dc3-text/javascript">
+        // load svg icons, cached by browser
+        var ajax = new XMLHttpRequest();
+        ajax.open("GET", "/Assets/Images/svg-compiled/symbol/svg/sprite.symbol.svg" + "?v=1.49.0", true);
+        ajax.setRequestHeader("Cache-Control", "max-age=" + "86400");
+        ajax.send();
+        ajax.onload = function () {
+            var div = document.createElement("div");
+            div.style.display = "none";
+            div.innerHTML = ajax.responseText;
+            document.body.insertBefore(div, document.body.childNodes[0]);
+        }
+    </script>
+
+    
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJ8ML47" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+    <div class="b-app" style="visibility: hidden;">
+        <div class="b-app-bg tw-bg-neutral-100">
+            <div style="display:none;" class="b-alert--warning b-ie-warning">
+                Te kasutate vananenud veebilehitsejat. Ostlete kiiremini ja mugavamalt, kui laete alla uusima <a href="https://www.google.com/chrome/browser/desktop/index.html"
+                        target="blank">Google Chrome</a> või <a href="https://www.mozilla.org/lt/firefox/new/" target="_blank">Mozilla
+                        Firefox</a> versiooni.
+            </div>
+
+            
+
+
+<script type="7359e01edb650d01f5f76dc3-text/javascript">
+    function sendLoginClickEvent() {
+        var login = {
+            loginType: "email",
+            clicked_login: true
+        };
+        window.reportUserActionToGtm("login", login);
+    }
+</script>
+
+
+
+
+            
+
+
+<script type="7359e01edb650d01f5f76dc3-text/javascript">
+    var sendLoginClickEvent = () => {
+        const login = {
+            loginType: "email/social",
+            clicked_login: true
+        };
+        window.reportUserActionToGtm("login", login);
+    }
+
+    var sendRegisterClickEvent = () => {
+        const register = {
+            registrationType: "email/social",
+            clicked_register: true
+        };
+        window.reportUserActionToGtm("register", register);
+    }
+</script>
+        <div id="desktop-newsletter-subscription-placeholder"></div>
+        <div id="desktop-information-banner-placeholder"></div>
+        <div class="new-header-placeholder"></div>
+
+
+
+            <div class="container-fluid">
+
+
+                <div
+                    class="b-main-content ">
+
+                    
+
+
+
+    <div id="desktop-menu-placeholder"></div>
+
+                    
+
+
+    <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList" style="padding-left: 0px;">
+
+                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                    <meta itemprop="position" content="1" />
+                    
+
+
+<a itemprop="item" href="https://barbora.ee/" title="Pealeht">
+    <span itemprop="name">
+        Pealeht
+    </span>
+</a>
+                </li>
+                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                    <meta itemprop="position" content="2" />
+                    
+
+
+<a itemprop="item" href="https://barbora.ee/pakkumised" title="Kampaaniad">
+    <span itemprop="name">
+        Kampaaniad
+    </span>
+</a>
+                </li>
+
+    </ol>
+
+
+                    
+
+    <div class="b-sidebar">
+
+        <div class="b-cart--placeholder"></div>
+
+    </div>
+
+
+                    <div class="b-page-specific-content">
+                        
+
+
+
+
+<script type="7359e01edb650d01f5f76dc3-text/javascript">
+    window.cshtml = window.cshtml || {}
+    window.cshtml['category-banner-data'] = `[{&quot;list&quot;:&quot;ProductsListOffersBanner&quot;,&quot;link&quot;:&quot;/prekiu-grupe/cocacolalanding&quot;,&quot;img&quot;:&quot;https://cdn.barbora.ee/banners/cee039ed-b101-4ed3-afff-67d2e499d308.jpeg&quot;,&quot;mobileId&quot;:&quot;0cd12153-8174-4780-8be4-b32f3ea0e200&quot;,&quot;mobileImg&quot;:&quot;https://cdn.barbora.ee/banners/301638c0-f9be-463f-89a1-7a2c415996b6.jpeg&quot;,&quot;name&quot;:&quot;Coca Cola&quot;,&quot;externalResourceUrl&quot;:&quot;&quot;,&quot;id&quot;:&quot;3a74bf99-fc47-4c70-bcdc-ca029915038b&quot;,&quot;locationId&quot;:&quot;offers_page_banner&quot;,&quot;locationName&quot;:&quot;Banner in Offers page&quot;}]`
+</script>
+
+<div class="b-category-banner"></div>
+
+<div class="b-category-children--wrap b-pseudoselect offers-products-navigation" hidden>
+
+ 
+
+<div class="b-category-children b-pseudoselect--items">
+    <hr class="b-zig-zag-fat" />
+
+    <div class="b-pagination-wrapper b-pagination-wrapper--desktop-top">
+        
+
+
+
+
+    <ul class="pagination">
+
+            <li><a href="/pakkumised">&laquo;</a></li>
+                <li class=active>
+                    <a href="/pakkumised">1</a>
+                </li>
+                <li >
+                    <a href="/pakkumised?page=2">2</a>
+                </li>
+                <li >
+                    <a href="/pakkumised?page=3">3</a>
+                </li>
+                <li >
+                    <a href="/pakkumised?page=4">4</a>
+                </li>
+                <li >
+                    <a href="/pakkumised?page=5">5</a>
+                </li>
+                <li><a href="/pakkumised?page=6">...</a></li>
+            <li><a href="/pakkumised?page=2">&raquo;</a></li>
+
+    </ul>
+
+
+
+
+    </div>
+
+
+
+    <div class="b-filter-order ">
+
+        <div class="row">
+            <div class="col-xs-6 col-md-4" style="padding-right: 0">
+            </div>
+            <div class="col-xs-6 col-md-3 col-md-push-5">
+                    <select class="b-orderby form-control">
+                        <option value="default">Sorteeri:</option>
+                            <option value="SortByPopularity" >Populaarsuse j&#228;rgi</option>
+                            <option value="SortByBrandName" >Kaubam&#228;rk</option>
+                            <option value="SortByDiscount" >Kampaaniahindu</option>
+                    </select>
+            </div>
+        </div>
+        <div class="clearfix b-filter-order--filter"></div>
+
+    </div>
+</div>
+</div>
+
+<script type="7359e01edb650d01f5f76dc3-text/javascript">
+    window.b_productList = [{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":2.09,"retail_price":2.99,"unit":"tk","min":1.0,"max":12.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":true,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000010994","title":"Kons. herned BONDUELLE 660g","category_id":"3fdea35f-ff21-4704-b2b6-6e3ba19ce68b","category_name_full_path":"Kauasäilivad toidukaubad/Hoidised ja konservid/Konserveeritud maisid, herned, oad","category_path_url":"kauasailivad-toidukaubad/hoidised-ja-konservid/konserveeritud-maisid-herned-oad","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"BONDUELLE","brand_id":571,"shopcode":"T032","price":2.09,"retail_price":2.99,"image":"https://cdn.barbora.ee/products/e75919b4-79f7-4118-8d48-6a92413c2a90_s.png","big_image":"https://cdn.barbora.ee/products/e75919b4-79f7-4118-8d48-6a92413c2a90_m.png","comparative_unit":"kg","comparative_unit_price":3.17,"comparative_unit_price_brutto":4.53,"comparative_unit_price_netto":4.49,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":2.99,"oldComparativeRate":4.53,"oldComparativeRateNetto":6.43,"percentage":30,"minQuantity":1,"orMore":false,"id":"3495043","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"kons-herned-bonduelle-660-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":2.39,"retail_price":3.45,"unit":"tk","min":1.0,"max":12.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000010996","title":"Rohelised herned BONDUELLE 800g","category_id":"3fdea35f-ff21-4704-b2b6-6e3ba19ce68b","category_name_full_path":"Kauasäilivad toidukaubad/Hoidised ja konservid/Konserveeritud maisid, herned, oad","category_path_url":"kauasailivad-toidukaubad/hoidised-ja-konservid/konserveeritud-maisid-herned-oad","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"BONDUELLE","brand_id":571,"shopcode":"T032","price":2.39,"retail_price":3.45,"image":"https://cdn.barbora.ee/products/2dce584b-fd49-44c8-8afa-293104b2b1e6_s.png","big_image":"https://cdn.barbora.ee/products/2dce584b-fd49-44c8-8afa-293104b2b1e6_m.png","comparative_unit":"kg","comparative_unit_price":2.99,"comparative_unit_price_brutto":4.31,"comparative_unit_price_netto":4.51,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":3.45,"oldComparativeRate":4.31,"oldComparativeRateNetto":6.51,"percentage":31,"minQuantity":1,"orMore":false,"id":"3495044","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"rohelised-herned-bonduelle-800-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.39,"retail_price":1.99,"unit":"tk","min":1.0,"max":12.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000010997","title":"Kons. herned BONDUELLE 400g","category_id":"3fdea35f-ff21-4704-b2b6-6e3ba19ce68b","category_name_full_path":"Kauasäilivad toidukaubad/Hoidised ja konservid/Konserveeritud maisid, herned, oad","category_path_url":"kauasailivad-toidukaubad/hoidised-ja-konservid/konserveeritud-maisid-herned-oad","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"BONDUELLE","brand_id":571,"shopcode":"T032","price":1.39,"retail_price":1.99,"image":"https://cdn.barbora.ee/products/94f77dcd-ef62-47c0-993a-867538af1bf4_s.png","big_image":"https://cdn.barbora.ee/products/94f77dcd-ef62-47c0-993a-867538af1bf4_m.png","comparative_unit":"kg","comparative_unit_price":3.48,"comparative_unit_price_brutto":4.98,"comparative_unit_price_netto":5.25,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":1.99,"oldComparativeRate":4.98,"oldComparativeRateNetto":7.51,"percentage":30,"minQuantity":1,"orMore":false,"id":"3495045","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"kons-herned-bonduelle-400-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.56,"retail_price":5.09,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"869":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-11","CampaignDateTo":"2026-06-30","EAN":"20260511-01","Id":869,"IsHidden":false,"Name":"Always sample","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000011591","title":"Hügieenisidemed ALWAYS Ultra S2 16tk","category_id":"abf467ad-faf2-43b7-af9e-133f154cf78d","category_name_full_path":"Enesehooldustooted/Intiimhügieeni vahendid/Hügieenisidemed","category_path_url":"enesehooldustooted/intiimhugieeni-vahendid/hugieenisidemed","root_category_id":"5ebed6d5-9f7d-4ddf-a5bf-ab5692ae5d54","brand_name":"ALWAYS","brand_id":488,"shopcode":"T032","price":3.56,"retail_price":5.09,"image":"https://cdn.barbora.ee/products/4b9b0c45-f8c1-4227-b85a-0be6c8a96b2b_s.png","big_image":"https://cdn.barbora.ee/products/4b9b0c45-f8c1-4227-b85a-0be6c8a96b2b_m.png","comparative_unit":"tk","comparative_unit_price":0.22,"comparative_unit_price_brutto":0.32,"comparative_unit_price_netto":0.22,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":5.09,"oldComparativeRate":0.32,"oldComparativeRateNetto":0.32,"percentage":30,"minQuantity":1,"orMore":false,"id":"3545854","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"hugieenisidemed-always-ultra-s-2-16-tk","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.55,"retail_price":5.07,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"869":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-11","CampaignDateTo":"2026-06-30","EAN":"20260511-01","Id":869,"IsHidden":false,"Name":"Always sample","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000011592","title":"Hügieenisidemed ALWAYS Ultra S1 20tk","category_id":"abf467ad-faf2-43b7-af9e-133f154cf78d","category_name_full_path":"Enesehooldustooted/Intiimhügieeni vahendid/Hügieenisidemed","category_path_url":"enesehooldustooted/intiimhugieeni-vahendid/hugieenisidemed","root_category_id":"5ebed6d5-9f7d-4ddf-a5bf-ab5692ae5d54","brand_name":"ALWAYS","brand_id":488,"shopcode":"T032","price":3.55,"retail_price":5.07,"image":"https://cdn.barbora.ee/products/e0ee58e2-c5b3-4af9-bcdd-db52311fed7a_s.png","big_image":"https://cdn.barbora.ee/products/e0ee58e2-c5b3-4af9-bcdd-db52311fed7a_m.png","comparative_unit":"tk","comparative_unit_price":0.18,"comparative_unit_price_brutto":0.25,"comparative_unit_price_netto":0.18,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":5.07,"oldComparativeRate":0.25,"oldComparativeRateNetto":0.25,"percentage":30,"minQuantity":1,"orMore":false,"id":"3545867","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"hugieenisidemed-always-ultra-s-1-20-tk","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.99,"retail_price":2.85,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"869":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-11","CampaignDateTo":"2026-06-30","EAN":"20260511-01","Id":869,"IsHidden":false,"Name":"Always sample","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000011595","title":"Hügieenisidemed ALWAYS Ultra S3 7tk","category_id":"abf467ad-faf2-43b7-af9e-133f154cf78d","category_name_full_path":"Enesehooldustooted/Intiimhügieeni vahendid/Hügieenisidemed","category_path_url":"enesehooldustooted/intiimhugieeni-vahendid/hugieenisidemed","root_category_id":"5ebed6d5-9f7d-4ddf-a5bf-ab5692ae5d54","brand_name":"ALWAYS","brand_id":488,"shopcode":"T032","price":1.99,"retail_price":2.85,"image":"https://cdn.barbora.ee/products/0c837648-33f2-4d0b-83a2-2d5c42742ca7_s.png","big_image":"https://cdn.barbora.ee/products/0c837648-33f2-4d0b-83a2-2d5c42742ca7_m.png","comparative_unit":"tk","comparative_unit_price":0.29,"comparative_unit_price_brutto":0.41,"comparative_unit_price_netto":0.29,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":2.85,"oldComparativeRate":0.41,"oldComparativeRateNetto":0.41,"percentage":30,"minQuantity":1,"orMore":false,"id":"3596306","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"hugieenisidemed-always-ultra-s-3-7-tk","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.56,"retail_price":5.09,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"869":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-11","CampaignDateTo":"2026-06-30","EAN":"20260511-01","Id":869,"IsHidden":false,"Name":"Always sample","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000011599","title":"Hügieenisidemed ALWAYS Ultra S3 14tk","category_id":"abf467ad-faf2-43b7-af9e-133f154cf78d","category_name_full_path":"Enesehooldustooted/Intiimhügieeni vahendid/Hügieenisidemed","category_path_url":"enesehooldustooted/intiimhugieeni-vahendid/hugieenisidemed","root_category_id":"5ebed6d5-9f7d-4ddf-a5bf-ab5692ae5d54","brand_name":"ALWAYS","brand_id":488,"shopcode":"T032","price":3.56,"retail_price":5.09,"image":"https://cdn.barbora.ee/products/4d81e3a4-d6b4-4f8d-91c2-abba4a132053_s.png","big_image":"https://cdn.barbora.ee/products/4d81e3a4-d6b4-4f8d-91c2-abba4a132053_m.png","comparative_unit":"tk","comparative_unit_price":0.25,"comparative_unit_price_brutto":0.36,"comparative_unit_price_netto":0.25,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":5.09,"oldComparativeRate":0.36,"oldComparativeRateNetto":0.36,"percentage":30,"minQuantity":1,"orMore":false,"id":"3545855","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"hugieenisidemed-always-ultra-s-3-14-tk","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.99,"retail_price":2.85,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"869":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-11","CampaignDateTo":"2026-06-30","EAN":"20260511-01","Id":869,"IsHidden":false,"Name":"Always sample","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000011601","title":"Hügieenisidemed ALWAYS UltraSuper S2 8tk","category_id":"abf467ad-faf2-43b7-af9e-133f154cf78d","category_name_full_path":"Enesehooldustooted/Intiimhügieeni vahendid/Hügieenisidemed","category_path_url":"enesehooldustooted/intiimhugieeni-vahendid/hugieenisidemed","root_category_id":"5ebed6d5-9f7d-4ddf-a5bf-ab5692ae5d54","brand_name":"ALWAYS","brand_id":488,"shopcode":"T032","price":1.99,"retail_price":2.85,"image":"https://cdn.barbora.ee/products/ed904176-ad62-4999-8108-d8416dd1f47e_s.png","big_image":"https://cdn.barbora.ee/products/ed904176-ad62-4999-8108-d8416dd1f47e_m.png","comparative_unit":"tk","comparative_unit_price":0.25,"comparative_unit_price_brutto":0.36,"comparative_unit_price_netto":0.25,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":2.85,"oldComparativeRate":0.36,"oldComparativeRateNetto":0.36,"percentage":30,"minQuantity":1,"orMore":false,"id":"3596305","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"hugieenisidemed-always-ultrasuper-s-2-8-tk","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":2.09,"retail_price":2.79,"unit":"tk","min":1.0,"max":8.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000013327","title":"Must ploom ARIMEX 200g","category_id":"cc1500df-8c91-42d7-b946-2f8bc4e1dda5","category_name_full_path":"Kauasäilivad toidukaubad/Snäkid/Kuivatatud marjad ja puuviljad","category_path_url":"kauasailivad-toidukaubad/snakid/kuivatatud-marjad-ja-puuviljad","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"ARIMEX","brand_id":1248,"shopcode":"T032","price":2.09,"retail_price":2.79,"image":"https://cdn.barbora.ee/products/5c9ad4a5-dd93-4632-bb35-5912a838766c_s.png","big_image":"https://cdn.barbora.ee/products/5c9ad4a5-dd93-4632-bb35-5912a838766c_m.png","comparative_unit":"kg","comparative_unit_price":10.45,"comparative_unit_price_brutto":13.95,"comparative_unit_price_netto":10.45,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":2.79,"oldComparativeRate":13.95,"oldComparativeRateNetto":13.95,"percentage":25,"minQuantity":1,"orMore":false,"id":"3546055","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"must-ploom-arimex-200-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.99,"retail_price":2.85,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"869":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-11","CampaignDateTo":"2026-06-30","EAN":"20260511-01","Id":869,"IsHidden":false,"Name":"Always sample","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000014019","title":"Hügieenisidemed ALWAYS Ultra S1 10tk","category_id":"abf467ad-faf2-43b7-af9e-133f154cf78d","category_name_full_path":"Enesehooldustooted/Intiimhügieeni vahendid/Hügieenisidemed","category_path_url":"enesehooldustooted/intiimhugieeni-vahendid/hugieenisidemed","root_category_id":"5ebed6d5-9f7d-4ddf-a5bf-ab5692ae5d54","brand_name":"ALWAYS","brand_id":488,"shopcode":"T032","price":1.99,"retail_price":2.85,"image":"https://cdn.barbora.ee/products/f010f98c-9c15-48b3-9c59-094e2ee064f5_s.png","big_image":"https://cdn.barbora.ee/products/f010f98c-9c15-48b3-9c59-094e2ee064f5_m.png","comparative_unit":"tk","comparative_unit_price":0.20,"comparative_unit_price_brutto":0.29,"comparative_unit_price_netto":0.20,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":2.85,"oldComparativeRate":0.29,"oldComparativeRateNetto":0.29,"percentage":30,"minQuantity":1,"orMore":false,"id":"3596304","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"hugieenisidemed-always-ultra-s-1-10-tk","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.75,"retail_price":3.99,"unit":"kg","min":0.7,"max":10.0,"step":0.7,"defaultValue":0.7}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000014572","title":"Kabatšokk, kg","category_id":"ede544ad-3ea5-4769-876a-4e3c8f55de1b","category_name_full_path":"Köögiviljad, puuviljad/Köögiviljad ja aedviljad/Kõrvitsad ja suvikõrvitsad","category_path_url":"koogiviljad-puuviljad/koogiviljad-ja-aedviljad/korvitsad-ja-suvikorvitsad","root_category_id":"2456a910-eacb-4537-b214-17ed21682888","brand_name":"","brand_id":null,"shopcode":"T032","price":1.75,"retail_price":3.99,"image":"https://cdn.barbora.ee/products/6cb870d1-cb23-4236-a950-6e0ff86276c2_s.png","big_image":"https://cdn.barbora.ee/products/6cb870d1-cb23-4236-a950-6e0ff86276c2_m.png","comparative_unit":"kg","comparative_unit_price":1.75,"comparative_unit_price_brutto":3.99,"comparative_unit_price_netto":1.75,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":3.99,"oldComparativeRate":3.99,"oldComparativeRateNetto":3.99,"percentage":56,"minQuantity":1,"orMore":false,"id":"3583969","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"kabatsokk-kg","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":2.21,"retail_price":3.69,"unit":"tk","min":1.0,"max":6.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000017359","title":"Must lehetee DILMAH karp 100g","category_id":"76da132c-ae6b-4c37-a407-199f7ae97179","category_name_full_path":"Joogid/Kohv, tee, kakao/Must tee","category_path_url":"joogid/kohv-tee-kakao/must-tee","root_category_id":"4a1f4362-1822-49c3-bdda-b8fd2d3171dc","brand_name":"DILMAH","brand_id":1611,"shopcode":"T032","price":2.21,"retail_price":3.69,"image":"https://cdn.barbora.ee/products/4513199d-2a3b-4c33-bd64-da8c770e20bc_s.png","big_image":"https://cdn.barbora.ee/products/4513199d-2a3b-4c33-bd64-da8c770e20bc_m.png","comparative_unit":"kg","comparative_unit_price":22.1,"comparative_unit_price_brutto":36.9,"comparative_unit_price_netto":22.1,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":3.69,"oldComparativeRate":36.9,"oldComparativeRateNetto":36.9,"percentage":40,"minQuantity":1,"orMore":false,"id":"3537465","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"must-lehetee-dilmah-karp-100-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.77,"retail_price":2.95,"unit":"tk","min":1.0,"max":6.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000027409","title":"Must tee DILMAH 100g","category_id":"76da132c-ae6b-4c37-a407-199f7ae97179","category_name_full_path":"Joogid/Kohv, tee, kakao/Must tee","category_path_url":"joogid/kohv-tee-kakao/must-tee","root_category_id":"4a1f4362-1822-49c3-bdda-b8fd2d3171dc","brand_name":"DILMAH","brand_id":1611,"shopcode":"T032","price":1.77,"retail_price":2.95,"image":"https://cdn.barbora.ee/products/2bef80ee-8eb9-41d5-8d48-4bb9d2976399_s.png","big_image":"https://cdn.barbora.ee/products/2bef80ee-8eb9-41d5-8d48-4bb9d2976399_m.png","comparative_unit":"kg","comparative_unit_price":17.7,"comparative_unit_price_brutto":29.5,"comparative_unit_price_netto":17.7,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":2.95,"oldComparativeRate":29.5,"oldComparativeRateNetto":29.5,"percentage":40,"minQuantity":1,"orMore":false,"id":"3537466","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"must-tee-dilmah-100-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.83,"retail_price":6.39,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000030188","title":"Mähkmealune kreem BÜBCHEN Baby,150ml","category_id":"98671ab4-9603-44e8-b868-9fda7b005fe2","category_name_full_path":"Lastekaubad/Laste hügieenitarbed/Kehahooldus lastele","category_path_url":"lastekaubad/laste-hugieenitarbed/kehahooldus-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"BÜBCHEN","brand_id":371,"shopcode":"T032","price":3.83,"retail_price":6.39,"image":"https://cdn.barbora.ee/products/a18ec8f9-3005-4c45-bada-c38bb947c625_s.png","big_image":"https://cdn.barbora.ee/products/a18ec8f9-3005-4c45-bada-c38bb947c625_m.png","comparative_unit":"l","comparative_unit_price":25.53,"comparative_unit_price_brutto":42.6,"comparative_unit_price_netto":25.53,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":6.39,"oldComparativeRate":42.6,"oldComparativeRateNetto":42.6,"percentage":40,"minQuantity":1,"orMore":false,"id":"3531899","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"mahkmealune-kreem-bubchen-baby-150-ml","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":5.43,"retail_price":9.05,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000030193","title":"Laste vannivaht BUBCHEN 400ml","category_id":"98671ab4-9603-44e8-b868-9fda7b005fe2","category_name_full_path":"Lastekaubad/Laste hügieenitarbed/Kehahooldus lastele","category_path_url":"lastekaubad/laste-hugieenitarbed/kehahooldus-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"BÜBCHEN","brand_id":371,"shopcode":"T032","price":5.43,"retail_price":9.05,"image":"https://cdn.barbora.ee/products/9522ca9f-3bde-4f02-879f-891f37b8d33c_s.png","big_image":"https://cdn.barbora.ee/products/9522ca9f-3bde-4f02-879f-891f37b8d33c_m.png","comparative_unit":"l","comparative_unit_price":13.58,"comparative_unit_price_brutto":22.63,"comparative_unit_price_netto":13.58,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":9.05,"oldComparativeRate":22.63,"oldComparativeRateNetto":22.63,"percentage":40,"minQuantity":1,"orMore":false,"id":"3531900","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"laste-vannivaht-bubchen-400-ml","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":2.87,"retail_price":4.79,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000030194","title":"Kreem BÜBCHEN Hooldav 75ml","category_id":"98671ab4-9603-44e8-b868-9fda7b005fe2","category_name_full_path":"Lastekaubad/Laste hügieenitarbed/Kehahooldus lastele","category_path_url":"lastekaubad/laste-hugieenitarbed/kehahooldus-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"BÜBCHEN","brand_id":371,"shopcode":"T032","price":2.87,"retail_price":4.79,"image":"https://cdn.barbora.ee/products/237a3dfb-d676-46e9-911f-ca8ba4050af6_s.png","big_image":"https://cdn.barbora.ee/products/237a3dfb-d676-46e9-911f-ca8ba4050af6_m.png","comparative_unit":"l","comparative_unit_price":38.27,"comparative_unit_price_brutto":63.87,"comparative_unit_price_netto":38.27,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":4.79,"oldComparativeRate":63.87,"oldComparativeRateNetto":63.87,"percentage":40,"minQuantity":1,"orMore":false,"id":"3531901","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"kreem-bubchen-hooldav-75-ml","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.17,"retail_price":5.29,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000030195","title":"Niisutav ihupiim BUBCHEN sensitive 200ml","category_id":"98671ab4-9603-44e8-b868-9fda7b005fe2","category_name_full_path":"Lastekaubad/Laste hügieenitarbed/Kehahooldus lastele","category_path_url":"lastekaubad/laste-hugieenitarbed/kehahooldus-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"BÜBCHEN","brand_id":371,"shopcode":"T032","price":3.17,"retail_price":5.29,"image":"https://cdn.barbora.ee/products/03cfabcc-4bcd-4b86-9934-59decdfa48f7_s.png","big_image":"https://cdn.barbora.ee/products/03cfabcc-4bcd-4b86-9934-59decdfa48f7_m.png","comparative_unit":"l","comparative_unit_price":15.85,"comparative_unit_price_brutto":26.45,"comparative_unit_price_netto":15.85,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":5.29,"oldComparativeRate":26.45,"oldComparativeRateNetto":26.45,"percentage":40,"minQuantity":1,"orMore":false,"id":"3531902","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"niisutav-ihupiim-bubchen-sensitive-200-ml","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.89,"retail_price":3.15,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000030198","title":"Beebiseep BUBCHEN camomile 125g","category_id":"98671ab4-9603-44e8-b868-9fda7b005fe2","category_name_full_path":"Lastekaubad/Laste hügieenitarbed/Kehahooldus lastele","category_path_url":"lastekaubad/laste-hugieenitarbed/kehahooldus-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"BÜBCHEN","brand_id":371,"shopcode":"T032","price":1.89,"retail_price":3.15,"image":"https://cdn.barbora.ee/products/3d645f1c-6834-4be8-a22c-4b4bdd1521fd_s.png","big_image":"https://cdn.barbora.ee/products/3d645f1c-6834-4be8-a22c-4b4bdd1521fd_m.png","comparative_unit":"kg","comparative_unit_price":15.12,"comparative_unit_price_brutto":25.2,"comparative_unit_price_netto":15.12,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":3.15,"oldComparativeRate":25.2,"oldComparativeRateNetto":25.2,"percentage":40,"minQuantity":1,"orMore":false,"id":"3531903","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"beebiseep-bubchen-camomile-125-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.05,"retail_price":5.09,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000030203","title":"Lastešampoon BUBCHEN,200ml","category_id":"43594d3f-be4e-41d7-b94d-e1fc8fff0fc1","category_name_full_path":"Lastekaubad/Laste hügieenitarbed/Juuksehooldus lastele","category_path_url":"lastekaubad/laste-hugieenitarbed/juuksehooldus-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"BÜBCHEN","brand_id":371,"shopcode":"T032","price":3.05,"retail_price":5.09,"image":"https://cdn.barbora.ee/products/50d38736-6a78-4ee4-8a05-6b862f4f7380_s.png","big_image":"https://cdn.barbora.ee/products/50d38736-6a78-4ee4-8a05-6b862f4f7380_m.png","comparative_unit":"l","comparative_unit_price":15.25,"comparative_unit_price_brutto":25.45,"comparative_unit_price_netto":15.25,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":5.09,"oldComparativeRate":25.45,"oldComparativeRateNetto":25.45,"percentage":40,"minQuantity":1,"orMore":false,"id":"3531904","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"lastesampoon-bubchen-200-ml","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.95,"retail_price":6.59,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000030204","title":"Beebiõli BUBCHEN sensitive 200ml","category_id":"98671ab4-9603-44e8-b868-9fda7b005fe2","category_name_full_path":"Lastekaubad/Laste hügieenitarbed/Kehahooldus lastele","category_path_url":"lastekaubad/laste-hugieenitarbed/kehahooldus-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"BÜBCHEN","brand_id":371,"shopcode":"T032","price":3.95,"retail_price":6.59,"image":"https://cdn.barbora.ee/products/de11dd1a-8fb0-4337-be25-380fb18b7357_s.png","big_image":"https://cdn.barbora.ee/products/de11dd1a-8fb0-4337-be25-380fb18b7357_m.png","comparative_unit":"l","comparative_unit_price":19.75,"comparative_unit_price_brutto":32.95,"comparative_unit_price_netto":19.75,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":6.59,"oldComparativeRate":32.95,"oldComparativeRateNetto":32.95,"percentage":40,"minQuantity":1,"orMore":false,"id":"3531905","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"beebioli-bubchen-sensitive-200-ml","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":2.75,"retail_price":4.59,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000030205","title":"Kaitsekreem BÜBCHEN Tuule&Külma 75ml","category_id":"98671ab4-9603-44e8-b868-9fda7b005fe2","category_name_full_path":"Lastekaubad/Laste hügieenitarbed/Kehahooldus lastele","category_path_url":"lastekaubad/laste-hugieenitarbed/kehahooldus-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"BÜBCHEN","brand_id":371,"shopcode":"T032","price":2.75,"retail_price":4.59,"image":"https://cdn.barbora.ee/products/8a507424-b1da-4efe-93cf-f6e47a5805a6_s.png","big_image":"https://cdn.barbora.ee/products/8a507424-b1da-4efe-93cf-f6e47a5805a6_m.png","comparative_unit":"l","comparative_unit_price":36.67,"comparative_unit_price_brutto":61.2,"comparative_unit_price_netto":36.67,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":4.59,"oldComparativeRate":61.2,"oldComparativeRateNetto":61.2,"percentage":40,"minQuantity":1,"orMore":false,"id":"3531906","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"kaitsekreem-bubchen-tuule-kulma-75-ml","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.88,"retail_price":2.69,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000032249","title":"Rõngaslutt CANPOL lateks 0-6 kuud","category_id":"3d51f40b-9360-4b65-b489-0bcf23d0692b","category_name_full_path":"Lastekaubad/Laste hooldustarbed/Lutid ja närimislelud","category_path_url":"lastekaubad/laste-hooldustarbed/lutid-ja-narimislelud","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"CANPOL","brand_id":358,"shopcode":"T032","price":1.88,"retail_price":2.69,"image":"https://cdn.barbora.ee/products/265ff9d3-2ae3-4290-9b95-ec901def0a9f_s.png","big_image":"https://cdn.barbora.ee/products/265ff9d3-2ae3-4290-9b95-ec901def0a9f_m.png","comparative_unit":"tk","comparative_unit_price":1.88,"comparative_unit_price_brutto":2.69,"comparative_unit_price_netto":1.88,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":2.69,"oldComparativeRate":2.69,"oldComparativeRateNetto":2.69,"percentage":30,"minQuantity":1,"orMore":false,"id":"3531859","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"rongaslutt-canpol-lateks-0-6-kuud","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.74,"retail_price":2.49,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000032250","title":"Rõngaslutt lateks CANPOL 6-18 kuud 1tk","category_id":"3d51f40b-9360-4b65-b489-0bcf23d0692b","category_name_full_path":"Lastekaubad/Laste hooldustarbed/Lutid ja närimislelud","category_path_url":"lastekaubad/laste-hooldustarbed/lutid-ja-narimislelud","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"CANPOL","brand_id":358,"shopcode":"T032","price":1.74,"retail_price":2.49,"image":"https://cdn.barbora.ee/products/3638870c-4e82-4311-b722-f8243d72eb67_s.png","big_image":"https://cdn.barbora.ee/products/3638870c-4e82-4311-b722-f8243d72eb67_m.png","comparative_unit":"tk","comparative_unit_price":1.74,"comparative_unit_price_brutto":2.49,"comparative_unit_price_netto":1.74,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":2.49,"oldComparativeRate":2.49,"oldComparativeRateNetto":2.49,"percentage":30,"minQuantity":1,"orMore":false,"id":"3531860","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"rongaslutt-lateks-canpol-6-18-kuud-1-tk","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.14,"retail_price":4.49,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000032283","title":"Juuksehari & kamm CANPOL Babies 0k+","category_id":"43594d3f-be4e-41d7-b94d-e1fc8fff0fc1","category_name_full_path":"Lastekaubad/Laste hügieenitarbed/Juuksehooldus lastele","category_path_url":"lastekaubad/laste-hugieenitarbed/juuksehooldus-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"CANPOL","brand_id":358,"shopcode":"T032","price":3.14,"retail_price":4.49,"image":"https://cdn.barbora.ee/products/bf27158a-39ce-4694-b84d-182c5ebaf739_s.png","big_image":"https://cdn.barbora.ee/products/bf27158a-39ce-4694-b84d-182c5ebaf739_m.png","comparative_unit":"tk","comparative_unit_price":3.14,"comparative_unit_price_brutto":4.49,"comparative_unit_price_netto":3.14,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":4.49,"oldComparativeRate":4.49,"oldComparativeRateNetto":4.49,"percentage":30,"minQuantity":1,"orMore":false,"id":"3531871","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"juuksehari-kamm-canpol-babies-0-k","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":5.93,"retail_price":9.89,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000062613","title":"Kehapesugeel BÜBCHEN pumbaga 400ml","category_id":"98671ab4-9603-44e8-b868-9fda7b005fe2","category_name_full_path":"Lastekaubad/Laste hügieenitarbed/Kehahooldus lastele","category_path_url":"lastekaubad/laste-hugieenitarbed/kehahooldus-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"BÜBCHEN","brand_id":371,"shopcode":"T032","price":5.93,"retail_price":9.89,"image":"https://cdn.barbora.ee/products/b4ccf0d0-c2b7-4bb4-a950-5399d20b04b8_s.png","big_image":"https://cdn.barbora.ee/products/b4ccf0d0-c2b7-4bb4-a950-5399d20b04b8_m.png","comparative_unit":"l","comparative_unit_price":14.83,"comparative_unit_price_brutto":24.73,"comparative_unit_price_netto":14.83,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":9.89,"oldComparativeRate":24.73,"oldComparativeRateNetto":24.73,"percentage":40,"minQuantity":1,"orMore":false,"id":"3531907","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"kehapesugeel-bubchen-pumbaga-400-ml","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":0.99,"retail_price":1.45,"unit":"tk","min":1.0,"max":12.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000062627","title":"Kons. herned BONDUELLE Extra Fine 200g","category_id":"3fdea35f-ff21-4704-b2b6-6e3ba19ce68b","category_name_full_path":"Kauasäilivad toidukaubad/Hoidised ja konservid/Konserveeritud maisid, herned, oad","category_path_url":"kauasailivad-toidukaubad/hoidised-ja-konservid/konserveeritud-maisid-herned-oad","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"BONDUELLE","brand_id":571,"shopcode":"T032","price":0.99,"retail_price":1.45,"image":"https://cdn.barbora.ee/products/2606df82-2c79-4a6a-9ceb-2ebc09dcf2ef_s.png","big_image":"https://cdn.barbora.ee/products/2606df82-2c79-4a6a-9ceb-2ebc09dcf2ef_m.png","comparative_unit":"kg","comparative_unit_price":4.95,"comparative_unit_price_brutto":7.25,"comparative_unit_price_netto":7.61,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":1.45,"oldComparativeRate":7.25,"oldComparativeRateNetto":11.15,"percentage":32,"minQuantity":1,"orMore":false,"id":"3495046","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"kons-herned-bonduelle-extra-fine-200-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":2.39,"retail_price":3.49,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000062628","title":"Konsev.mais BONDUELLE 670g","category_id":"3fdea35f-ff21-4704-b2b6-6e3ba19ce68b","category_name_full_path":"Kauasäilivad toidukaubad/Hoidised ja konservid/Konserveeritud maisid, herned, oad","category_path_url":"kauasailivad-toidukaubad/hoidised-ja-konservid/konserveeritud-maisid-herned-oad","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"BONDUELLE","brand_id":571,"shopcode":"T032","price":2.39,"retail_price":3.49,"image":"https://cdn.barbora.ee/products/d964e17b-662d-4ff8-838f-106dd887328b_s.png","big_image":"https://cdn.barbora.ee/products/d964e17b-662d-4ff8-838f-106dd887328b_m.png","comparative_unit":"kg","comparative_unit_price":3.57,"comparative_unit_price_brutto":5.21,"comparative_unit_price_netto":4.19,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":3.49,"oldComparativeRate":5.21,"oldComparativeRateNetto":6.12,"percentage":32,"minQuantity":1,"orMore":false,"id":"3495047","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"konsev-mais-bonduelle-670-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.09,"retail_price":1.59,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000062629","title":"Konserveeritud mais Gold BONDUELLE 170g","category_id":"3fdea35f-ff21-4704-b2b6-6e3ba19ce68b","category_name_full_path":"Kauasäilivad toidukaubad/Hoidised ja konservid/Konserveeritud maisid, herned, oad","category_path_url":"kauasailivad-toidukaubad/hoidised-ja-konservid/konserveeritud-maisid-herned-oad","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"BONDUELLE","brand_id":571,"shopcode":"T032","price":1.09,"retail_price":1.59,"image":"https://cdn.barbora.ee/products/af981012-7942-4157-9819-1ee6d15f10ef_s.png","big_image":"https://cdn.barbora.ee/products/af981012-7942-4157-9819-1ee6d15f10ef_m.png","comparative_unit":"kg","comparative_unit_price":6.41,"comparative_unit_price_brutto":9.35,"comparative_unit_price_netto":7.79,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":1.59,"oldComparativeRate":9.35,"oldComparativeRateNetto":11.36,"percentage":31,"minQuantity":1,"orMore":false,"id":"3495048","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"konserveeritud-mais-gold-bonduelle-170-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.91,"retail_price":2.73,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000069254","title":"Vatitikud JOHNSON'S BABY 100tk","category_id":"2d95f555-6b47-4b1c-93b6-ff7d6024ba68","category_name_full_path":"Lastekaubad/Laste hooldustarbed/Muud hooldustarbed lastele","category_path_url":"lastekaubad/laste-hooldustarbed/muud-hooldustarbed-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"JOHNSON'S BABY","brand_id":831,"shopcode":"T032","price":1.91,"retail_price":2.73,"image":"https://cdn.barbora.ee/products/ba220c9c-48a9-4f70-ae6d-979557c907aa_s.png","big_image":"https://cdn.barbora.ee/products/ba220c9c-48a9-4f70-ae6d-979557c907aa_m.png","comparative_unit":"tk","comparative_unit_price":0.02,"comparative_unit_price_brutto":0.03,"comparative_unit_price_netto":0.02,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":2.73,"oldComparativeRate":0.03,"oldComparativeRateNetto":0.03,"percentage":30,"minQuantity":1,"orMore":false,"id":"3576415","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"beebivatitikud-johnson-s-baby-100-tk","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.25,"retail_price":1.79,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000087849","title":"Punane uba Kidney BONDUELLE 400g","category_id":"3fdea35f-ff21-4704-b2b6-6e3ba19ce68b","category_name_full_path":"Kauasäilivad toidukaubad/Hoidised ja konservid/Konserveeritud maisid, herned, oad","category_path_url":"kauasailivad-toidukaubad/hoidised-ja-konservid/konserveeritud-maisid-herned-oad","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"BONDUELLE","brand_id":571,"shopcode":"T032","price":1.25,"retail_price":1.79,"image":"https://cdn.barbora.ee/products/b4eab097-79ae-4476-9f6b-62355834b669_s.png","big_image":"https://cdn.barbora.ee/products/b4eab097-79ae-4476-9f6b-62355834b669_m.png","comparative_unit":"kg","comparative_unit_price":3.13,"comparative_unit_price_brutto":4.48,"comparative_unit_price_netto":5.21,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":1.79,"oldComparativeRate":4.48,"oldComparativeRateNetto":7.46,"percentage":30,"minQuantity":1,"orMore":false,"id":"3495049","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"punane-uba-kidney-bonduelle-400-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.59,"retail_price":2.29,"unit":"tk","min":1.0,"max":8.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000087864","title":"Punased oad tsillikasmes BONDUELLE 430g","category_id":"3fdea35f-ff21-4704-b2b6-6e3ba19ce68b","category_name_full_path":"Kauasäilivad toidukaubad/Hoidised ja konservid/Konserveeritud maisid, herned, oad","category_path_url":"kauasailivad-toidukaubad/hoidised-ja-konservid/konserveeritud-maisid-herned-oad","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"BONDUELLE","brand_id":571,"shopcode":"T032","price":1.59,"retail_price":2.29,"image":"https://cdn.barbora.ee/products/3f2462cf-02d5-4a3e-a822-66a4a60e6423_s.png","big_image":"https://cdn.barbora.ee/products/3f2462cf-02d5-4a3e-a822-66a4a60e6423_m.png","comparative_unit":"kg","comparative_unit_price":3.70,"comparative_unit_price_brutto":5.33,"comparative_unit_price_netto":7.95,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":2.29,"oldComparativeRate":5.33,"oldComparativeRateNetto":11.45,"percentage":31,"minQuantity":1,"orMore":false,"id":"3495050","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"punased-oad-tsillikasmes-bonduelle-430-g","ExternalSuppliers":null,"is_made_in_Eu":true,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.39,"retail_price":1.99,"unit":"tk","min":1.0,"max":8.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000088924","title":"Valged oad tomatikastmes BONDUELLE 430g","category_id":"3fdea35f-ff21-4704-b2b6-6e3ba19ce68b","category_name_full_path":"Kauasäilivad toidukaubad/Hoidised ja konservid/Konserveeritud maisid, herned, oad","category_path_url":"kauasailivad-toidukaubad/hoidised-ja-konservid/konserveeritud-maisid-herned-oad","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"BONDUELLE","brand_id":571,"shopcode":"T032","price":1.39,"retail_price":1.99,"image":"https://cdn.barbora.ee/products/122ab746-ea59-4be6-a9c3-d7f32b443681_s.png","big_image":"https://cdn.barbora.ee/products/122ab746-ea59-4be6-a9c3-d7f32b443681_m.png","comparative_unit":"kg","comparative_unit_price":3.23,"comparative_unit_price_brutto":4.63,"comparative_unit_price_netto":6.95,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":1.99,"oldComparativeRate":4.63,"oldComparativeRateNetto":9.95,"percentage":30,"minQuantity":1,"orMore":false,"id":"3495051","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"valged-oad-tomatikastmes-bonduelle-430-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.84,"retail_price":5.49,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000113174","title":"Pudipõllekomplekt CANPOL 3tk","category_id":"2d95f555-6b47-4b1c-93b6-ff7d6024ba68","category_name_full_path":"Lastekaubad/Laste hooldustarbed/Muud hooldustarbed lastele","category_path_url":"lastekaubad/laste-hooldustarbed/muud-hooldustarbed-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"CANPOL","brand_id":358,"shopcode":"T032","price":3.84,"retail_price":5.49,"image":"https://cdn.barbora.ee/products/cd867b23-1aae-4c08-9dcd-9036121140ea_s.png","big_image":"https://cdn.barbora.ee/products/cd867b23-1aae-4c08-9dcd-9036121140ea_m.png","comparative_unit":"tk","comparative_unit_price":1.28,"comparative_unit_price_brutto":1.83,"comparative_unit_price_netto":1.28,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":5.49,"oldComparativeRate":1.83,"oldComparativeRateNetto":1.83,"percentage":30,"minQuantity":1,"orMore":false,"id":"3531872","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"pudipollekomplekt-canpol-3-tk","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.7,"retail_price":5.29,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000113193","title":"Kõristi CANPOL BABIES Rattad 0m+","category_id":"5aa504f7-c1aa-4e31-8a74-9ce077bdbfbb","category_name_full_path":"Lastekaubad/Mänguasjad/Beebi mänguasjad","category_path_url":"lastekaubad/manguasjad/beebi-manguasjad","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"CANPOL","brand_id":358,"shopcode":"T032","price":3.7,"retail_price":5.29,"image":"https://cdn.barbora.ee/products/bbc1b208-47c0-42cb-89c2-4d256522b44c_s.png","big_image":"https://cdn.barbora.ee/products/bbc1b208-47c0-42cb-89c2-4d256522b44c_m.png","comparative_unit":"tk","comparative_unit_price":3.7,"comparative_unit_price_brutto":5.29,"comparative_unit_price_netto":3.7,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":5.29,"oldComparativeRate":5.29,"oldComparativeRateNetto":5.29,"percentage":30,"minQuantity":1,"orMore":false,"id":"3531873","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"koristi-canpol-babies-rattad-0-m","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":2.09,"retail_price":2.99,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000113200","title":"Küünekäärid CANPOL Babies 0k+","category_id":"2d95f555-6b47-4b1c-93b6-ff7d6024ba68","category_name_full_path":"Lastekaubad/Laste hooldustarbed/Muud hooldustarbed lastele","category_path_url":"lastekaubad/laste-hooldustarbed/muud-hooldustarbed-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"CANPOL","brand_id":358,"shopcode":"T032","price":2.09,"retail_price":2.99,"image":"https://cdn.barbora.ee/products/73170481-1a6c-4260-a213-ea1c398f0130_s.png","big_image":"https://cdn.barbora.ee/products/73170481-1a6c-4260-a213-ea1c398f0130_m.png","comparative_unit":"tk","comparative_unit_price":2.09,"comparative_unit_price_brutto":2.99,"comparative_unit_price_netto":2.09,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":2.99,"oldComparativeRate":2.99,"oldComparativeRateNetto":2.99,"percentage":30,"minQuantity":1,"orMore":false,"id":"3531874","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"kuunekaarid-canpol-babies-0-k","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":5.7,"retail_price":8.15,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"869":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-11","CampaignDateTo":"2026-06-30","EAN":"20260511-01","Id":869,"IsHidden":false,"Name":"Always sample","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000121733","title":"Hügieenisidemed ALWAYS Ultra S1 40tk","category_id":"abf467ad-faf2-43b7-af9e-133f154cf78d","category_name_full_path":"Enesehooldustooted/Intiimhügieeni vahendid/Hügieenisidemed","category_path_url":"enesehooldustooted/intiimhugieeni-vahendid/hugieenisidemed","root_category_id":"5ebed6d5-9f7d-4ddf-a5bf-ab5692ae5d54","brand_name":"ALWAYS","brand_id":488,"shopcode":"T032","price":5.7,"retail_price":8.15,"image":"https://cdn.barbora.ee/products/25a15f85-e469-4116-99fe-841c21fc7f06_s.png","big_image":"https://cdn.barbora.ee/products/25a15f85-e469-4116-99fe-841c21fc7f06_m.png","comparative_unit":"tk","comparative_unit_price":0.14,"comparative_unit_price_brutto":0.20,"comparative_unit_price_netto":0.14,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":8.15,"oldComparativeRate":0.2,"oldComparativeRateNetto":0.2,"percentage":30,"minQuantity":1,"orMore":false,"id":"3596404","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"hugieenisidemed-always-ultra-s-1-40-tk","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.89,"retail_price":5.19,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000134925","title":"Tuunikala oliiviõlis RIO MARE,160g","category_id":"5ea68b92-fa6c-48ab-b3cb-ac03e2e49c8f","category_name_full_path":"Liha, kala, valmistoit/Kalatooted/Kalakonservid ja marineeritud kalad","category_path_url":"liha-kala-valmistoit/kalatooted/kalakonservid-ja-marineeritud-kalad","root_category_id":"1271e464-f471-4dc6-b286-7ea771a218a8","brand_name":"RIO MARE","brand_id":2898,"shopcode":"T032","price":3.89,"retail_price":5.19,"image":"https://cdn.barbora.ee/products/5bb63ed6-9d00-4c75-acff-48e24f428495_s.png","big_image":"https://cdn.barbora.ee/products/5bb63ed6-9d00-4c75-acff-48e24f428495_m.png","comparative_unit":"kg","comparative_unit_price":24.31,"comparative_unit_price_brutto":32.44,"comparative_unit_price_netto":37.40,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":5.19,"oldComparativeRate":32.44,"oldComparativeRateNetto":49.9,"percentage":25,"minQuantity":1,"orMore":false,"id":"3545512","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"tuunikala-oliiviolis-rio-mare-160-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":3.82,"retail_price":5.09,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000134926","title":"Tuunikala soolvees RIO MARE,160g","category_id":"5ea68b92-fa6c-48ab-b3cb-ac03e2e49c8f","category_name_full_path":"Liha, kala, valmistoit/Kalatooted/Kalakonservid ja marineeritud kalad","category_path_url":"liha-kala-valmistoit/kalatooted/kalakonservid-ja-marineeritud-kalad","root_category_id":"1271e464-f471-4dc6-b286-7ea771a218a8","brand_name":"RIO MARE","brand_id":2898,"shopcode":"T032","price":3.82,"retail_price":5.09,"image":"https://cdn.barbora.ee/products/98149bb7-30c7-4afc-a650-f190444fa2e0_s.png","big_image":"https://cdn.barbora.ee/products/98149bb7-30c7-4afc-a650-f190444fa2e0_m.png","comparative_unit":"kg","comparative_unit_price":23.87,"comparative_unit_price_brutto":31.81,"comparative_unit_price_netto":34.11,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":5.09,"oldComparativeRate":31.81,"oldComparativeRateNetto":45.45,"percentage":25,"minQuantity":1,"orMore":false,"id":"3545513","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"tuunikala-soolvees-rio-mare-160-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.81,"retail_price":2.59,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000137926","title":"Lusikas CANPOL Babies 4k+","category_id":"4b809abd-23e1-4c9b-baa7-3910add6e0c5","category_name_full_path":"Lastekaubad/Laste hooldustarbed/Söömistarvikud lastele","category_path_url":"lastekaubad/laste-hooldustarbed/soomistarvikud-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"CANPOL","brand_id":358,"shopcode":"T032","price":1.81,"retail_price":2.59,"image":"https://cdn.barbora.ee/products/9d9d6261-8892-4801-aa43-cb84ee7498d3_s.png","big_image":"https://cdn.barbora.ee/products/9d9d6261-8892-4801-aa43-cb84ee7498d3_m.png","comparative_unit":"tk","comparative_unit_price":1.81,"comparative_unit_price_brutto":2.59,"comparative_unit_price_netto":1.81,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":2.59,"oldComparativeRate":2.59,"oldComparativeRateNetto":2.59,"percentage":30,"minQuantity":1,"orMore":false,"id":"3531875","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"lusikas-canpol-babies-4-k","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":2.56,"retail_price":3.65,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":false,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":true,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":{"871":{"AllowedSegmentations":[],"AllowedShopsForCampaign":"T032;T033;T587","CampaignDateFrom":"2026-05-13","CampaignDateTo":"2026-06-30","EAN":"20260513-01","Id":871,"IsHidden":false,"Name":"Bübchen cream","Quantity":1.000,"QuantityReal":0.0,"Unit":"ST","Volume":0.01,"Weight":0.01}},"segment_id":null,"id":"000000000000137933","title":"Ninapump CANPOL BABIES","category_id":"2d95f555-6b47-4b1c-93b6-ff7d6024ba68","category_name_full_path":"Lastekaubad/Laste hooldustarbed/Muud hooldustarbed lastele","category_path_url":"lastekaubad/laste-hooldustarbed/muud-hooldustarbed-lastele","root_category_id":"850717a1-fa2c-4b5f-a8f7-bae8bf068f7e","brand_name":"CANPOL","brand_id":358,"shopcode":"T032","price":2.56,"retail_price":3.65,"image":"https://cdn.barbora.ee/products/53849085-0c55-4542-8209-305b4b9dc1bc_s.png","big_image":"https://cdn.barbora.ee/products/53849085-0c55-4542-8209-305b4b9dc1bc_m.png","comparative_unit":"tk","comparative_unit_price":2.56,"comparative_unit_price_brutto":3.65,"comparative_unit_price_netto":2.56,"show_comparative_unit_price_netto":false,"promotion":{"oldPrice":3.65,"oldComparativeRate":3.65,"oldComparativeRateNetto":3.65,"percentage":30,"minQuantity":1,"orMore":false,"id":"3531876","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-25T00:00:00Z","Url":"ninapump-canpol-babies","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.19,"retail_price":1.55,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000139707","title":"Keefir GEFILUS 2,5% 1kg, PP","category_id":"4f93ccdf-77c9-408d-ad87-20391ae8fe63","category_name_full_path":"Piimatooted ja munad/Keefirid ja hapupiimad/Keefirid","category_path_url":"piimatooted-ja-munad/keefirid-ja-hapupiimad/keefirid","root_category_id":"4285f7d7-5d92-4eb2-a85c-4772fed50091","brand_name":"VALIO GEFILUS","brand_id":101,"shopcode":"T032","price":1.19,"retail_price":1.55,"image":"https://cdn.barbora.ee/products/3e33363a-0af4-47e4-9caa-03b170f236a1_s.png","big_image":"https://cdn.barbora.ee/products/3e33363a-0af4-47e4-9caa-03b170f236a1_m.png","comparative_unit":"kg","comparative_unit_price":1.19,"comparative_unit_price_brutto":1.55,"comparative_unit_price_netto":1.19,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":1.55,"oldComparativeRate":1.55,"oldComparativeRateNetto":1.55,"percentage":23,"minQuantity":1,"orMore":false,"id":"3541397","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"keefir-gefilus-2-5-proc-1-kg-pp","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.72,"retail_price":2.29,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000139856","title":"Turisti eine FRANK POTT, 325g","category_id":"81e2c982-943f-4c21-a5c0-60f628fb26b6","category_name_full_path":"Liha, kala, valmistoit/Lihatooted/Lihakonservid","category_path_url":"liha-kala-valmistoit/lihatooted/lihakonservid","root_category_id":"1271e464-f471-4dc6-b286-7ea771a218a8","brand_name":"FRANK POTT","brand_id":927,"shopcode":"T032","price":1.72,"retail_price":2.29,"image":"https://cdn.barbora.ee/products/e52ee64f-6497-4629-bb54-22952550fe4b_s.png","big_image":"https://cdn.barbora.ee/products/e52ee64f-6497-4629-bb54-22952550fe4b_m.png","comparative_unit":"kg","comparative_unit_price":5.30,"comparative_unit_price_brutto":7.05,"comparative_unit_price_netto":5.30,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":2.29,"oldComparativeRate":7.05,"oldComparativeRateNetto":7.05,"percentage":25,"minQuantity":1,"orMore":false,"id":"3545514","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"turisti-eine-frank-pott-325-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.79,"retail_price":2.99,"unit":"tk","min":1.0,"max":4.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000140018","title":"Kartul pestud Villeri pakitud, 2kg","category_id":"eba0385d-f74e-46ab-af48-d91c711b8dd0","category_name_full_path":"Köögiviljad, puuviljad/Köögiviljad ja aedviljad/Kartulid, porgandid ja kapsad","category_path_url":"koogiviljad-puuviljad/koogiviljad-ja-aedviljad/kartulid-porgandid-ja-kapsad","root_category_id":"2456a910-eacb-4537-b214-17ed21682888","brand_name":"LAHEOTSA","brand_id":2807,"shopcode":"T032","price":1.79,"retail_price":2.99,"image":"https://cdn.barbora.ee/products/182a9f44-f2a4-4052-a5f8-925a44be1a11_s.png","big_image":"https://cdn.barbora.ee/products/182a9f44-f2a4-4052-a5f8-925a44be1a11_m.png","comparative_unit":"kg","comparative_unit_price":0.90,"comparative_unit_price_brutto":1.50,"comparative_unit_price_netto":0.90,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":2.99,"oldComparativeRate":1.5,"oldComparativeRateNetto":1.5,"percentage":40,"minQuantity":1,"orMore":false,"id":"3583973","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"kartul-pestud-villeri-pakitud-2-kg","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.71,"retail_price":2.45,"unit":"tk","min":1.0,"max":4.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000140238","title":"Kreemipulber MOKATE Carmen 200g","category_id":"094fa1c8-eca5-4383-a56e-7f00c06ea2c5","category_name_full_path":"Joogid/Kohv, tee, kakao/Kohvi valmistamiseks","category_path_url":"joogid/kohv-tee-kakao/kohvi-valmistamiseks","root_category_id":"4a1f4362-1822-49c3-bdda-b8fd2d3171dc","brand_name":"","brand_id":null,"shopcode":"T032","price":1.71,"retail_price":2.45,"image":"https://cdn.barbora.ee/products/a6796f56-7811-453a-978f-b4244ae716d0_s.png","big_image":"https://cdn.barbora.ee/products/a6796f56-7811-453a-978f-b4244ae716d0_m.png","comparative_unit":"kg","comparative_unit_price":8.55,"comparative_unit_price_brutto":12.25,"comparative_unit_price_netto":8.55,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":2.45,"oldComparativeRate":12.25,"oldComparativeRateNetto":12.25,"percentage":30,"minQuantity":1,"orMore":false,"id":"3576361","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"kreemipulber-mokate-carmen-200-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.39,"retail_price":1.85,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000140867","title":"Hautatud veiseliha FRANK POTT, 240g","category_id":"81e2c982-943f-4c21-a5c0-60f628fb26b6","category_name_full_path":"Liha, kala, valmistoit/Lihatooted/Lihakonservid","category_path_url":"liha-kala-valmistoit/lihatooted/lihakonservid","root_category_id":"1271e464-f471-4dc6-b286-7ea771a218a8","brand_name":"FRANK POTT","brand_id":927,"shopcode":"T032","price":1.39,"retail_price":1.85,"image":"https://cdn.barbora.ee/products/e5568c9f-d89a-4ebf-9d3d-8c0852304bc5_s.png","big_image":"https://cdn.barbora.ee/products/e5568c9f-d89a-4ebf-9d3d-8c0852304bc5_m.png","comparative_unit":"kg","comparative_unit_price":5.79,"comparative_unit_price_brutto":7.71,"comparative_unit_price_netto":5.79,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":1.85,"oldComparativeRate":7.71,"oldComparativeRateNetto":7.71,"percentage":25,"minQuantity":1,"orMore":false,"id":"3545515","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"hautatud-veiseliha-frank-pott-240-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":0.41,"retail_price":0.59,"unit":"tk","min":1.0,"max":12.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":true,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000145304","title":"Batoon.piima ja helv. Nesquik NESTLE 25g","category_id":"d0b4e3e7-e876-46fd-9f4c-1494f237be41","category_name_full_path":"Kauasäilivad toidukaubad/Hommikusöögid ja batoonid/Hommikusöögibatoonid","category_path_url":"kauasailivad-toidukaubad/hommikusoogid-ja-batoonid/hommikusoogibatoonid","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"NESTLE","brand_id":72,"shopcode":"T032","price":0.41,"retail_price":0.59,"image":"https://cdn.barbora.ee/products/ace5fac9-2550-4acc-b8da-a9a8e335a511_s.png","big_image":"https://cdn.barbora.ee/products/ace5fac9-2550-4acc-b8da-a9a8e335a511_m.png","comparative_unit":"kg","comparative_unit_price":16.4,"comparative_unit_price_brutto":23.6,"comparative_unit_price_netto":16.4,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":0.59,"oldComparativeRate":23.6,"oldComparativeRateNetto":23.6,"percentage":31,"minQuantity":1,"orMore":false,"id":"3544939","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"batoon-piima-ja-helv-nesquik-nestle-25-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":0.41,"retail_price":0.59,"unit":"tk","min":1.0,"max":12.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000145305","title":"Batoon.piima ja helv.CiniMinis NESTLE25g","category_id":"d0b4e3e7-e876-46fd-9f4c-1494f237be41","category_name_full_path":"Kauasäilivad toidukaubad/Hommikusöögid ja batoonid/Hommikusöögibatoonid","category_path_url":"kauasailivad-toidukaubad/hommikusoogid-ja-batoonid/hommikusoogibatoonid","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"NESTLE","brand_id":72,"shopcode":"T032","price":0.41,"retail_price":0.59,"image":"https://cdn.barbora.ee/products/0222fb5a-6712-4881-9af6-d7408d7b45e4_s.png","big_image":"https://cdn.barbora.ee/products/0222fb5a-6712-4881-9af6-d7408d7b45e4_m.png","comparative_unit":"kg","comparative_unit_price":16.4,"comparative_unit_price_brutto":23.6,"comparative_unit_price_netto":16.4,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":0.59,"oldComparativeRate":23.6,"oldComparativeRateNetto":23.6,"percentage":31,"minQuantity":1,"orMore":false,"id":"3544940","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"batoon-piima-ja-helv-ciniminis-nestle-25-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.94,"retail_price":2.59,"unit":"tk","min":1.0,"max":8.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000145887","title":"Pähklisegu  Noorte  ARIMEX 150g","category_id":"52c70aff-97bf-4317-927f-f0b9943192bc","category_name_full_path":"Kauasäilivad toidukaubad/Snäkid/Pähklid ja pähklisegud","category_path_url":"kauasailivad-toidukaubad/snakid/pahklid-ja-pahklisegud","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"ARIMEX","brand_id":1248,"shopcode":"T032","price":1.94,"retail_price":2.59,"image":"https://cdn.barbora.ee/products/f827cdf6-228e-4e8f-a2cc-585ac9c09d15_s.png","big_image":"https://cdn.barbora.ee/products/f827cdf6-228e-4e8f-a2cc-585ac9c09d15_m.png","comparative_unit":"kg","comparative_unit_price":12.94,"comparative_unit_price_brutto":17.27,"comparative_unit_price_netto":12.94,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":2.59,"oldComparativeRate":17.27,"oldComparativeRateNetto":17.27,"percentage":25,"minQuantity":1,"orMore":false,"id":"3546056","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"pahklisegu-noorte-arimex-150-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.57,"retail_price":2.09,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000157761","title":"Hautatud kanaliha FRANK POTT, 240g","category_id":"81e2c982-943f-4c21-a5c0-60f628fb26b6","category_name_full_path":"Liha, kala, valmistoit/Lihatooted/Lihakonservid","category_path_url":"liha-kala-valmistoit/lihatooted/lihakonservid","root_category_id":"1271e464-f471-4dc6-b286-7ea771a218a8","brand_name":"FRANK POTT","brand_id":927,"shopcode":"T032","price":1.57,"retail_price":2.09,"image":"https://cdn.barbora.ee/products/11e5d86c-0c94-462c-bce6-fb97427475b8_s.png","big_image":"https://cdn.barbora.ee/products/11e5d86c-0c94-462c-bce6-fb97427475b8_m.png","comparative_unit":"kg","comparative_unit_price":6.54,"comparative_unit_price_brutto":8.71,"comparative_unit_price_netto":6.54,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":2.09,"oldComparativeRate":8.71,"oldComparativeRateNetto":8.71,"percentage":25,"minQuantity":1,"orMore":false,"id":"3545516","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"hautatud-kanaliha-frank-pott-240-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":2.74,"retail_price":3.65,"unit":"tk","min":1.0,"max":6.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000180314","title":"Päik.kuiv.tom.pesto FILIPPO BERIO 190g","category_id":"6ec88519-5afc-4a0b-8e22-167f1853bff6","category_name_full_path":"Liha, kala, valmistoit/Kulinaaria/Hummused, pestod ja muud taimsed määrded","category_path_url":"liha-kala-valmistoit/kulinaaria/hummused-pestod-ja-muud-taimsed-maarded","root_category_id":"1271e464-f471-4dc6-b286-7ea771a218a8","brand_name":"FILIPPO BERIO","brand_id":987,"shopcode":"T032","price":2.74,"retail_price":3.65,"image":"https://cdn.barbora.ee/products/4d8731fc-7120-431e-91e3-2008edf562fe_s.png","big_image":"https://cdn.barbora.ee/products/4d8731fc-7120-431e-91e3-2008edf562fe_m.png","comparative_unit":"kg","comparative_unit_price":14.42,"comparative_unit_price_brutto":19.21,"comparative_unit_price_netto":14.42,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":3.65,"oldComparativeRate":19.21,"oldComparativeRateNetto":19.21,"percentage":25,"minQuantity":1,"orMore":false,"id":"3553232","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"paik-kuiv-tom-pesto-filippo-berio-190-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":2.74,"retail_price":3.65,"unit":"tk","min":1.0,"max":6.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000180315","title":"Klassikaline pesto FILIPPO BERIO 190g","category_id":"6ec88519-5afc-4a0b-8e22-167f1853bff6","category_name_full_path":"Liha, kala, valmistoit/Kulinaaria/Hummused, pestod ja muud taimsed määrded","category_path_url":"liha-kala-valmistoit/kulinaaria/hummused-pestod-ja-muud-taimsed-maarded","root_category_id":"1271e464-f471-4dc6-b286-7ea771a218a8","brand_name":"FILIPPO BERIO","brand_id":987,"shopcode":"T032","price":2.74,"retail_price":3.65,"image":"https://cdn.barbora.ee/products/de4895d4-6822-4c12-8ab3-48fb4aaf64cd_s.png","big_image":"https://cdn.barbora.ee/products/de4895d4-6822-4c12-8ab3-48fb4aaf64cd_m.png","comparative_unit":"kg","comparative_unit_price":14.42,"comparative_unit_price_brutto":19.21,"comparative_unit_price_netto":14.42,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":3.65,"oldComparativeRate":19.21,"oldComparativeRateNetto":19.21,"percentage":25,"minQuantity":1,"orMore":false,"id":"3553233","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"klassikaline-pesto-filippo-berio-190-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":false},{"attributes":{"list":[]},"picking_actions":[],"units":[{"id":0,"price":1.79,"retail_price":2.59,"unit":"tk","min":1.0,"max":10.0,"step":1.0,"defaultValue":1.0}],"is_adult":false,"inFavorites":false,"extra":{"is_sellout":true,"discount":0.0,"buy_x_quantity_for_y_price_promo":null,"buy_x_or_more_promo":null,"maxi_pack_price_promo":null,"is_with_card":false,"extra_loyalty_points":null,"is_new":false,"is_top":false,"is_time":null,"is_today":false,"is_gift_available":false,"is_not_available_for_cnc":false,"is_not_available_for_pup":false},"show_promo_label":true,"show_promo_price":true,"show_maxima_label":false,"inventory_type":1,"show_promo_surrogate":false,"giftsCampaignItems":null,"segment_id":null,"id":"000000000000180518","title":"Konserveeritud mais BONDUELLE 530g","category_id":"3fdea35f-ff21-4704-b2b6-6e3ba19ce68b","category_name_full_path":"Kauasäilivad toidukaubad/Hoidised ja konservid/Konserveeritud maisid, herned, oad","category_path_url":"kauasailivad-toidukaubad/hoidised-ja-konservid/konserveeritud-maisid-herned-oad","root_category_id":"acb55842-a24c-44d1-b948-082e2cdb596b","brand_name":"BONDUELLE","brand_id":571,"shopcode":"T032","price":1.79,"retail_price":2.59,"image":"https://cdn.barbora.ee/products/98a00f5f-9be1-4fc9-a150-e35e54290b5b_s.png","big_image":"https://cdn.barbora.ee/products/98a00f5f-9be1-4fc9-a150-e35e54290b5b_m.png","comparative_unit":"kg","comparative_unit_price":3.38,"comparative_unit_price_brutto":4.89,"comparative_unit_price_netto":4.97,"show_comparative_unit_price_netto":true,"promotion":{"oldPrice":2.59,"oldComparativeRate":4.89,"oldComparativeRateNetto":7.19,"percentage":31,"minQuantity":1,"orMore":false,"id":"3495052","type":"DISCOUNT_PRICE","loyaltyCardRequired":false,"mixAndMatch":false,"promoVisibility":"VISIBLE"},"promotionGroup":null,"status":"active","creationDate":null,"GiftsCampaignItems":null,"own_inventory":false,"ShowInOffersTo":"2026-05-18T00:00:00Z","Url":"konserveeritud-mais-bonduelle-530-g","ExternalSuppliers":null,"is_made_in_Eu":false,"is_made_in_Home_Country":false,"is_available_for_donations":true}];
+</script>
+
+<div id="offers-products-placeholder"></div>
+
+<div style="text-align: center" class="offers-products-navigation" hidden>
+    
+
+
+
+
+    <ul class="pagination">
+
+            <li><a href="/pakkumised">&laquo;</a></li>
+                <li class=active>
+                    <a href="/pakkumised">1</a>
+                </li>
+                <li >
+                    <a href="/pakkumised?page=2">2</a>
+                </li>
+                <li >
+                    <a href="/pakkumised?page=3">3</a>
+                </li>
+                <li >
+                    <a href="/pakkumised?page=4">4</a>
+                </li>
+                <li >
+                    <a href="/pakkumised?page=5">5</a>
+                </li>
+                <li><a href="/pakkumised?page=6">...</a></li>
+            <li><a href="/pakkumised?page=2">&raquo;</a></li>
+
+    </ul>
+
+
+
+
+</div>
+
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class='tw-pt-8' id="b-footer--placeholder"></div>
+        </div>
+    </div>
+
+    <div class="mobile-side-menu-placeholder"></div>
+
+    <div class="next-reservation-modal-placeholder"></div>
+
+    <div id="modal-placeholder"></div>
+<div id="snackbar-placeholder"></div>
+<div id="sub-modal-placeholder"></div>
+
+
+
+
+
+
+
+
+    <script type="7359e01edb650d01f5f76dc3-text/javascript">
+        //Check if user uses IE browser
+        var isIE = /MSIE|Trident/.test(window.navigator.userAgent);
+        if (isIE) {
+            document.querySelector(".b-ie-warning").style.display = "block";
+        }
+    </script>
+
+    
+<script type="7359e01edb650d01f5f76dc3-text/javascript">
+
+    // These functions are used to determine if an error is likely caused by an ad blocker. It works by checking the breadcrumbs of the error. if there is a related network error with a URL that is likely blocked by an ad blocker, it will return true. Adblockers usually block requests to URLs that contain certain keywords like "ads", "tracking", "analytics", etc. adBlockKeywords is a list of common keywords that ad blockers block,- it should be updated as needed if this script will be helpful.
+    function isProbablyBlockedByAdblockNetworkError(error) {
+        const now = Date.now();
+
+        if (!error.breadcrumbs) {
+            return false;
+        }
+
+        for (let i = error.breadcrumbs.length - 1; i >= 0; i--) {
+            const breadcrumb = error.breadcrumbs[i];
+            if (!breadcrumb) continue;
+
+            if (breadcrumb.timestamp && now - breadcrumb.timestamp * 1000 > 5000) {
+                break;
+            }
+
+            if (isProbablyBlockedByAdblockBreadcrumb(breadcrumb)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    function isProbablyBlockedByAdblockBreadcrumb(breadcrumb) {
+        if (
+            breadcrumb.level !== 'error' ||
+            (breadcrumb.category !== 'xhr' && breadcrumb.category !== 'fetch')
+        ) {
+            return false;
+        }
+
+        const url = breadcrumb.data?.url;
+        if (!url) return false;
+
+        return isProbablyBlockedByAdblockUrl(url);
+    }
+
+    function isProbablyBlockedByAdblockUrl(url) {
+        // List of common URL patterns or keywords that ad blockers typically block
+        const adBlockKeywords = [
+            'ads',
+            'adservice',
+            'doubleclick',
+            'tracking',
+            'analytics',
+            'pixel',
+            'track',
+            'tagmanager',
+            'marketing',
+            'metrics',
+            'facebook',
+            'googletagmanager',
+            'banners',
+            'partner',
+            'advertisement',
+            'omnisend',
+            'promo'
+        ];
+
+        for (let keyword of adBlockKeywords) {
+            if (url.includes(keyword)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    function initSentry() {
+        var isDebug = "True".toLowerCase() === "true";
+
+        Sentry.init({
+            dsn: "https://5851f8097791b6eefe84f9743fde7a68@sentry-relay.barbora.lt/9",
+            release: "v1.49.0",
+            environment: "production-ee",
+            maxValueLength: 8192,
+            normalizeDepth: 10,
+            sendDefaultPii: true,
+            replaysSessionSampleRate: 0.002,
+            replaysOnErrorSampleRate: 0.002,
+            enableLogs: true,
+            integrations: [
+                Sentry.replayIntegration({
+                    maskAllText: false,
+                    blockAllMedia: false,
+                }),
+                Sentry.breadcrumbsIntegration({
+                    console: true,
+                    dom: true,
+                    fetch: true,
+                    history: true,
+                    xhr: true,
+                    sentry: true,
+                }),
+            ],
+            ignoreUrls: [],
+            debug: isDebug,
+            ignoreErrors: [
+                'ResizeObserver loop completed with undelivered notifications.',
+                'ResizeObserver loop limit exceeded',
+                'Request failed with status 400 Bad Request for put cart/item?returnCartInfo=true',
+                'Request failed with status 400 Bad Request for post cart/item?returnCartInfo=true',
+                'Request failed with status 400 Bad Request for POST cart/ReserveDeliveryTimeSlot',
+                'Request failed with status 400 Bad Request for put cart/changeDeliveryAddress',
+                'Request failed with status 400 Bad Request for post user/address',
+                'Request failed with status 400 Bad Request for POST cart/submit',
+                'Error: Request failed with status 400 for POST cart(/submit)',
+                'fetchJson network error:',
+                'Request failed with status 400 Bad Request for POST userAuth/login',
+                "Cannot read properties of null (reading 'getItem')",
+                "Request failed with status 400 for POST cart/submit",
+                "Request failed with status 400 Bad Request for POST UserAuth/SocialLogin",
+                "Request failed with status 400 for POST userAuth/login",
+                "Loading chunk",
+                "Request failed with status 400  for POST userAuth/login"
+            ],
+            beforeSend(event) {
+                const agent = window.navigator.userAgent.toLowerCase();
+
+                // Broader check for AdsBot-Google and other Google crawlers
+                if (
+                    agent.includes('adsbot-google') ||
+                    agent.includes('google-read-aloud') ||
+                    agent.includes('googlebot')
+                ) {
+                    return null; // Block event from being sent to Sentry
+                }
+
+                // Check if the responseText contains "time_reservation_needed"
+                if (event.request && event.request.data) {
+                    const requestData = event.request.data;
+
+                    if (typeof requestData === 'string' && requestData.includes('time_reservation_needed')) {
+                        return null;
+                    }
+
+
+                    if (typeof requestData === 'object') {
+                        const responseString = JSON.stringify(requestData);
+                        if (responseString.includes('time_reservation_needed')) {
+                            return null;
+                        }
+                    }
+                }
+
+
+                if (isProbablyBlockedByAdblockNetworkError(event)) return null;
+
+                    // Return null to drop the console event as an Issue 
+                    // (but you'll still have it as a breadcrumb in the session timeline)
+                if (event.logger === 'console') return null;
+
+                return event;
+            }
+        });
+
+    }
+
+    function sentryBundleLoaded() {
+        initSentry();
+    }
+</script>
+<script src="https://browser.sentry-cdn.com/10.32.0/bundle.min.js" crossorigin="anonymous" onload="sentryBundleLoaded()" type="7359e01edb650d01f5f76dc3-text/javascript"></script>
+
+
+    
+
+
+
+
+<script type="7359e01edb650d01f5f76dc3-text/javascript">
+    window.b_cart = null;
+</script>
+
+    
+    
+
+
+        <script type="7359e01edb650d01f5f76dc3-text/javascript" src="/build/main.concat.js?v=1.49.0"></script>
+
+    
+    
+    
+    
+    
+    
+
+    
+
+
+<script data-cookieconsent="marketing" type="text/plain">
+    const omnisendAccountID = "5fce334e8a48f7337bc171ef";
+    if (omnisendAccountID !== "") {
+        window.omnisend = window.omnisend || [];
+        omnisend.push(["brandID", "5fce334e8a48f7337bc171ef"]);
+        omnisend.push(["track", "$pageViewed"]);
+
+        var e = document.createElement("script");
+        e.type = "text/javascript";
+        e.async = true;
+        e.src = "https://omnisnippet1.com/inshop/launcher-v2.js";
+        e.onload = function () {
+            if (window.omnisend && window.omnisend.identifyContact && window.b_user_info && window.b_user_info.loginName && window.b_user_info.isEmailVerified && (window.b_user_info.subscribedToNewsletterEmail || window.b_user_info.subscribedToNewsletterSms)) {
+                window.omnisend.identifyContact({
+                    email: window.b_user_info.loginName,
+                });
+            }
+        };
+        document.getElementsByTagName("script")[0].parentNode.insertBefore(e, document.getElementsByTagName("script")[0]);
+    }
+
+</script>
+
+    
+
+    <script defer src="https://cnstrc.com/js/cust/barbora_oXptfJ.js" type="7359e01edb650d01f5f76dc3-text/javascript"></script>
+    <script type="7359e01edb650d01f5f76dc3-text/javascript">
+        window.cnstrc = window.cnstrc || {};
+        window.cnstrc.indexKey = 'key_iPrSGZnKPnjLRFDN';
+    </script>
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="7359e01edb650d01f5f76dc3-|49" defer></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"bc42b031c7cd4e84b9eedbb27d27fe55","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
