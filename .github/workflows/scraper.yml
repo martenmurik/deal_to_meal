@@ -1,0 +1,51 @@
+name: Daily Grocery Scraper
+
+# This tells GitHub WHEN to run the script
+on:
+  schedule:
+    - cron: '0 4 * * *' # Runs at 04:00 UTC (07:00 AM in Estonia) every day
+  workflow_dispatch: # This gives you a manual "Run Now" button on GitHub's website!
+
+# Give the bot permission to save the JSON files back to your repo
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      # We use 'continue-on-error: true' so if Maxima blocks us, it still scrapes Selver!
+      - name: Run Rimi Scraper
+        continue-on-error: true
+        run: python scraper_rimi.py
+
+      - name: Run Maxima Scraper
+        continue-on-error: true
+        run: python scraper_maxima.py
+
+      - name: Run Selver Scraper
+        continue-on-error: true
+        run: python scraper_selver.py
+
+      - name: Commit and Push JSON files
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add *.json
+          # If the files changed, commit them. If not, do nothing.
+          git commit -m "🤖 Auto-updated supermarket deals" || echo "No changes to commit"
+          git push
