@@ -119,6 +119,13 @@
         "store": "Selver"
     },
     {
+        "name": "Soolane riisikate segu, 500 g",
+        "price": 5.99,
+        "old_price": 6.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740536411005.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Vanilli- ja šokolaadijäätis küpsisetükkidega, LOHILO, 175 g",
         "price": 3.99,
         "old_price": 5.49,
@@ -515,6 +522,13 @@
         "price": 1.29,
         "old_price": 1.68,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4771218201935.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kurk poolpikk, kg",
+        "price": 4.99,
+        "old_price": 5.59,
+        "image": "https://www.selver.ee/img/800/800/resize/2/7/2700079000007.jpg",
         "store": "Selver"
     },
     {
@@ -2048,13 +2062,6 @@
         "price": 1.29,
         "old_price": 1.62,
         "image": "https://www.selver.ee/img/800/800/resize/8/4/8427298003568.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kodupihvid kreemja juustutäidisega, MAKS&MOORITS, 400 g",
-        "price": 1.79,
-        "old_price": 2.33,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740171188928.jpg",
         "store": "Selver"
     },
     {
@@ -3633,6 +3640,13 @@
         "store": "Selver"
     },
     {
+        "name": "Mozzarella, GALBANI, 125 g",
+        "price": 1.19,
+        "old_price": 1.82,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8000430133035.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Hapukoor 20%, TERE, 250 g",
         "price": 1.19,
         "old_price": 1.7199999999999998,
@@ -4204,6 +4218,13 @@
         "price": 1.09,
         "old_price": 1.75,
         "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453017405.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Eesti Juust riivitud, ESTOVER, 400 g",
+        "price": 2.69,
+        "old_price": 4.56,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572004995.jpg",
         "store": "Selver"
     },
     {
@@ -5341,6 +5362,13 @@
         "store": "Selver"
     },
     {
+        "name": "Keeduvorst Laste, RAKVERE LK, 300 g",
+        "price": 1.5899999999999999,
+        "old_price": 2.12,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003003160.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Karboniseeritud looduslik mineraalvesi, BORJOMI, 500 ml",
         "price": 1.09,
         "old_price": 1.49,
@@ -5422,13 +5450,6 @@
         "price": 1.5899999999999999,
         "old_price": 2.39,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740493003008.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Eesti Juust riivitud, ESTOVER, 400 g",
-        "price": 2.69,
-        "old_price": 4.56,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572004995.jpg",
         "store": "Selver"
     },
     {
@@ -5985,6 +6006,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kirsskobartomat, 500 g",
+        "price": 2.59,
+        "old_price": 2.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740608061190.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Pasta Spaghetti Taglaiti, REGGIA, 500 g",
         "price": 1.29,
         "old_price": 1.87,
@@ -6213,6 +6241,13 @@
         "price": 1.05,
         "old_price": 1.41,
         "image": "https://www.selver.ee/img/800/800/resize/6/4/6418474118079.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Mahe Mungoaidu, LÕUNAIDU, 150 g",
+        "price": 1.69,
+        "old_price": 1.89,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416332000122.jpg",
         "store": "Selver"
     },
     {
@@ -6979,6 +7014,13 @@
         "store": "Selver"
     },
     {
+        "name": "Röstsai mitmevilja, LEIBUR, 470 g",
+        "price": 1.29,
+        "old_price": 1.9899999999999998,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740072252858.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Krõbe kaeraküpsis, MARMITON, 150 g",
         "price": 0.99,
         "old_price": 1.4700000000000002,
@@ -7186,13 +7228,6 @@
         "price": 1.69,
         "old_price": 2.02,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003003269.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Keeduvorst Laste, RAKVERE LK, 300 g",
-        "price": 1.5899999999999999,
-        "old_price": 2.12,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003003160.jpg",
         "store": "Selver"
     },
     {
@@ -7406,10 +7441,24 @@
         "store": "Selver"
     },
     {
+        "name": "Klementiin Nova, kg",
+        "price": 2.39,
+        "old_price": 2.79,
+        "image": "https://www.selver.ee/img/800/800/resize/2/7/2700003000004.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Karastusjook Botanicals Pear-Orange-Lemongrass, GO, 330 ml",
         "price": 0.99,
         "old_price": 1.49,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4770349234607.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kodupihvid kreemja juustutäidisega, MAKS&MOORITS, 400 g",
+        "price": 1.79,
+        "old_price": 2.33,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740171188928.jpg",
         "store": "Selver"
     }
 ]
