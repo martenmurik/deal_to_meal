@@ -2065,6 +2065,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kodupihvid kreemja juustutäidisega, MAKS&MOORITS, 400 g",
+        "price": 1.79,
+        "old_price": 2.33,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740171188928.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Lahustuv kohvijook 3in1 Original (karp 20x12,6g), JACOBS, 252 g",
         "price": 3.99,
         "old_price": 5.68,
@@ -4221,13 +4228,6 @@
         "store": "Selver"
     },
     {
-        "name": "Eesti Juust riivitud, ESTOVER, 400 g",
-        "price": 2.69,
-        "old_price": 4.56,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572004995.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Jogurtijook kreeka vaarika-virsiku, ALMA, 275g",
         "price": 0.99,
         "old_price": 1.22,
@@ -4595,7 +4595,7 @@
         "name": "Karastusjook Sprite, SPRITE, 500 ml",
         "price": 0.99,
         "old_price": 1.27,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112679625.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000110671.jpg",
         "store": "Selver"
     },
     {
@@ -5362,13 +5362,6 @@
         "store": "Selver"
     },
     {
-        "name": "Keeduvorst Laste, RAKVERE LK, 300 g",
-        "price": 1.5899999999999999,
-        "old_price": 2.12,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003003160.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Karboniseeritud looduslik mineraalvesi, BORJOMI, 500 ml",
         "price": 1.09,
         "old_price": 1.49,
@@ -5450,6 +5443,13 @@
         "price": 1.5899999999999999,
         "old_price": 2.39,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740493003008.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Eesti Juust riivitud, ESTOVER, 400 g",
+        "price": 2.69,
+        "old_price": 4.56,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572004995.jpg",
         "store": "Selver"
     },
     {
@@ -6044,7 +6044,7 @@
         "name": "Tomatipasta, POMI, 200 g",
         "price": 0.95,
         "old_price": 1.09,
-        "image": "https://www.selver.ee/img/800/800/resize/8/0/8002580043103.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8032793344308.jpg",
         "store": "Selver"
     },
     {
@@ -6611,7 +6611,7 @@
         "name": "Karastusjook Coca-Cola, COCA-COLA, 2 L",
         "price": 1.89,
         "old_price": 2.73,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651355.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4743050000045.jpg",
         "store": "Selver"
     },
     {
@@ -7231,6 +7231,13 @@
         "store": "Selver"
     },
     {
+        "name": "Keeduvorst Laste, RAKVERE LK, 300 g",
+        "price": 1.5899999999999999,
+        "old_price": 2.12,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003003160.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Keeduvorst Juustu, RAKVERE LK, 300 g",
         "price": 1.89,
         "old_price": 2.43,
@@ -7452,13 +7459,6 @@
         "price": 0.99,
         "old_price": 1.49,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4770349234607.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kodupihvid kreemja juustutäidisega, MAKS&MOORITS, 400 g",
-        "price": 1.79,
-        "old_price": 2.33,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740171188928.jpg",
         "store": "Selver"
     }
 ]
