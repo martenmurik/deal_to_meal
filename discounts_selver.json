@@ -847,6 +847,27 @@
         "store": "Selver"
     },
     {
+        "name": "Vaarikamoos, GESTUS, 400 g",
+        "price": 2.79,
+        "old_price": 3.6899999999999995,
+        "image": "https://www.selver.ee/img/800/800/resize/5/7/5701410363918.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kapparid, GESTUS, 35 g neto",
+        "price": 0.99,
+        "old_price": 1.29,
+        "image": "https://www.selver.ee/img/800/800/resize/5/7/5701410362997.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Küüslauk tšilliõlis, GESTUS, 190 g neto",
+        "price": 2.89,
+        "old_price": 3.49,
+        "image": "https://www.selver.ee/img/800/800/resize/5/7/5701410361068.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Hollandi kuivikud, GESTUS, 125 g",
         "price": 1.59,
         "old_price": 1.9899999999999998,
@@ -879,6 +900,13 @@
         "price": 2.49,
         "old_price": 2.99,
         "image": "https://www.selver.ee/img/800/800/resize/5/7/5701410411237.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Paneeritud Torpedo krevetid, külmutatud, GESTUS, 200 g",
+        "price": 2.99,
+        "old_price": 3.99,
+        "image": "https://www.selver.ee/img/800/800/resize/5/7/5701410331870.jpg",
         "store": "Selver"
     },
     {
@@ -1320,13 +1348,6 @@
         "price": 5.49,
         "old_price": 6.09,
         "image": "https://www.selver.ee/img/800/800/resize/8/7/8711000578094.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Soolatud forelli tükid, VICI, 200 g",
-        "price": 5.29,
-        "old_price": 6.99,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4770594206619.jpg",
         "store": "Selver"
     },
     {
@@ -5148,7 +5169,7 @@
         "name": "Tortilla krõpsud tšilli, SANTA MARIA, 185 g",
         "price": 1.99,
         "old_price": 2.59,
-        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311312008091.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311310032029.jpg",
         "store": "Selver"
     },
     {
@@ -5519,7 +5540,7 @@
         "name": "Kohvikapslid Dolce Gusto Lungo, NESCAFE, 16 tk",
         "price": 5.99,
         "old_price": 8.49,
-        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613037933611.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290871992.jpg",
         "store": "Selver"
     },
     {
