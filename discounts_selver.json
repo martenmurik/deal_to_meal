@@ -2317,13 +2317,6 @@
         "store": "Selver"
     },
     {
-        "name": "Lahustuv kohvijook 3in1 Strong (kott)10x16g, NESCAFE, 160 g",
-        "price": 2.19,
-        "old_price": 3.25,
-        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445291208445.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Täiskasvanud koertele hirveliha-kalkuni teraviljavaba täistoit, PRIMADOG, 3kg",
         "price": 17.99,
         "old_price": 22.26,
@@ -5540,7 +5533,7 @@
         "name": "Kohvikapslid Dolce Gusto Lungo, NESCAFE, 16 tk",
         "price": 5.99,
         "old_price": 8.49,
-        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290871992.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613037933611.jpg",
         "store": "Selver"
     },
     {
@@ -6892,6 +6885,13 @@
         "price": 1.09,
         "old_price": 1.9899999999999998,
         "image": "https://www.selver.ee/img/800/800/resize/2/7/2700835000005.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Arbuus, kg",
+        "price": 0.69,
+        "old_price": 1.5899999999999999,
+        "image": "https://www.selver.ee/img/800/800/resize/2/7/2700062000007.jpg",
         "store": "Selver"
     },
     {
