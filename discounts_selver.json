@@ -3010,13 +3010,6 @@
         "store": "Selver"
     },
     {
-        "name": "Piparmündi-koorejäätis küpsisetükkidega, CLASSIC, 270 g",
-        "price": 3.1900000000000004,
-        "old_price": 4.56,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740188012575.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Salatikurk 616 g, PÕLTSAMAA, 380 g neto",
         "price": 1.89,
         "old_price": 2.43,
@@ -3223,7 +3216,7 @@
         "name": "Vaarikatomat karbis, 450 g",
         "price": 2.99,
         "old_price": 3.49,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779017030305.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779037250196.jpg",
         "store": "Selver"
     },
     {
@@ -6206,6 +6199,13 @@
         "price": 3.99,
         "old_price": 6.7,
         "image": "https://www.selver.ee/img/800/800/resize/5/2/5201168915013.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Puuviljapüree Roheline mahe, ELLA'S KITCHEN, 90 g",
+        "price": 1.75,
+        "old_price": 2.02,
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5060107330412.jpg",
         "store": "Selver"
     },
     {
