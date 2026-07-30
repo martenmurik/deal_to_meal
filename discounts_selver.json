@@ -910,13 +910,6 @@
         "store": "Selver"
     },
     {
-        "name": "HULGI Apelsinimahl viljalihaga 100% 5tk, PURE, 5 x1L",
-        "price": 15.45,
-        "old_price": 16.45,
-        "image": "https://www.selver.ee/img/800/800/resize/2/1/216000000975.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "HULGI Kanapuljong 3tk, MAGGI, 3x120g",
         "price": 2.79,
         "old_price": 4.47,
@@ -3048,7 +3041,7 @@
         "name": "Jäätee Virsiku-hibski, FUZETEA, 500 ml",
         "price": 0.99,
         "old_price": 1.37,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651942.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000236623.jpg",
         "store": "Selver"
     },
     {
@@ -3175,6 +3168,13 @@
         "price": 3.6,
         "old_price": 3.87,
         "image": "https://www.selver.ee/img/800/800/resize/0/2/0210100001351.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "HULGI Seahakkliha 2tk, MAKS&MOORITS, 2 x 500g",
+        "price": 3.8,
+        "old_price": 5.58,
+        "image": "https://www.selver.ee/img/800/800/resize/0/2/0210100001320.jpg",
         "store": "Selver"
     },
     {
@@ -4630,7 +4630,7 @@
         "name": "Karastusjook Sprite, SPRITE, 1,5 L",
         "price": 1.59,
         "old_price": 2.29,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651904.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000110718.jpg",
         "store": "Selver"
     },
     {
@@ -5211,7 +5211,7 @@
         "name": "Jäätee Sidrunheina, FUZETEA, 500 ml",
         "price": 0.99,
         "old_price": 1.37,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651959.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000235947.jpg",
         "store": "Selver"
     },
     {
@@ -7760,13 +7760,6 @@
         "price": 2.29,
         "old_price": 3.99,
         "image": "https://www.selver.ee/img/800/800/resize/8/4/8436006180613.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "HULGI Seahakkliha 2tk, MAKS&MOORITS, 2 x 500g",
-        "price": 3.8,
-        "old_price": 5.58,
-        "image": "https://www.selver.ee/img/800/800/resize/0/2/0210100001320.jpg",
         "store": "Selver"
     }
 ]
