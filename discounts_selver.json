@@ -721,7 +721,7 @@
         "store": "Selver"
     },
     {
-        "name": "Rukkileib idantatud teradega, LÕUNA PAGARID, 300g",
+        "name": "Rukkileib idandatud teradega, LÕUNA PAGARID, 300g",
         "price": 1.36,
         "old_price": 1.49,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740633001321.jpg",
@@ -1359,7 +1359,7 @@
     },
     {
         "name": "Cracker Red Pepper, mahe, DR. KARG, 85 g",
-        "price": 1.9899999999999998,
+        "price": 1.99,
         "old_price": 2.59,
         "image": "https://www.selver.ee/img/800/800/resize/4/0/4033634300945.jpg",
         "store": "Selver"
@@ -3612,6 +3612,13 @@
         "store": "Selver"
     },
     {
+        "name": "Vaarikas karbis, ARANFARMING, 250g",
+        "price": 5.99,
+        "old_price": 6.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4744021010209.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Seenekotlet, MARTA KULINAARIA, 240 g",
         "price": 2.99,
         "old_price": 3.95,
@@ -5533,7 +5540,7 @@
         "name": "Lahustuv kohv Classic (klaaspurk), NESCAFE, 200 g",
         "price": 7.99,
         "old_price": 11.99,
-        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613031918881.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290303080.jpg",
         "store": "Selver"
     },
     {
@@ -6128,7 +6135,7 @@
         "name": "Kohvikapslid Dolce Gusto Lungo, NESCAFE, 16 tk",
         "price": 5.99,
         "old_price": 8.49,
-        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613037933611.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290871992.jpg",
         "store": "Selver"
     },
     {
@@ -6276,13 +6283,6 @@
         "price": 1.29,
         "old_price": 1.85,
         "image": "https://www.selver.ee/img/800/800/resize/8/0/8008857010038.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kooritud tomatid, REGGIA, 400 g",
-        "price": 1.29,
-        "old_price": 1.68,
-        "image": "https://www.selver.ee/img/800/800/resize/8/0/8008857010021.jpg",
         "store": "Selver"
     },
     {
