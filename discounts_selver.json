@@ -14,6 +14,55 @@
         "store": "Selver"
     },
     {
+        "name": "Rabarberi-leedrimarja marmelaad, GOURMET CLUB, 120g",
+        "price": 3.79,
+        "old_price": 4.45,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740670002497.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Tex Mex dipikaste, SANTA MARIA,",
+        "price": 3.29,
+        "old_price": 4.19,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311312009616.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Šokolaadikompvekid Assortii, EESTI LEIVATÖÖSTUS, 160 g",
+        "price": 11.29,
+        "old_price": 14.990000000000002,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740064580242.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Riisigaletid Himaalaja soolaga, LESTELLO, 135g",
+        "price": 1.59,
+        "old_price": 1.9899999999999998,
+        "image": "https://www.selver.ee/img/800/800/resize/5/9/5902609001882.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kurgisalat, FELIX, 280 g",
+        "price": 1.89,
+        "old_price": 2.29,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740029700364.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Piknikukurk (terve), FELIX, 680g",
+        "price": 2.49,
+        "old_price": 2.8899999999999997,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740029700296.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Tosca kattega saiake, SELVERI PAGARID, 90g",
+        "price": 0.79,
+        "old_price": 0.9,
+        "image": "https://www.selver.ee/img/800/800/resize/2/6/2615503000006.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Õun Braeburn, kg",
         "price": 1.5899999999999999,
         "old_price": 2.99,
@@ -2121,6 +2170,13 @@
         "store": "Selver"
     },
     {
+        "name": "Korea ramen kiirnuudlid tuline kana Buldak, SAMYANG, 140 g",
+        "price": 1.69,
+        "old_price": 2.49,
+        "image": "https://www.selver.ee/img/800/800/resize/8/8/8801073110502.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "HULGI Koorene jogurt maasikatega 3tk, FARMI, 3 x 400g",
         "price": 3.9,
         "old_price": 4.47,
@@ -4152,7 +4208,7 @@
     },
     {
         "name": "Kukeseened, ARAN FARMING, 300 g",
-        "price": 5.290000000000001,
+        "price": 4.99,
         "old_price": 7.99,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4744021010216.jpg",
         "store": "Selver"
@@ -7623,10 +7679,10 @@
         "store": "Selver"
     },
     {
-        "name": "Šokolaadikompvekid Assortii, EESTI LEIVATÖÖSTUS, 160 g",
-        "price": 11.29,
-        "old_price": 14.990000000000002,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740064580242.jpg",
+        "name": "Maasika-rabarberi moos, FIRST PRICE, 400 g",
+        "price": 2.79,
+        "old_price": 3.49,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311041089279.jpg",
         "store": "Selver"
     }
 ]
