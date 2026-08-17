@@ -84,6 +84,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kurgi-sinepisalat, FELIX, 280 g",
+        "price": 1.89,
+        "old_price": 2.29,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740029700371.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Kurgisalat, FELIX, 280 g",
         "price": 1.89,
         "old_price": 2.29,
@@ -1019,6 +1026,13 @@
         "price": 6,
         "old_price": 9.4,
         "image": "https://www.selver.ee/img/800/800/resize/2/1/213000001506.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "HULGI Apelsinimahl viljalihaga 100% 5tk, PURE, 5 x1L",
+        "price": 15.45,
+        "old_price": 16.45,
+        "image": "https://www.selver.ee/img/800/800/resize/2/1/216000000975.jpg",
         "store": "Selver"
     },
     {
@@ -4399,7 +4413,7 @@
         "name": "Toonik Bitter Lemon, SCHWEPPES, 1 L",
         "price": 1.39,
         "old_price": 1.92,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651799.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000044839.jpg",
         "store": "Selver"
     },
     {
@@ -4427,7 +4441,7 @@
         "name": "Toonik Tangerine, SCHWEPPES, 1 L",
         "price": 1.39,
         "old_price": 1.92,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651805.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000089380.jpg",
         "store": "Selver"
     },
     {
@@ -5652,7 +5666,7 @@
         "name": "Lahustuv kohv Classic (klaaspurk), NESCAFE, 200 g",
         "price": 7.99,
         "old_price": 11.99,
-        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613031918881.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290303080.jpg",
         "store": "Selver"
     },
     {
@@ -5786,6 +5800,13 @@
         "price": 0.69,
         "old_price": 0.8599999999999999,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4751014940054.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Broileririnnafilee minutipihv mee-tšilliga, TALLEGG, 350 g",
+        "price": 4.79,
+        "old_price": 6.27,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740046006111.jpg",
         "store": "Selver"
     },
     {
@@ -5988,14 +6009,14 @@
         "name": "Greibinektar 55%, GRANINI, 1 L",
         "price": 2.99,
         "old_price": 3.34,
-        "image": "https://www.selver.ee/img/800/800/resize/4/0/4002160261006.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/0/4048517627156.jpg",
         "store": "Selver"
     },
     {
         "name": "Apelsini-mangonektar, GRANINI, 1 L",
         "price": 2.99,
         "old_price": 4.06,
-        "image": "https://www.selver.ee/img/800/800/resize/4/0/4002160267008.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/0/4048517627187.jpg",
         "store": "Selver"
     },
     {
@@ -6216,6 +6237,13 @@
         "store": "Selver"
     },
     {
+        "name": "Juustuga minutipihv broileririnnafileest, TALLEGG, 350 g",
+        "price": 4.59,
+        "old_price": 5.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740046006104.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Magus muretainas, EESTI PAGAR, 500 g",
         "price": 1.99,
         "old_price": 2.53,
@@ -6233,7 +6261,7 @@
         "name": "Kohvikapslid Dolce Gusto Lungo, NESCAFE, 16 tk",
         "price": 5.99,
         "old_price": 8.49,
-        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613037933611.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290871992.jpg",
         "store": "Selver"
     },
     {
@@ -6415,7 +6443,7 @@
         "name": "Kakaokeeks Kinder Delice, FERRERO, 42g",
         "price": 0.85,
         "old_price": 1.05,
-        "image": "https://www.selver.ee/img/800/800/resize/8/0/8000500267035.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/80052463.jpg",
         "store": "Selver"
     },
     {
