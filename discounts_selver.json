@@ -2555,6 +2555,13 @@
         "store": "Selver"
     },
     {
+        "name": "HULGI Pepperoni täissuitsuvorst 3tk, OSKAR, 3 x 80g",
+        "price": 5,
+        "old_price": 5.97,
+        "image": "https://www.selver.ee/img/800/800/resize/0/2/0210100001450.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Külmsuitsu lõheliste amps, AVEKTRA, 100g",
         "price": 2.49,
         "old_price": 3.99,
@@ -5989,6 +5996,13 @@
         "price": 2.99,
         "old_price": 3.65,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740029045441.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "\"Nutri Mio\" gluteenivaba pasta PENNE RIGATE, REGGIA, 400 g",
+        "price": 2.49,
+        "old_price": 3.12,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8008857114347.jpg",
         "store": "Selver"
     },
     {
