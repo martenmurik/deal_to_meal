@@ -70,6 +70,13 @@
         "store": "Selver"
     },
     {
+        "name": "Musta leivakrõpsud kolmejuustu maitselised, BON CHANCE, 120 g",
+        "price": 1.79,
+        "old_price": 2.02,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4770350023887.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Riisigalett, LESTELLO, 135 g",
         "price": 1.39,
         "old_price": 1.75,
@@ -2422,6 +2429,13 @@
         "store": "Selver"
     },
     {
+        "name": "Korea ramen kiirnuudlid tuline kana Buldak, SAMYANG, 140 g",
+        "price": 1.69,
+        "old_price": 2.49,
+        "image": "https://www.selver.ee/img/800/800/resize/8/8/8801073110502.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "HULGI Koorene jogurt maasikatega 3tk, FARMI, 3 x 400g",
         "price": 3.9,
         "old_price": 4.47,
@@ -3094,13 +3108,6 @@
         "store": "Selver"
     },
     {
-        "name": "Juuretise Röst, FAZER, 450 g",
-        "price": 1.59,
-        "old_price": 1.89,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4750212903427.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Kohvioad Brazil, LÖFBERGS, 1 kg",
         "price": 13.99,
         "old_price": 24.29,
@@ -3364,6 +3371,13 @@
         "price": 0.89,
         "old_price": 1.35,
         "image": "https://www.selver.ee/img/800/800/resize/5/9/5900951302411.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Soolakaramelli batoon piimašokolaadis, KALEV, 40 g",
+        "price": 0.75,
+        "old_price": 0.97,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012028499.jpg",
         "store": "Selver"
     },
     {
@@ -8194,6 +8208,13 @@
         "price": 2.69,
         "old_price": 4.06,
         "image": "https://www.selver.ee/img/800/800/resize/5/9/5998818568353.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Juuretise Röst, FAZER, 450 g",
+        "price": 1.59,
+        "old_price": 1.89,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4750212903427.jpg",
         "store": "Selver"
     }
 ]
