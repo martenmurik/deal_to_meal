@@ -1,5 +1,12 @@
 [
     {
+        "name": "Vegan taimne majonees klaaspurgis, HELLMANN'S, 330 g",
+        "price": 3.49,
+        "old_price": 4.99,
+        "image": "https://www.selver.ee/img/800/800/resize/8/7/8721201922435.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Nuudlid koorekastmes murulauguga, KNORR, 59g",
         "price": 1.39,
         "old_price": 2.29,
@@ -11,13 +18,6 @@
         "price": 3.99,
         "old_price": 7.79,
         "image": "https://www.selver.ee/img/800/800/resize/8/7/8720182112644.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Vegan taimne majonees klaaspurgis, HELLMANN'S, 330 g",
-        "price": 3.49,
-        "old_price": 4.99,
-        "image": "https://www.selver.ee/img/800/800/resize/8/7/8721201922435.jpg",
         "store": "Selver"
     },
     {
@@ -2135,6 +2135,13 @@
         "store": "Selver"
     },
     {
+        "name": "HULGI Sulatatud juust 2tk, MEREVAIK, 2 x 370 g",
+        "price": 6.299999999999999,
+        "old_price": 6.78,
+        "image": "https://www.selver.ee/img/800/800/resize/0/2/0210300004053.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "HULGI Viineripirukas 3 tk, EESTI PAGAR, 3 x 360 g",
         "price": 7.5,
         "old_price": 8.25,
@@ -3105,6 +3112,13 @@
         "price": 2.29,
         "old_price": 3.09,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4770190161237.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Juuretise Röst, FAZER, 450 g",
+        "price": 1.59,
+        "old_price": 1.89,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4750212903427.jpg",
         "store": "Selver"
     },
     {
@@ -5145,6 +5159,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kreeka jogurt maitsestamata laktoosivaba, TERE, 350 g",
+        "price": 1.29,
+        "old_price": 1.68,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740036014287.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Mangomaius chia seemnetega Fitlap, SELVERI KÖÖK, 130g",
         "price": 1.59,
         "old_price": 1.9899999999999998,
@@ -6660,7 +6681,7 @@
         "name": "Nisujahu T550, KALEW, 1 kg",
         "price": 0.95,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740493002162.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/0/4015410120411.jpg",
         "store": "Selver"
     },
     {
@@ -7291,13 +7312,6 @@
         "price": 3.99,
         "old_price": 4.87,
         "image": "https://www.selver.ee/img/800/800/resize/5/2/5200110730476.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Puuviljapüree Roheline mahe, ELLA'S KITCHEN, 90 g",
-        "price": 1.75,
-        "old_price": 2.02,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5060107330412.jpg",
         "store": "Selver"
     },
     {
@@ -8204,17 +8218,17 @@
         "store": "Selver"
     },
     {
+        "name": "Pitahaia, kg",
+        "price": 9.99,
+        "old_price": 22.03,
+        "image": "https://www.selver.ee/img/800/800/resize/2/7/2709539000007.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Alkoholivaba kihisev puuviljajook, SONIC, 750 ml",
         "price": 2.69,
         "old_price": 4.06,
         "image": "https://www.selver.ee/img/800/800/resize/5/9/5998818568353.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Juuretise Röst, FAZER, 450 g",
-        "price": 1.59,
-        "old_price": 1.89,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4750212903427.jpg",
         "store": "Selver"
     }
 ]
