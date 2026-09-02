@@ -14,17 +14,17 @@
         "store": "Selver"
     },
     {
-        "name": "Deli majonees, HELLMANN'S, 430 g",
-        "price": 2.69,
-        "old_price": 5.789999999999999,
-        "image": "https://www.selver.ee/img/800/800/resize/8/7/8721317711008.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Vegan taimne majonees klaaspurgis, HELLMANN'S, 330 g",
         "price": 3.49,
         "old_price": 4.99,
         "image": "https://www.selver.ee/img/800/800/resize/8/7/8721201922435.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Deli majonees, HELLMANN'S, 430 g",
+        "price": 2.69,
+        "old_price": 5.789999999999999,
+        "image": "https://www.selver.ee/img/800/800/resize/8/7/8721317711008.jpg",
         "store": "Selver"
     },
     {
@@ -46,6 +46,13 @@
         "price": 2.69,
         "old_price": 4.06,
         "image": "https://www.selver.ee/img/800/800/resize/5/9/5998818568353.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Tort Tere, kool!, SELVERI KÖÖK, 770 g",
+        "price": 8.99,
+        "old_price": 11.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740581115187.jpg",
         "store": "Selver"
     },
     {
@@ -707,13 +714,6 @@
         "store": "Selver"
     },
     {
-        "name": "Rebitud lihaga ja ananassiga pitsa, SELVERI PAGARID, 700 g",
-        "price": 5.360000000000001,
-        "old_price": 7.15,
-        "image": "https://www.selver.ee/img/800/800/resize/2/6/2615204000008.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Tomatimaitselised kartulikrõpsud, LAY'S, 180g",
         "price": 2.49,
         "old_price": 3.59,
@@ -1323,6 +1323,13 @@
         "store": "Selver"
     },
     {
+        "name": "Hawaii pitsa, SELVERI PAGARID, 660g",
+        "price": 5.03,
+        "old_price": 6.7,
+        "image": "https://www.selver.ee/img/800/800/resize/2/6/2615252000005.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Keefirijogurt mango-apelsini, HELLUS, 380 g",
         "price": 1.29,
         "old_price": 1.65,
@@ -1334,6 +1341,13 @@
         "price": 1.29,
         "old_price": 1.65,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740036018346.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Peekoni-seenepitsa, SELVERI PAGARID, 660g",
+        "price": 5.03,
+        "old_price": 6.7,
+        "image": "https://www.selver.ee/img/800/800/resize/2/6/2615246000004.jpg",
         "store": "Selver"
     },
     {
@@ -1617,17 +1631,10 @@
         "store": "Selver"
     },
     {
-        "name": "Hawaii pitsa, SELVERI PAGARID, 660g",
-        "price": 5.03,
-        "old_price": 6.7,
-        "image": "https://www.selver.ee/img/800/800/resize/2/6/2615252000005.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Peekoni-seenepitsa, SELVERI PAGARID, 660g",
-        "price": 5.03,
-        "old_price": 6.7,
-        "image": "https://www.selver.ee/img/800/800/resize/2/6/2615246000004.jpg",
+        "name": "Tere kool martsipanikoogid, SELVERI KÖÖK, 200 g",
+        "price": 3.99,
+        "old_price": 5.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740581114265.jpg",
         "store": "Selver"
     },
     {
@@ -2404,7 +2411,7 @@
         "name": "Õunanektar, FIRST PRICE, 1,5 l",
         "price": 1.79,
         "old_price": 2.15,
-        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311041085110.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/7/5701410332228.jpg",
         "store": "Selver"
     },
     {
@@ -4693,7 +4700,7 @@
         "name": "Toonik Bitter Lemon, SCHWEPPES, 1 L",
         "price": 1.39,
         "old_price": 1.92,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651799.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000044839.jpg",
         "store": "Selver"
     },
     {
@@ -4721,7 +4728,7 @@
         "name": "Toonik Tangerine, SCHWEPPES, 1 L",
         "price": 1.39,
         "old_price": 1.92,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651805.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000089380.jpg",
         "store": "Selver"
     },
     {
@@ -4966,7 +4973,7 @@
         "name": "Odrajahuga pelmeenid broilerilihaga Fitlap, UVIC, 400 g",
         "price": 2.79,
         "old_price": 3.45,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4745092370032.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740223022941.jpg",
         "store": "Selver"
     },
     {
@@ -6086,7 +6093,7 @@
         "name": "Lahustuv kohv Classic (klaaspurk), NESCAFE, 200 g",
         "price": 7.99,
         "old_price": 11.99,
-        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613031918881.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290303080.jpg",
         "store": "Selver"
     },
     {
@@ -6653,7 +6660,7 @@
         "name": "Kohvikapslid Dolce Gusto Lungo, NESCAFE, 16 tk",
         "price": 5.99,
         "old_price": 8.49,
-        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613037933611.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290871992.jpg",
         "store": "Selver"
     },
     {
@@ -6681,7 +6688,7 @@
         "name": "Nisujahu T550, KALEW, 1 kg",
         "price": 0.95,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/4/0/4015410120411.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740493002162.jpg",
         "store": "Selver"
     },
     {
@@ -6856,7 +6863,7 @@
         "name": "Kakaokeeks Kinder Delice, FERRERO, 42g",
         "price": 0.85,
         "old_price": 1.05,
-        "image": "https://www.selver.ee/img/800/800/resize/8/0/8000500267035.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/80052463.jpg",
         "store": "Selver"
     },
     {
@@ -7297,7 +7304,7 @@
         "name": "Šokolaad, TWIX, 50 g",
         "price": 0.89,
         "old_price": 1.29,
-        "image": "https://www.selver.ee/img/800/800/resize/5/9/5900951313592.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000159459228.jpg",
         "store": "Selver"
     },
     {
@@ -8250,6 +8257,13 @@
         "price": 1.19,
         "old_price": 1.68,
         "image": "https://www.selver.ee/img/800/800/resize/2/7/2715512000001.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Rebitud lihaga ja ananassiga pitsa, SELVERI PAGARID, 700 g",
+        "price": 5.360000000000001,
+        "old_price": 7.15,
+        "image": "https://www.selver.ee/img/800/800/resize/2/6/2615204000008.jpg",
         "store": "Selver"
     }
 ]
