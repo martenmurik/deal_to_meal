@@ -28,6 +28,13 @@
         "store": "Selver"
     },
     {
+        "name": "Keeduvorst Juustu, RAKVERE LK, 300 g",
+        "price": 1.89,
+        "old_price": 2.43,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003001661.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Mafaldelle pasta, PANZANI, 500 g",
         "price": 1.79,
         "old_price": 2.69,
@@ -2818,6 +2825,13 @@
         "price": 0.35,
         "old_price": 0.5,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740125639124.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kohuke vaarikatäidisega kakaoglasuuris, ALMA, 40 g",
+        "price": 0.35,
+        "old_price": 0.5,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740125639131.jpg",
         "store": "Selver"
     },
     {
@@ -6226,7 +6240,7 @@
         "name": "Lahustuv kohv Classic (klaaspurk), NESCAFE, 200 g",
         "price": 7.99,
         "old_price": 11.99,
-        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290303080.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613031918881.jpg",
         "store": "Selver"
     },
     {
@@ -6786,7 +6800,7 @@
         "name": "Kohvikapslid Dolce Gusto Lungo, NESCAFE, 16 tk",
         "price": 5.99,
         "old_price": 8.49,
-        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290871992.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613037933611.jpg",
         "store": "Selver"
     },
     {
@@ -8127,13 +8141,6 @@
         "store": "Selver"
     },
     {
-        "name": "Rakvere viiner, RAKVERE LK, 500 g",
-        "price": 2.69,
-        "old_price": 3.45,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003005706.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Snäkk pro Õllesigar, RAKVERE LK, 120 g",
         "price": 1.99,
         "old_price": 2.75,
@@ -8152,13 +8159,6 @@
         "price": 1.59,
         "old_price": 2.12,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003003160.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Keeduvorst Juustu, RAKVERE LK, 300 g",
-        "price": 1.89,
-        "old_price": 2.43,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003001661.jpg",
         "store": "Selver"
     },
     {
@@ -8369,6 +8369,13 @@
         "price": 1.19,
         "old_price": 1.68,
         "image": "https://www.selver.ee/img/800/800/resize/2/7/2715512000001.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Rakvere viiner, RAKVERE LK, 500 g",
+        "price": 2.69,
+        "old_price": 3.45,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003005706.jpg",
         "store": "Selver"
     }
 ]
