@@ -1,9 +1,23 @@
 [
     {
+        "name": "Nuudlid koorekastmes murulauguga, KNORR, 59g",
+        "price": 1.39,
+        "old_price": 2.29,
+        "image": "https://www.selver.ee/img/800/800/resize/8/5/8584057005345.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Piimašokolaad tervete metspähklitega, KARL FAZER, 200g",
         "price": 3.69,
         "old_price": 5.65,
         "image": "https://www.selver.ee/img/800/800/resize/6/4/6411401015151.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Pasta Carbonara juustu-koore kastmes, KNORR, 55 g",
+        "price": 1.35,
+        "old_price": 2.29,
+        "image": "https://www.selver.ee/img/800/800/resize/8/5/8584057005369.jpg",
         "store": "Selver"
     },
     {
@@ -18,20 +32,6 @@
         "price": 2.99,
         "old_price": 5.290000000000001,
         "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453095120.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Pasta Carbonara juustu-koore kastmes, KNORR, 55 g",
-        "price": 1.35,
-        "old_price": 2.29,
-        "image": "https://www.selver.ee/img/800/800/resize/8/5/8584057005369.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Nuudlid koorekastmes murulauguga, KNORR, 59g",
-        "price": 1.39,
-        "old_price": 2.29,
-        "image": "https://www.selver.ee/img/800/800/resize/8/5/8584057005345.jpg",
         "store": "Selver"
     },
     {
@@ -1841,6 +1841,13 @@
         "store": "Selver"
     },
     {
+        "name": "Greip valge, kg",
+        "price": 2.59,
+        "old_price": 3.29,
+        "image": "https://www.selver.ee/img/800/800/resize/2/7/2700011000003.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Korea peedisalat, SELVERI KÖÖK, 200 g",
         "price": 1.29,
         "old_price": 1.69,
@@ -1949,7 +1956,7 @@
         "name": "Karastusjook Fanta Apelsini Zero kalorivaba, FANTA, 330 ml",
         "price": 0.89,
         "old_price": 1.11,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112678918.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000235367.jpg",
         "store": "Selver"
     },
     {
@@ -4382,6 +4389,13 @@
         "store": "Selver"
     },
     {
+        "name": "Laktase direkt 7000 N90, SANOTACT, 7,1 g",
+        "price": 10.69,
+        "old_price": 13.2,
+        "image": "https://www.selver.ee/img/800/800/resize/4/0/4003087432456.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Rosmariin, 50 g",
         "price": 1.9899999999999998,
         "old_price": 2.49,
@@ -5428,21 +5442,21 @@
         "name": "Karboniseeritud mineraalvesi Mündi, NEPTUNAS, 500 ml",
         "price": 0.69,
         "old_price": 0.95,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651546.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779017040762.jpg",
         "store": "Selver"
     },
     {
         "name": "Karboniseeritud mineraalvesi Mündi, NEPTUNAS, 1,5 L",
         "price": 0.99,
         "old_price": 1.25,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651539.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779017040632.jpg",
         "store": "Selver"
     },
     {
         "name": "Mineraalvesi Still karboniseerimata, NEPTUNAS, 1,5 L",
         "price": 0.79,
         "old_price": 1.09,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651454.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779017040496.jpg",
         "store": "Selver"
     },
     {
@@ -5505,14 +5519,14 @@
         "name": "Karastusjook Coca-Cola Zero magusainetega, COCA-COLA, 330 ml",
         "price": 0.89,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112678284.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000214799.jpg",
         "store": "Selver"
     },
     {
         "name": "Karastusjook Coca-Cola, COCA-COLA, 330 ml",
         "price": 0.89,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112677973.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000214911.jpg",
         "store": "Selver"
     },
     {
@@ -6531,13 +6545,6 @@
         "store": "Selver"
     },
     {
-        "name": "Apelsinimaitselised dražeed, TIC TAC, 18 g.",
-        "price": 0.79,
-        "old_price": 0.99,
-        "image": "https://www.selver.ee/img/800/800/resize/8/0/80052333.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Hautatud oad tomatikastmes, ORGANIC FOODS, 400 g",
         "price": 1.59,
         "old_price": 1.9899999999999998,
@@ -7073,7 +7080,7 @@
         "name": "Karastusjook Coca-Cola, COCA-COLA, 2 L",
         "price": 2.09,
         "old_price": 2.73,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651355.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4743050000045.jpg",
         "store": "Selver"
     },
     {
