@@ -1,12 +1,5 @@
 [
     {
-        "name": "Nuudlid koorekastmes murulauguga, KNORR, 59g",
-        "price": 1.39,
-        "old_price": 2.29,
-        "image": "https://www.selver.ee/img/800/800/resize/8/5/8584057005345.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Piimašokolaad tervete metspähklitega, KARL FAZER, 200g",
         "price": 3.69,
         "old_price": 5.65,
@@ -21,17 +14,17 @@
         "store": "Selver"
     },
     {
+        "name": "Nuudlid koorekastmes murulauguga, KNORR, 59g",
+        "price": 1.39,
+        "old_price": 2.29,
+        "image": "https://www.selver.ee/img/800/800/resize/8/5/8584057005345.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "HULGI Kookosjook, väherasvane 5 tk, SANTA MARIA, 5x250ml",
         "price": 9.25,
         "old_price": 13.75,
         "image": "https://www.selver.ee/img/800/800/resize/0/2/0213200000705.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Piimašokolaad, KARL FAZER, 180 g",
-        "price": 2.99,
-        "old_price": 5.290000000000001,
-        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453095014.jpg",
         "store": "Selver"
     },
     {
@@ -53,6 +46,13 @@
         "price": 2.19,
         "old_price": 3.29,
         "image": "https://www.selver.ee/img/800/800/resize/8/7/8721317740077.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Piimašokolaad, KARL FAZER, 180 g",
+        "price": 2.99,
+        "old_price": 5.290000000000001,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453095014.jpg",
         "store": "Selver"
     },
     {
@@ -116,20 +116,6 @@
         "price": 1.39,
         "old_price": 1.69,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740581115279.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Täissööt pasteet täiskasvanud koertele veiselihaga, SELVER, 300g",
-        "price": 0.95,
-        "old_price": 1.19,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740581002104.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Täissööt pasteet täiskasvanud koertele lambalihaga, SELVER, 300g",
-        "price": 0.95,
-        "old_price": 1.19,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740581002111.jpg",
         "store": "Selver"
     },
     {
@@ -522,13 +508,6 @@
         "price": 10.99,
         "old_price": 17.99,
         "image": "https://www.selver.ee/img/800/800/resize/8/0/8000070083882.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Maisikrõpsud Cool Original, DORITOS, 90 g",
-        "price": 1.55,
-        "old_price": 2.09,
-        "image": "https://www.selver.ee/img/800/800/resize/5/9/5900259142108.jpg",
         "store": "Selver"
     },
     {
@@ -984,6 +963,13 @@
         "price": 19.99,
         "old_price": 29.99,
         "image": "https://www.selver.ee/img/800/800/resize/2/3/2359002200009.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kodune Sinep Kange, BALTIKA, 120 g",
+        "price": 1.19,
+        "old_price": 1.41,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4745010372094.jpg",
         "store": "Selver"
     },
     {
@@ -1614,13 +1600,6 @@
         "price": 8.1,
         "old_price": 8.94,
         "image": "https://www.selver.ee/img/800/800/resize/0/2/0216000001026.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "HULGI Pelmeenid 3tk, RAKVERE, 3 x 900 g",
-        "price": 12.599999999999998,
-        "old_price": 16.17,
-        "image": "https://www.selver.ee/img/800/800/resize/0/2/0212000002414.jpg",
         "store": "Selver"
     },
     {
@@ -7738,7 +7717,7 @@
         "name": "Karastusjook Coca-Cola, COCA-COLA, 2 L",
         "price": 2.09,
         "old_price": 2.73,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651355.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4743050000045.jpg",
         "store": "Selver"
     },
     {
