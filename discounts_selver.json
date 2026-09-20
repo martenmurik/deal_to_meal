@@ -7,24 +7,10 @@
         "store": "Selver"
     },
     {
-        "name": "Piimašokolaad, KARL FAZER, 180 g",
-        "price": 2.99,
-        "old_price": 5.290000000000001,
-        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453095014.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Piimašokolaad rosina-pähkli, KARL FAZER, 180g",
-        "price": 2.99,
-        "old_price": 5.290000000000001,
-        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453095120.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "HULGI Kookosjook, väherasvane 5 tk, SANTA MARIA, 5x250ml",
-        "price": 9.25,
-        "old_price": 13.75,
-        "image": "https://www.selver.ee/img/800/800/resize/0/2/0213200000705.jpg",
+        "name": "Nuudlid koorekastmes murulauguga, KNORR, 59g",
+        "price": 1.39,
+        "old_price": 2.29,
+        "image": "https://www.selver.ee/img/800/800/resize/8/5/8584057005345.jpg",
         "store": "Selver"
     },
     {
@@ -35,10 +21,24 @@
         "store": "Selver"
     },
     {
-        "name": "Nuudlid koorekastmes murulauguga, KNORR, 59g",
-        "price": 1.39,
-        "old_price": 2.29,
-        "image": "https://www.selver.ee/img/800/800/resize/8/5/8584057005345.jpg",
+        "name": "Piimašokolaad, KARL FAZER, 180 g",
+        "price": 2.99,
+        "old_price": 5.290000000000001,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453095014.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "HULGI Kookosjook, väherasvane 5 tk, SANTA MARIA, 5x250ml",
+        "price": 9.25,
+        "old_price": 13.75,
+        "image": "https://www.selver.ee/img/800/800/resize/0/2/0213200000705.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Piimašokolaad rosina-pähkli, KARL FAZER, 180g",
+        "price": 2.99,
+        "old_price": 5.290000000000001,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453095120.jpg",
         "store": "Selver"
     },
     {
@@ -5502,13 +5502,6 @@
         "store": "Selver"
     },
     {
-        "name": "Kaera-õuna pannkoogid, MAMMA, 200 g",
-        "price": 2.49,
-        "old_price": 3.1900000000000004,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740184600561.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Kali Karl Friedrich, SAKU, 1,5 L",
         "price": 1.29,
         "old_price": 1.69,
@@ -6086,7 +6079,7 @@
         "name": "Tortilja krõpsud juustu, SANTA MARIA, 475 g",
         "price": 4.19,
         "old_price": 5.49,
-        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311312008138.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311310032098.jpg",
         "store": "Selver"
     },
     {
@@ -6457,7 +6450,7 @@
         "name": "Toonik Ginger Ale, FEVER TREE, 500 ml",
         "price": 2.59,
         "old_price": 3.55,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5060108450287.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4751017241028.jpg",
         "store": "Selver"
     },
     {
@@ -8516,6 +8509,13 @@
         "price": 7.25,
         "old_price": 10.75,
         "image": "https://www.selver.ee/img/800/800/resize/0/2/0213200000712.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kaera-õuna pannkoogid, MAMMA, 200 g",
+        "price": 2.49,
+        "old_price": 3.1900000000000004,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740184600561.jpg",
         "store": "Selver"
     }
 ]
