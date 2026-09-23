@@ -14,17 +14,17 @@
         "store": "Selver"
     },
     {
-        "name": "Mahe Ebaküdoonia, ARAN FARMING, 500 g",
-        "price": 4.99,
-        "old_price": 6.99,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4744021010360.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Piimašokolaad rosina-pähkli, KARL FAZER, 180g",
         "price": 2.99,
         "old_price": 5.290000000000001,
         "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453095120.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Mahe Ebaküdoonia, ARAN FARMING, 500 g",
+        "price": 4.99,
+        "old_price": 6.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4744021010360.jpg",
         "store": "Selver"
     },
     {
@@ -1113,13 +1113,6 @@
         "store": "Selver"
     },
     {
-        "name": "Barista kaerajook pistaatsiakreem maitseline UHT, ODDLYGOOD, 500 ml",
-        "price": 1.99,
-        "old_price": 2.69,
-        "image": "https://www.selver.ee/img/800/800/resize/0/6/06430081491659.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Pastasalat suitsukana ja Caesari kastmega, SELVERI KÖÖK, 250 g",
         "price": 3.39,
         "old_price": 4.49,
@@ -2152,7 +2145,7 @@
         "name": "Karastusjook Fanta Apelsini Zero kalorivaba, FANTA, 330 ml",
         "price": 0.89,
         "old_price": 1.11,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112678918.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000235367.jpg",
         "store": "Selver"
     },
     {
@@ -3581,6 +3574,13 @@
         "price": 1.49,
         "old_price": 2.12,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740098002130.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Memme suur sült, NÕO, 500 g",
+        "price": 2.99,
+        "old_price": 4.29,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740574096110.jpg",
         "store": "Selver"
     },
     {
@@ -5855,14 +5855,14 @@
         "name": "Karastusjook Coca-Cola Zero magusainetega, COCA-COLA, 330 ml",
         "price": 0.89,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112678284.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000214799.jpg",
         "store": "Selver"
     },
     {
         "name": "Karastusjook Coca-Cola, COCA-COLA, 330 ml",
         "price": 0.89,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112677973.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000214911.jpg",
         "store": "Selver"
     },
     {
@@ -7508,6 +7508,13 @@
         "price": 1.79,
         "old_price": 2.73,
         "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112664638.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Karastusjook Coca-Cola, COCA-COLA, 2 L",
+        "price": 2.09,
+        "old_price": 2.73,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4743050000045.jpg",
         "store": "Selver"
     },
     {
