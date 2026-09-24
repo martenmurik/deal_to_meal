@@ -1,12 +1,5 @@
 [
     {
-        "name": "Piimašokolaad tervete metspähklitega, KARL FAZER, 200g",
-        "price": 3.69,
-        "old_price": 5.65,
-        "image": "https://www.selver.ee/img/800/800/resize/6/4/6411401015151.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Piimašokolaad, KARL FAZER, 180 g",
         "price": 2.99,
         "old_price": 5.290000000000001,
@@ -14,10 +7,10 @@
         "store": "Selver"
     },
     {
-        "name": "Piimašokolaad rosina-pähkli, KARL FAZER, 180g",
-        "price": 2.99,
-        "old_price": 5.290000000000001,
-        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453095120.jpg",
+        "name": "Piimašokolaad tervete metspähklitega, KARL FAZER, 200g",
+        "price": 3.69,
+        "old_price": 5.65,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6411401015151.jpg",
         "store": "Selver"
     },
     {
@@ -25,6 +18,13 @@
         "price": 4.99,
         "old_price": 6.99,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4744021010360.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Piimašokolaad rosina-pähkli, KARL FAZER, 180g",
+        "price": 2.99,
+        "old_price": 5.290000000000001,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453095120.jpg",
         "store": "Selver"
     },
     {
@@ -3234,13 +3234,6 @@
         "store": "Selver"
     },
     {
-        "name": "Hapukoor 30%, topsis, TERE, 300 g",
-        "price": 1.69,
-        "old_price": 2.19,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740036017431.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Kohvioad Classic Aromatico, PAULIG, 1kg",
         "price": 12.99,
         "old_price": 24.490000000000002,
@@ -4722,13 +4715,6 @@
         "price": 2.69,
         "old_price": 3.89,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4743097000039.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Laktase direkt 7000 N90, SANOTACT, 7,1 g",
-        "price": 10.69,
-        "old_price": 13.2,
-        "image": "https://www.selver.ee/img/800/800/resize/4/0/4003087432456.jpg",
         "store": "Selver"
     },
     {
@@ -6398,6 +6384,13 @@
         "store": "Selver"
     },
     {
+        "name": "Puhas roheline tee sidruniga, PFANNER, 1 l",
+        "price": 0.99,
+        "old_price": 1.46,
+        "image": "https://www.selver.ee/img/800/800/resize/9/0/90167829.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Röstitud maapähklid meega, ESTRELLA, 140 g",
         "price": 2.19,
         "old_price": 3.04,
@@ -7514,7 +7507,7 @@
         "name": "Karastusjook Coca-Cola, COCA-COLA, 2 L",
         "price": 2.09,
         "old_price": 2.73,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4743050000045.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651355.jpg",
         "store": "Selver"
     },
     {
