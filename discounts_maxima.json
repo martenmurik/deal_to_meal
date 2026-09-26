@@ -28,6 +28,13 @@
         "store": "Maxima"
     },
     {
+        "name": "Šok.batoonike Country Kind.FERRERO 23.5g",
+        "price": 0.48,
+        "old_price": 0.69,
+        "image": "https://cdn.barbora.ee/products/e642fac1-4ea5-4b94-86eb-302208f0b43a_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Šokolaad Kinder FERRERO 100g",
         "price": 1.79,
         "old_price": 2.55,
@@ -238,20 +245,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Sul.juust MEREVAIK krevettidega 200g",
-        "price": 1.49,
-        "old_price": 1.99,
-        "image": "https://cdn.barbora.ee/products/8fa8f03e-a789-48cd-9f24-dd780a3e7e03_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Keedusalaami Vasalli NÕO, 105 viil",
-        "price": 1.99,
-        "old_price": 2.69,
-        "image": "https://cdn.barbora.ee/products/82cc3feb-ba08-4783-afeb-836f197edd16_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Külms.skumbria vaakumis VICI, kg",
         "price": 14.99,
         "old_price": 17.99,
@@ -291,13 +284,6 @@
         "price": 3.72,
         "old_price": 4.65,
         "image": "https://cdn.barbora.ee/products/d0d29bf9-e68e-4553-8b57-7dfe25098599_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Eestimaine broilerikoib TALLEGG, kg",
-        "price": 3.59,
-        "old_price": 4.79,
-        "image": "https://cdn.barbora.ee/products/b850b81e-4f68-4b7c-8105-75a1cdba29ea_m.png",
         "store": "Maxima"
     },
     {
@@ -504,6 +490,13 @@
         "store": "Maxima"
     },
     {
+        "name": "Mandariin 1kl., kg",
+        "price": 1.99,
+        "old_price": 2.99,
+        "image": "https://cdn.barbora.ee/products/0f9c301d-19bd-4157-b4fc-ae3b758ebb2e_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Granaatõun, kg",
         "price": 3.49,
         "old_price": 5.99,
@@ -620,6 +613,13 @@
         "price": 1.49,
         "old_price": 1.99,
         "image": "https://cdn.barbora.ee/products/50249d90-6c78-48a9-ba9a-48e20a88224c_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Jogurt ALMA metsmaasika 2%, 1kg PP",
+        "price": 1.99,
+        "old_price": 2.35,
+        "image": "https://cdn.barbora.ee/products/dd494ec7-4c96-451b-9771-b3b2dfb64db3_m.png",
         "store": "Maxima"
     },
     {
@@ -907,13 +907,6 @@
         "price": 1.39,
         "old_price": 1.99,
         "image": "https://cdn.barbora.ee/products/d70bbfc5-c4ae-4927-ab81-b0c196c0c094_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Sulatatud pakslaup-pangaasius filee, kg",
-        "price": 6.99,
-        "old_price": 7.99,
-        "image": "https://cdn.barbora.ee/products/5b7c0db1-d23d-4868-9d46-2de35e084279_m.png",
         "store": "Maxima"
     },
     {
@@ -1372,13 +1365,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Jahutatud lõhe, kg",
-        "price": 8.99,
-        "old_price": 15.99,
-        "image": "https://cdn.barbora.ee/products/28f505d6-7b0b-43e8-b9a9-c298243ab857_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Lehttaig. viinerip.kurgi.sinep.kast.100g",
         "price": 0.74,
         "old_price": 0.99,
@@ -1554,13 +1540,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Kodune ahjupraad RAKVERE, kg",
-        "price": 4.99,
-        "old_price": 7.89,
-        "image": "https://cdn.barbora.ee/products/be8080b0-cb6e-4786-8985-ad81e3ea1a48_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Seljanka suitsuribilihaga SALVEST 530g",
         "price": 3.48,
         "old_price": 4.49,
@@ -1673,13 +1652,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Seaabaliha kamarata, kondita, kg",
-        "price": 2.99,
-        "old_price": 5.99,
-        "image": "https://cdn.barbora.ee/products/2b0b96ff-d4b0-423b-8b72-f5f4520af11d_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Külm. supipelmeenid UVIC Ivan, 500g",
         "price": 2.68,
         "old_price": 3.35,
@@ -1698,13 +1670,6 @@
         "price": 0.29,
         "old_price": 0.58,
         "image": "https://cdn.barbora.ee/products/c4881466-ef02-4e98-96d7-0c201c36b633_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Viigimari, kg",
-        "price": 4.49,
-        "old_price": 7.99,
-        "image": "https://cdn.barbora.ee/products/312bfe33-9a3f-4ae3-88ee-76fa7e1848b8_m.png",
         "store": "Maxima"
     },
     {
@@ -1911,6 +1876,13 @@
         "store": "Maxima"
     },
     {
+        "name": "Tuuramari Golden Line IKRINKA, 50g",
+        "price": 41.24,
+        "old_price": 54.99,
+        "image": "https://cdn.barbora.ee/products/723d5790-78cd-4293-ba6a-6d5c25327ace_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Skyr FARMI virsikutega, 150g",
         "price": 0.85,
         "old_price": 1.25,
@@ -2058,13 +2030,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Sulatatud roogitud kuldne meriahven, kg",
-        "price": 7.49,
-        "old_price": 8.99,
-        "image": "https://cdn.barbora.ee/products/a4b6f76c-2d9d-45f7-b7a7-3176e32b1145_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Croissant võiga 24% 43g",
         "price": 0.44,
         "old_price": 0.59,
@@ -2188,13 +2153,6 @@
         "price": 4.89,
         "old_price": 5.99,
         "image": "https://cdn.barbora.ee/products/249e597d-188f-4f8e-a761-ac4ab322f8d4_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Singirullid küüslauguga kg",
-        "price": 11.59,
-        "old_price": 14.49,
-        "image": "https://cdn.barbora.ee/products/d6017d68-d937-47d4-99b1-0c29b7007cb4_m.png",
         "store": "Maxima"
     },
     {
@@ -2345,13 +2303,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Poolsuitsuvorst Tõmmu juustuga WÕRO,350g",
-        "price": 1.85,
-        "old_price": 2.49,
-        "image": "https://cdn.barbora.ee/products/c258e77c-0c00-4802-91f1-aa24a13528fa_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Seavälisfileesink M&M, 150g viil",
         "price": 1.79,
         "old_price": 2.39,
@@ -2492,13 +2443,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Kookosõli sprei MANTOVA 200ml",
-        "price": 7.49,
-        "old_price": 9.99,
-        "image": "https://cdn.barbora.ee/products/b295bd4e-f52a-4cef-907d-5440ca6f5b56_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Mandliõli GOCCIA D'ORO 250ml",
         "price": 7.12,
         "old_price": 9.49,
@@ -2594,6 +2538,13 @@
         "price": 0.45,
         "old_price": 0.6,
         "image": "https://cdn.barbora.ee/products/98106aee-4b0e-49bc-bcf2-60c6524ef651_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Mõisa  leib, 363g",
+        "price": 1.12,
+        "old_price": 1.49,
+        "image": "https://cdn.barbora.ee/products/3011262c-78da-47df-8c1b-7903f0ce6444_m.png",
         "store": "Maxima"
     },
     {
@@ -2800,13 +2751,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Peekonilõigud M&M 400g",
-        "price": 2.49,
-        "old_price": 3.29,
-        "image": "https://cdn.barbora.ee/products/17008d19-a1f8-48cb-b632-3ec474dbf957_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Jäätis MAGNUM kuld karamell, 71g",
         "price": 1.3,
         "old_price": 1.85,
@@ -2846,13 +2790,6 @@
         "price": 4.24,
         "old_price": 6.05,
         "image": "https://cdn.barbora.ee/products/612321ab-ebd8-4223-97b8-59d99bbbb8ad_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Grillribid Texase NÕO,kg",
-        "price": 4.99,
-        "old_price": 7.99,
-        "image": "https://cdn.barbora.ee/products/cd966c99-5562-4450-b9f7-28b16aabdc33_m.png",
         "store": "Maxima"
     },
     {
@@ -3136,10 +3073,24 @@
         "store": "Maxima"
     },
     {
+        "name": "Sünnipäevasalat 200g",
+        "price": 1.59,
+        "old_price": 2.08,
+        "image": "https://cdn.barbora.ee/products/87316198-1be8-440c-98f2-4c5affb838c9_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Vinegrett 200g",
         "price": 1.19,
         "old_price": 1.78,
         "image": "https://cdn.barbora.ee/products/85702132-1547-41bd-b356-1c379dfc35b0_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Krabimaitseline riisisalat 200g",
+        "price": 1.69,
+        "old_price": 2.12,
+        "image": "https://cdn.barbora.ee/products/372a13ba-b136-4046-8d6a-dbf4695d20ce_m.png",
         "store": "Maxima"
     },
     {
@@ -3444,10 +3395,10 @@
         "store": "Maxima"
     },
     {
-        "name": "V.lõhefilee ports.ürt.&küüs.mar.WD,250g",
-        "price": 6.49,
-        "old_price": 7.99,
-        "image": "https://cdn.barbora.ee/products/65054048-a96b-4d82-acef-d188ef91f083_m.png",
+        "name": "Minestrone supp SALVEST 530g",
+        "price": 2.87,
+        "old_price": 3.59,
+        "image": "https://cdn.barbora.ee/products/0b1141b5-38bb-414e-b836-7785a12bb28b_m.png",
         "store": "Maxima"
     },
     {
@@ -3612,6 +3563,13 @@
         "store": "Maxima"
     },
     {
+        "name": "Sea sisefilee ürdi-võimaitsel.mar.MK,kg",
+        "price": 9.99,
+        "old_price": 12.49,
+        "image": "https://cdn.barbora.ee/products/3b133d77-4ebd-4fe7-8f84-589314011a88_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Juuretise Röst FAZER 450g",
         "price": 1.49,
         "old_price": 1.89,
@@ -3651,6 +3609,13 @@
         "price": 16.49,
         "old_price": 21.99,
         "image": "https://cdn.barbora.ee/products/08d7eed5-6996-4279-a12b-aaa3731bf17c_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Suitsutatud kitsejuust DELI Q, kg",
+        "price": 13.49,
+        "old_price": 17.99,
+        "image": "https://cdn.barbora.ee/products/5f643b3f-4628-4a6b-9895-c2801767e426_m.png",
         "store": "Maxima"
     },
     {
@@ -3962,6 +3927,13 @@
         "store": "Maxima"
     },
     {
+        "name": "Kohupiima-sidrunirull 320g",
+        "price": 3.19,
+        "old_price": 3.75,
+        "image": "https://cdn.barbora.ee/products/d1c6aafe-3b39-47e2-ac0a-0b73cfbc3735_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Kalkuni guljašš ürdikartuliga 300g",
         "price": 2.89,
         "old_price": 3.65,
@@ -4061,7 +4033,7 @@
     },
     {
         "name": "Kanapallid WÕRO, 1kg",
-        "price": 2.99,
+        "price": 2.89,
         "old_price": 3.79,
         "image": "https://cdn.barbora.ee/products/9fee46d4-1170-42ac-9bcb-2d5b726bff8f_m.png",
         "store": "Maxima"
@@ -4305,13 +4277,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Päik.kuiv.tomat.õlis WELL DONE PREM.530g",
-        "price": 4.49,
-        "old_price": 5.99,
-        "image": "https://cdn.barbora.ee/products/4887c1d7-0beb-4900-8ed3-b6de87f6c776_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Kuiv.tomat.ric.määre WELL DONE PREM.190g",
         "price": 2.24,
         "old_price": 2.99,
@@ -4428,6 +4393,13 @@
         "price": 0.59,
         "old_price": 0.81,
         "image": "https://cdn.barbora.ee/products/c643807a-fcbf-4303-8eac-25f37d35f422_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Šokolaadibatoon Crispy KINDER 34.5g",
+        "price": 0.97,
+        "old_price": 1.39,
+        "image": "https://cdn.barbora.ee/products/38e90cf5-76c7-4d38-a88d-70d6f5bd00e9_m.png",
         "store": "Maxima"
     },
     {
@@ -4683,13 +4655,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Pontšik vaarikatäidisega, sulatatud 115g",
-        "price": 0.89,
-        "old_price": 1.89,
-        "image": "https://cdn.barbora.ee/products/a2d0d606-3d97-42d4-b406-fe8bd44f84b6_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Tortillatasku lumikrabiga 150g",
         "price": 2.39,
         "old_price": 3.1,
@@ -4837,13 +4802,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Miniekleer kohup.,kre-ga EESTI PAGAR 200g",
-        "price": 3.39,
-        "old_price": 3.99,
-        "image": "https://cdn.barbora.ee/products/541446fc-6a57-4fff-bf3d-6a0043b180b3_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Makaronid Cannelloni BARILLA 250g",
         "price": 2.99,
         "old_price": 3.99,
@@ -4876,13 +4834,6 @@
         "price": 3.36,
         "old_price": 4.49,
         "image": "https://cdn.barbora.ee/products/fdfd877e-2dd6-41b3-aec7-d876f5f99e82_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Dubai tort PAGARINI 510g",
-        "price": 10.99,
-        "old_price": 19.35,
-        "image": "https://cdn.barbora.ee/products/1be28a01-d46a-4279-87c7-64f047f02b92_m.png",
         "store": "Maxima"
     },
     {
@@ -5176,7 +5127,7 @@
         "name": "Pannivorstid röstsib.ja juustu. M&M,400g",
         "price": 2.75,
         "old_price": 3.69,
-        "image": "https://cdn.barbora.ee/products/5a29351f-7571-4338-9d10-27894716c805_m.png",
+        "image": "https://cdn.barbora.ee/products/be5c6b47-1c8e-4fb8-bc66-e1885d3b7ef5_m.png",
         "store": "Maxima"
     },
     {
@@ -5215,13 +5166,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Tursamaksapasteet trühvli m. WD 100g",
-        "price": 1.87,
-        "old_price": 2.99,
-        "image": "https://cdn.barbora.ee/products/9119b15d-d8ee-4fa4-9c39-32c5b81c592d_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Lõhepasteet WELL DONE,100 g",
         "price": 1.87,
         "old_price": 2.99,
@@ -5229,10 +5173,10 @@
         "store": "Maxima"
     },
     {
-        "name": "Jogurt ALMA mango 1kg",
-        "price": 1.99,
-        "old_price": 2.35,
-        "image": "https://cdn.barbora.ee/products/6787e10e-9bcd-4563-8a87-86239509a574_m.png",
+        "name": "Seahakkliha ABta WELL DONE,400g",
+        "price": 2.19,
+        "old_price": 3.19,
+        "image": "https://cdn.barbora.ee/products/fb9c1f9c-91b1-48b7-b1fc-eb149dd151c3_m.png",
         "store": "Maxima"
     },
     {
@@ -5240,13 +5184,6 @@
         "price": 2.39,
         "old_price": 3.19,
         "image": "https://cdn.barbora.ee/products/4e869fe7-8d6c-451c-bd2c-a9cd5186588a_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Pastakaste röst.pistaats.ricott.WDP 300g",
-        "price": 3.74,
-        "old_price": 4.99,
-        "image": "https://cdn.barbora.ee/products/5e310181-3771-44d0-ada2-faf867b3a0e1_m.png",
         "store": "Maxima"
     },
     {
@@ -5275,13 +5212,6 @@
         "price": 1.86,
         "old_price": 2.49,
         "image": "https://cdn.barbora.ee/products/9cf30c0a-cdc1-4e50-b109-a81d3de7d559_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Dijoni sinep WELL DONE Prem.210g",
-        "price": 1.49,
-        "old_price": 1.99,
-        "image": "https://cdn.barbora.ee/products/0182d124-1ed9-4f1d-9da2-0981b3f05a9c_m.png",
         "store": "Maxima"
     },
     {
@@ -5418,13 +5348,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Eestimaine br.r.filee tükid TALLEGG,400g",
-        "price": 3.89,
-        "old_price": 5.19,
-        "image": "https://cdn.barbora.ee/products/836eb590-6624-460d-b138-8646e49600bc_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Külm.mustikad WELL DONE 400g",
         "price": 2.32,
         "old_price": 3.09,
@@ -5551,6 +5474,13 @@
         "store": "Maxima"
     },
     {
+        "name": "Tiramisu WELL DONE PREMIUM 500g",
+        "price": 3.39,
+        "old_price": 4.79,
+        "image": "https://cdn.barbora.ee/products/ff267de1-60eb-4f06-988f-a192b4951a8c_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Tume keeruga ciabatta 300g",
         "price": 0.71,
         "old_price": 0.95,
@@ -5586,24 +5516,10 @@
         "store": "Maxima"
     },
     {
-        "name": "Juustukook vaarikatega 650g",
-        "price": 8.59,
-        "old_price": 10.69,
-        "image": "https://cdn.barbora.ee/products/121dbc0c-cf94-4369-9dfe-66f899c02724_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Tortillatasku tuunikalaga 150g",
         "price": 1.89,
         "old_price": 2.39,
         "image": "https://cdn.barbora.ee/products/3ee0dd64-81e6-452f-b8a0-2d65648637d3_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Miniburgerite valik 520g",
-        "price": 8.39,
-        "old_price": 10.49,
-        "image": "https://cdn.barbora.ee/products/97ca11fe-c231-458c-b190-92e7f13f92cd_m.png",
         "store": "Maxima"
     },
     {
@@ -5618,6 +5534,20 @@
         "price": 1.79,
         "old_price": 1.99,
         "image": "https://cdn.barbora.ee/products/7fdc5a90-93b6-49c3-8d92-3f1060bb806a_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Snäkk Hot&Spicy M&M 85g",
+        "price": 1.79,
+        "old_price": 2.09,
+        "image": "https://cdn.barbora.ee/products/207bd4a8-d054-47be-8181-e4ec2262abfa_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Snäkk Cheese M&M 85g",
+        "price": 1.79,
+        "old_price": 2.19,
+        "image": "https://cdn.barbora.ee/products/192d8361-f228-41f6-a4c9-b3b0ef29cec9_m.png",
         "store": "Maxima"
     },
     {
@@ -5716,6 +5646,13 @@
         "price": 2.39,
         "old_price": 3.19,
         "image": "https://cdn.barbora.ee/products/3a7f4f9c-e912-4a94-a0e8-483e569381b6_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Lõhepasteet ABBA MSC 145g",
+        "price": 1.99,
+        "old_price": 2.65,
+        "image": "https://cdn.barbora.ee/products/875c9406-34c0-4e44-a373-13b53ad1b2b2_m.png",
         "store": "Maxima"
     },
     {
@@ -6580,13 +6517,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Jahv. kohv French Classic PAULIG 500g",
-        "price": 6.49,
-        "old_price": 10.65,
-        "image": "https://cdn.barbora.ee/products/9af9d23f-05c9-4b3b-be08-a2688264d6b1_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Juust EESTI light viilutatud, 200g",
         "price": 1.79,
         "old_price": 3.04,
@@ -6808,13 +6738,6 @@
         "price": 0.99,
         "old_price": 1.59,
         "image": "https://cdn.barbora.ee/products/ad7d9679-1a10-411b-a9c4-240f991acd40_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Mineraalvesi SAN PELLEGRINO 1L ,g-tud",
-        "price": 1.09,
-        "old_price": 1.79,
-        "image": "https://cdn.barbora.ee/products/06dffdea-ea22-4b3d-91da-46681fbfaf12_m.png",
         "store": "Maxima"
     },
     {
@@ -7175,13 +7098,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Mineraalvesi SAN PELLEGRINO 6x1l gas-tud",
-        "price": 6.49,
-        "old_price": 10.69,
-        "image": "https://cdn.barbora.ee/products/16f2459e-0dc3-4111-8d84-c7b7e7fdfa7d_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Jah.kohv LAVAZZA Caffe Decaffeinato 250g",
         "price": 6.59,
         "old_price": 10.99,
@@ -7252,20 +7168,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Kummikommid Playmouse TROLLI 200g",
-        "price": 1.49,
-        "old_price": 1.92,
-        "image": "https://cdn.barbora.ee/products/8d4d750d-881a-4317-91d6-fe3692f67045_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Kohvioad Classic PAULIG 1kg",
-        "price": 12.99,
-        "old_price": 24.89,
-        "image": "https://cdn.barbora.ee/products/6d7edbbb-6d2c-4754-a029-fdd92a024f44_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Biskviitküpsis maasikat.BARNI 150g",
         "price": 1.89,
         "old_price": 2.99,
@@ -7333,13 +7235,6 @@
         "price": 0.55,
         "old_price": 0.99,
         "image": "https://cdn.barbora.ee/products/4ce02820-d575-4426-af93-8c5c79efb0d5_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Marja tee LOYD pür.vaar.-maas.50x2g",
-        "price": 3.19,
-        "old_price": 5.49,
-        "image": "https://cdn.barbora.ee/products/d09e50ef-3ffa-4c6c-abcb-485f99ea1041_m.png",
         "store": "Maxima"
     },
     {
@@ -8184,7 +8079,7 @@
     },
     {
         "name": "Keeduvorst Laste VALLA, 1kg",
-        "price": 2.29,
+        "price": 2.19,
         "old_price": 2.89,
         "image": "https://cdn.barbora.ee/products/302bb24b-9340-4ce1-a5e7-8671d3b7c81f_m.png",
         "store": "Maxima"
@@ -8257,13 +8152,6 @@
         "price": 5.49,
         "old_price": 8.49,
         "image": "https://cdn.barbora.ee/products/cf7a440a-de78-4592-add8-a11c5ee41c4a_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Kohvioad Classic Crema PAULIG 1kg",
-        "price": 12.99,
-        "old_price": 24.89,
-        "image": "https://cdn.barbora.ee/products/17d27491-b13d-445f-b3c9-62c7388ddb6d_m.png",
         "store": "Maxima"
     },
     {
@@ -8729,13 +8617,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Oliivijääkõli SANTOLINO 1L PET",
-        "price": 3.49,
-        "old_price": 5.79,
-        "image": "https://cdn.barbora.ee/products/80841b13-5a76-4049-acc7-bee102c64571_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Rapsiõli KALEW 1L",
         "price": 1.99,
         "old_price": 3.19,
@@ -8761,6 +8642,13 @@
         "price": 27.99,
         "old_price": 34.99,
         "image": "https://cdn.barbora.ee/products/09f6f138-55ea-4c50-86b3-05358e59b170_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Vadakuvalk vaniljamaits.ICONFIT 1kg",
+        "price": 23.89,
+        "old_price": 29.89,
+        "image": "https://cdn.barbora.ee/products/c9ee6487-1843-4144-891f-5c0f89247c05_m.png",
         "store": "Maxima"
     },
     {
@@ -8876,10 +8764,24 @@
         "store": "Maxima"
     },
     {
+        "name": "Margariin RAMA soolaga 75%, 400g",
+        "price": 1.89,
+        "old_price": 2.69,
+        "image": "https://cdn.barbora.ee/products/d8cc5152-1730-4e14-a410-bf552763de71_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Alkoholivaba õlu STAROPRAMEN, 330ml",
         "price": 0.99,
         "old_price": 1.29,
         "image": "https://cdn.barbora.ee/products/0458d9fc-d083-4d41-aa83-80f5b1bdd17f_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Puding MÜLLER vanilje, šokolaadi 450g",
+        "price": 1.99,
+        "old_price": 2.99,
+        "image": "https://cdn.barbora.ee/products/d738cad6-8037-4ac3-bcda-3d94e96a7d8b_m.png",
         "store": "Maxima"
     },
     {
@@ -9212,6 +9114,13 @@
         "store": "Maxima"
     },
     {
+        "name": "Šašlõkivorst RAKVERE 400g",
+        "price": 3.29,
+        "old_price": 4.45,
+        "image": "https://cdn.barbora.ee/products/5e60c556-3c74-4189-b3d5-077819a65a58_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Šašlõkk kartulisektoriga 300g",
         "price": 2.49,
         "old_price": 3.99,
@@ -9342,13 +9251,6 @@
         "price": 1.69,
         "old_price": 2.69,
         "image": "https://cdn.barbora.ee/products/5f3ee23b-ad9d-4bd4-a117-13c37c45fa28_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Tee AROMA TEA Rooibos oranž,20x1.75g",
-        "price": 1.69,
-        "old_price": 2.69,
-        "image": "https://cdn.barbora.ee/products/0517fe42-9ea6-4131-b6a8-22b9941ffdee_m.png",
         "store": "Maxima"
     },
     {
@@ -9597,20 +9499,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Seafilee kuumsuits.WELL DONE,100g viil",
-        "price": 1.09,
-        "old_price": 1.35,
-        "image": "https://cdn.barbora.ee/products/780041b2-70d6-46ba-b162-57c73a070aaf_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Puviljatee AROMA apelsinikoor 20x2g",
-        "price": 1.69,
-        "old_price": 2.69,
-        "image": "https://cdn.barbora.ee/products/0702e6d8-15ed-4de4-a7bf-528473c921fb_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Kohvikaps. AROMA GOLD Irish Cream 16x16g",
         "price": 4.99,
         "old_price": 7.99,
@@ -9755,6 +9643,13 @@
         "price": 7.19,
         "old_price": 9.75,
         "image": "https://cdn.barbora.ee/products/de5046a5-302f-4c99-a08d-c02f93df60a7_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Heeringafilee köögivilj.&paprika WD,300g",
+        "price": 1.99,
+        "old_price": 2.79,
+        "image": "https://cdn.barbora.ee/products/975eeb2e-325f-4d91-ad16-5c802fa3717e_m.png",
         "store": "Maxima"
     },
     {
@@ -10577,6 +10472,13 @@
         "store": "Maxima"
     },
     {
+        "name": "Juust Mascarpone WELL DONE, 250g",
+        "price": 2.29,
+        "old_price": 2.79,
+        "image": "https://cdn.barbora.ee/products/ffec7e08-a332-464f-8d5f-8b06839ab8cb_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Müsli troop.viljadega Premium AXA 330g",
         "price": 1.99,
         "old_price": 2.73,
@@ -10609,13 +10511,6 @@
         "price": 1.79,
         "old_price": 2.29,
         "image": "https://cdn.barbora.ee/products/8845c4e6-135b-4bdd-815a-311fb58e9c73_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Hummus grillpaprikaga GOURMET CLUB,200g",
-        "price": 2.39,
-        "old_price": 2.99,
-        "image": "https://cdn.barbora.ee/products/83a39351-d4b4-4b22-ab3d-540fe3592185_m.png",
         "store": "Maxima"
     },
     {
@@ -10738,6 +10633,13 @@
         "store": "Maxima"
     },
     {
+        "name": "Kakaojoogipulber Paw Patrol GELLWE 300g",
+        "price": 2.99,
+        "old_price": 4.39,
+        "image": "https://cdn.barbora.ee/products/926d1669-b19a-4a63-b9bb-72026689ff02_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Puuviljakompv.Crazy Sours SKITLLES 152g",
         "price": 1.79,
         "old_price": 2.59,
@@ -10777,13 +10679,6 @@
         "price": 2.99,
         "old_price": 4.99,
         "image": "https://cdn.barbora.ee/products/6458237f-c589-4819-ad68-e9005b22cedb_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Ananassimahl PURE 1L",
-        "price": 3.49,
-        "old_price": 4.55,
-        "image": "https://cdn.barbora.ee/products/4e343b55-092f-4c61-bd71-3351d5efd15d_m.png",
         "store": "Maxima"
     },
     {
@@ -11113,13 +11008,6 @@
         "price": 3.29,
         "old_price": 4.19,
         "image": "https://cdn.barbora.ee/products/8674d260-4752-48c7-adb8-1b2e6c15c36e_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Mulgipuder suitsupeekon.PÕLTSAMAA 530g",
-        "price": 2.59,
-        "old_price": 3.35,
-        "image": "https://cdn.barbora.ee/products/613c4366-e8af-4e30-8453-131f91d2c470_m.png",
         "store": "Maxima"
     },
     {
@@ -11515,13 +11403,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Kanakebabitükid WELL DONE, 350g",
-        "price": 3.19,
-        "old_price": 3.99,
-        "image": "https://cdn.barbora.ee/products/37e9bd81-3bf4-47bf-860f-2e00bdf89b83_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Limonaad HEAVENLY maasika 330ml",
         "price": 1.09,
         "old_price": 1.49,
@@ -11645,27 +11526,6 @@
         "price": 1.39,
         "old_price": 1.99,
         "image": "https://cdn.barbora.ee/products/67480dc5-3c1c-4d7f-bbfe-bc61be9b4196_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Chorizo keedusalaami NÕO, 90g",
-        "price": 1.75,
-        "old_price": 2.29,
-        "image": "https://cdn.barbora.ee/products/2b22e250-75d0-4104-86e3-b4fa27f2d222_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Saksapärane salaami NÕO, 90g",
-        "price": 1.75,
-        "old_price": 2.29,
-        "image": "https://cdn.barbora.ee/products/2a241f2f-8f6a-4867-85d9-dd4fef43dca7_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Itaaliapärane salaami NÕO, 90g",
-        "price": 1.75,
-        "old_price": 2.29,
-        "image": "https://cdn.barbora.ee/products/282bdfd7-b0ec-4b58-8ac0-5eb03da914cd_m.png",
         "store": "Maxima"
     },
     {
@@ -11858,13 +11718,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Tume šok.Suur Tõll metspähk. KALEV 270g",
-        "price": 4.49,
-        "old_price": 6.99,
-        "image": "https://cdn.barbora.ee/products/24c102d8-92f6-4d0f-b145-a4aa994188ed_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Tume šok.mandlitega Leiger KALEV 270g",
         "price": 4.49,
         "old_price": 6.99,
@@ -11991,13 +11844,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Kabanoss sealihast XXL TARCZYNSKI, 440g",
-        "price": 4.99,
-        "old_price": 6.99,
-        "image": "https://cdn.barbora.ee/products/ddb08b44-71e8-43df-a306-4d1a182dd88b_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Juustusnäkid pitsa WELL DONE PREMIUM 24g",
         "price": 0.99,
         "old_price": 1.25,
@@ -12072,13 +11918,6 @@
         "price": 2.69,
         "old_price": 3.49,
         "image": "https://cdn.barbora.ee/products/8b07b2ad-5c46-4268-859c-4b5d63bf3a8c_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Kohup.passioni sefiirit.EESTI PAGAR 680g",
-        "price": 10.12,
-        "old_price": 11.9,
-        "image": "https://cdn.barbora.ee/products/8c087a41-9f09-413e-bd52-17e7d280e81c_m.png",
         "store": "Maxima"
     },
     {
@@ -12187,13 +12026,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Piim WELL DONE 2,5%, 1L",
-        "price": 0.95,
-        "old_price": 1.15,
-        "image": "https://cdn.barbora.ee/products/cd4329f8-50fc-424a-a3b2-81ea9c578a36_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Küpsis pähklikr.täidis.2-pakk KALEV 410g",
         "price": 3.49,
         "old_price": 4.29,
@@ -12233,6 +12065,13 @@
         "price": 2.99,
         "old_price": 4.29,
         "image": "https://cdn.barbora.ee/products/dee51a41-2e78-43b6-be82-0fe90e664104_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Kimchi salat DIMDINI 250g",
+        "price": 1.99,
+        "old_price": 2.99,
+        "image": "https://cdn.barbora.ee/products/73195eed-2f41-48a5-9ca7-dae919cf9a74_m.png",
         "store": "Maxima"
     },
     {
@@ -12481,13 +12320,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Võiküpsised Classic ROSHEN 140g",
-        "price": 0.99,
-        "old_price": 1.69,
-        "image": "https://cdn.barbora.ee/products/c6c565f9-173b-4498-b8d7-ecf438a462ad_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Karastusjook COCA-COLA Zero 4x330ml",
         "price": 2.99,
         "old_price": 4.29,
@@ -12649,6 +12481,13 @@
         "store": "Maxima"
     },
     {
+        "name": "Kergelt gas.vesi AURA Mg Granadill.500ml",
+        "price": 0.99,
+        "old_price": 1.29,
+        "image": "https://cdn.barbora.ee/products/b777811a-3a43-435c-92d7-205d4150c4a7_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Gaseerimata vesi AURA Mg 500ml",
         "price": 0.99,
         "old_price": 1.29,
@@ -12754,6 +12593,13 @@
         "store": "Maxima"
     },
     {
+        "name": "Kooritud krevetid soolvees 900g",
+        "price": 9.99,
+        "old_price": 15.99,
+        "image": "https://cdn.barbora.ee/products/aaa0f77e-ef21-48b4-81de-cca00d9dc632_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Alkoholivaba õlu ESTRELLA Damm 0.0%500ml",
         "price": 1.09,
         "old_price": 1.29,
@@ -12789,17 +12635,17 @@
         "store": "Maxima"
     },
     {
+        "name": "Takosalat röstitud kanaga 250g",
+        "price": 2.99,
+        "old_price": 3.59,
+        "image": "https://cdn.barbora.ee/products/b47012c2-3ac0-4df7-87d3-a9da20bd8a1b_m.png",
+        "store": "Maxima"
+    },
+    {
         "name": "Värske salat valge juustuga 250g",
         "price": 2.29,
         "old_price": 2.99,
         "image": "https://cdn.barbora.ee/products/7b76d3fe-3f27-4dcc-bfc8-c86d03e0044a_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Kuskussi-kanasalat pähklikastmega 250g",
-        "price": 1.99,
-        "old_price": 2.39,
-        "image": "https://cdn.barbora.ee/products/34d22b5c-bce1-45d1-bf37-5370f5dee888_m.png",
         "store": "Maxima"
     },
     {
@@ -13020,24 +12866,10 @@
         "store": "Maxima"
     },
     {
-        "name": "Grillvorstid mango ja tšil.WELL DONE250g",
-        "price": 1.39,
-        "old_price": 1.79,
-        "image": "https://cdn.barbora.ee/products/53ad3369-a593-4508-97fd-91e9e170fb9a_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Grillvorstid kanepiseemn.WELL DONE,250g",
         "price": 1.39,
         "old_price": 1.79,
         "image": "https://cdn.barbora.ee/products/ca017a40-c03a-4668-9c79-b497fdb9ec0d_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Kreekerid Provance WELL DONE 100g",
-        "price": 0.59,
-        "old_price": 0.99,
-        "image": "https://cdn.barbora.ee/products/bcec932e-1f2c-4fbf-8bb6-ebaca9f4734b_m.png",
         "store": "Maxima"
     },
     {
@@ -13052,6 +12884,13 @@
         "price": 1.09,
         "old_price": 1.59,
         "image": "https://cdn.barbora.ee/products/45bb3a6e-b1bb-4816-bc28-00814b63f5ce_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Snäkk jerky Klassikaline RAKVERE 30g",
+        "price": 1.09,
+        "old_price": 1.59,
+        "image": "https://cdn.barbora.ee/products/d546e02e-62ac-4044-94bf-ee395071d89f_m.png",
         "store": "Maxima"
     },
     {
@@ -13094,13 +12933,6 @@
         "price": 0.85,
         "old_price": 1.59,
         "image": "https://cdn.barbora.ee/products/38484124-a778-4702-b864-8759012ea240_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Piimajook AASA vanilje 2,3% 450ml",
-        "price": 0.85,
-        "old_price": 1.49,
-        "image": "https://cdn.barbora.ee/products/997fa1ea-3a31-4507-993b-7d7f65bf281f_m.png",
         "store": "Maxima"
     },
     {
@@ -13167,13 +12999,6 @@
         "store": "Maxima"
     },
     {
-        "name": "Kohuke AASA vaarika, šok.tükkidega 40g",
-        "price": 0.55,
-        "old_price": 0.69,
-        "image": "https://cdn.barbora.ee/products/6ab6ccfe-bc6f-41d8-b467-54aceb43b5f2_m.png",
-        "store": "Maxima"
-    },
-    {
         "name": "Kohuke AASA kookose 40g",
         "price": 0.55,
         "old_price": 0.69,
@@ -13192,34 +13017,6 @@
         "price": 1.29,
         "old_price": 1.35,
         "image": "https://cdn.barbora.ee/products/1865092f-6766-41a1-933f-fa6f2ebabccc_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Või 82% 200g",
-        "price": 1.29,
-        "old_price": 2.29,
-        "image": "https://cdn.barbora.ee/products/291ce16c-fbab-4e30-8c2c-6d56cff5e3f4_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Külm. pelm. lihaga GYOZA, WELL DONE 400g",
-        "price": 2.59,
-        "old_price": 3.99,
-        "image": "https://cdn.barbora.ee/products/5f0efbd9-dc38-44de-b3f0-f7ee6385a17e_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Külm. pelm. kanaga GYOZA, WELL DONE 400g",
-        "price": 2.59,
-        "old_price": 3.99,
-        "image": "https://cdn.barbora.ee/products/1f972870-49ad-413a-b44b-303b33b9d34e_m.png",
-        "store": "Maxima"
-    },
-    {
-        "name": "Külm. pelm. Köögiv. GYOZA,WELL DONE 400g",
-        "price": 2.59,
-        "old_price": 3.49,
-        "image": "https://cdn.barbora.ee/products/6f7982bb-bbc9-4333-8ab2-a85ebb5e52ed_m.png",
         "store": "Maxima"
     },
     {
@@ -13357,16 +13154,23 @@
     },
     {
         "name": "Kuiv.vors.komp. trühvliga KREKENAVA 400g",
-        "price": 5.59,
+        "price": 4.59,
         "old_price": 7.99,
         "image": "https://cdn.barbora.ee/products/9705d433-4e9c-4072-9fdf-c306591d940a_m.png",
         "store": "Maxima"
     },
     {
         "name": "Suitsupeetud peekon viil. MORLINY 700g",
-        "price": 6.69,
+        "price": 5.99,
         "old_price": 8.59,
         "image": "https://cdn.barbora.ee/products/cfe043d1-2635-4a94-8af2-48676fc87d88_m.png",
+        "store": "Maxima"
+    },
+    {
+        "name": "Mulgipuder suitsupeekon.PÕLTSAMAA 530g",
+        "price": 2.59,
+        "old_price": 3.35,
+        "image": "https://cdn.barbora.ee/products/613c4366-e8af-4e30-8453-131f91d2c470_m.png",
         "store": "Maxima"
     }
 ]
