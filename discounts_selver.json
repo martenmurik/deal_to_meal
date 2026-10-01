@@ -84,6 +84,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kohupiimapallid 5tk, SELVERI PAGARID, 200g",
+        "price": 2.49,
+        "old_price": 3.99,
+        "image": "https://www.selver.ee/img/800/800/resize/2/6/2615536000004.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Kohupiimakreem maasika-pohla, ALMA, 380 g",
         "price": 1.5899999999999999,
         "old_price": 1.98,
@@ -574,13 +581,6 @@
         "store": "Selver"
     },
     {
-        "name": "Sea välisfilee röstsibula marinaadis, SELVER, kg",
-        "price": 7.99,
-        "old_price": 10.99,
-        "image": "https://www.selver.ee/img/800/800/resize/2/7/2715504000002.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Lahustuv kohvijook 3in1 Strong (kott)10x14g, NESCAFE, 140g",
         "price": 1.9899999999999998,
         "old_price": 3.25,
@@ -690,6 +690,20 @@
         "price": 2.29,
         "old_price": 3.09,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740086006751.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Matcha roheline tee, 20tk, CLIPPER, 40g",
+        "price": 3.99,
+        "old_price": 5.15,
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5021991946189.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Roheline tee Reviving 20pk, CLIPPER, 40 g",
+        "price": 3.79,
+        "old_price": 5.07,
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5021991944307.jpg",
         "store": "Selver"
     },
     {
@@ -1250,13 +1264,6 @@
         "price": 7.49,
         "old_price": 10.39,
         "image": "https://www.selver.ee/img/800/800/resize/8/4/8445291791435.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Soolakreekerid MIX seesami- ja mooniseemnetega, CROCO, 150 g",
-        "price": 1.35,
-        "old_price": 1.89,
-        "image": "https://www.selver.ee/img/800/800/resize/5/9/5941194002959.jpg",
         "store": "Selver"
     },
     {
@@ -4218,13 +4225,6 @@
         "price": 1.49,
         "old_price": 1.89,
         "image": "https://www.selver.ee/img/800/800/resize/5/4/5411916303850.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Õrnsoola lõhefilee sibula ja küüslauguga, SELVER,  kg",
-        "price": 24.99,
-        "old_price": 27.9,
-        "image": "https://www.selver.ee/img/800/800/resize/2/7/2711998000009.jpg",
         "store": "Selver"
     },
     {
@@ -8239,24 +8239,10 @@
         "store": "Selver"
     },
     {
-        "name": "Pirn Conference, kg",
-        "price": 1.9899999999999998,
-        "old_price": 2.59,
-        "image": "https://www.selver.ee/img/800/800/resize/2/7/2701385000002.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Aprikoos, kg",
         "price": 3.99,
         "old_price": 5.290000000000001,
         "image": "https://www.selver.ee/img/800/800/resize/2/7/2700077000009.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Nektariin, kg",
-        "price": 2.59,
-        "old_price": 3.29,
-        "image": "https://www.selver.ee/img/800/800/resize/2/7/2700070000006.jpg",
         "store": "Selver"
     },
     {
@@ -8316,13 +8302,6 @@
         "store": "Selver"
     },
     {
-        "name": "Sidrun Eureka, kg",
-        "price": 1.9899999999999998,
-        "old_price": 2.29,
-        "image": "https://www.selver.ee/img/800/800/resize/2/7/2700004000003.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Apelsin Navel Lane Late, kg",
         "price": 2.19,
         "old_price": 2.49,
@@ -8341,6 +8320,13 @@
         "price": 7.99,
         "old_price": 9.19,
         "image": "https://www.selver.ee/img/800/800/resize/2/7/2715553000008.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Soolakreeker seesamiseemnetega, CROCO, 150 g",
+        "price": 1.35,
+        "old_price": 1.89,
+        "image": "https://www.selver.ee/img/800/800/resize/5/9/5941194002959.jpg",
         "store": "Selver"
     }
 ]
