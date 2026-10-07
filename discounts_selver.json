@@ -1,16 +1,16 @@
 [
     {
-        "name": "Chunky Burger kaste, HELLMANN'S, 250 ml",
-        "price": 2.29,
-        "old_price": 3.39,
-        "image": "https://www.selver.ee/img/800/800/resize/8/7/8711200458110.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Original majonees, HELLMANN'S, 405ml",
         "price": 2.29,
         "old_price": 3.99,
         "image": "https://www.selver.ee/img/800/800/resize/8/7/8720182087270.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Chunky Burger kaste, HELLMANN'S, 250 ml",
+        "price": 2.29,
+        "old_price": 3.39,
+        "image": "https://www.selver.ee/img/800/800/resize/8/7/8711200458110.jpg",
         "store": "Selver"
     },
     {
@@ -665,13 +665,6 @@
         "store": "Selver"
     },
     {
-        "name": "Kurk poolpikk, kg",
-        "price": 4.51,
-        "old_price": 5.59,
-        "image": "https://www.selver.ee/img/800/800/resize/2/7/2700079000007.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Vürtsitee ingver-sidrun, LOYD, 40 g",
         "price": 2.09,
         "old_price": 2.75,
@@ -739,6 +732,13 @@
         "price": 1.79,
         "old_price": 2.29,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740073003428.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Melon Dino, kg",
+        "price": 3.29,
+        "old_price": 3.79,
+        "image": "https://www.selver.ee/img/800/800/resize/2/7/2715485000008.jpg",
         "store": "Selver"
     },
     {
@@ -1082,6 +1082,13 @@
         "price": 9.39,
         "old_price": 11.59,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4744130016611.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "B-vitamiinide kompleks, kapslid N90, ICONFIT, 84 g",
+        "price": 7.99,
+        "old_price": 9.79,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4744130016505.jpg",
         "store": "Selver"
     },
     {
@@ -1778,6 +1785,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kõrvitsa hummus, GOURMET CLUB, 200 g",
+        "price": 1.9899999999999998,
+        "old_price": 3.09,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740670002411.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Võileivaviilud goudajuustu maitsega, VIOLIFE, 100 g",
         "price": 2.09,
         "old_price": 2.69,
@@ -1977,7 +1991,7 @@
         "name": "Naturali Aranciata Rossa, SANPELLEGRINO, 330 ml",
         "price": 1.09,
         "old_price": 1.49,
-        "image": "https://www.selver.ee/img/800/800/resize/8/0/8002270626883.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8002270116964.jpg",
         "store": "Selver"
     },
     {
@@ -2909,13 +2923,6 @@
         "price": 2.69,
         "old_price": 4.49,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4779028345863.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Lahustuv kohvijook 3in1 Strong (kott)10x16g, NESCAFE, 160 g",
-        "price": 1.9899999999999998,
-        "old_price": 3.25,
-        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445291208445.jpg",
         "store": "Selver"
     },
     {
@@ -4203,7 +4210,7 @@
         "name": "Naturali Aranciata, SANPELLEGRINO, 330 ml",
         "price": 1.09,
         "old_price": 1.49,
-        "image": "https://www.selver.ee/img/800/800/resize/8/0/8002270826887.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8002270086977.jpg",
         "store": "Selver"
     },
     {
@@ -8334,13 +8341,6 @@
         "price": 7.99,
         "old_price": 9.19,
         "image": "https://www.selver.ee/img/800/800/resize/2/7/2715553000008.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Melon Dino, kg",
-        "price": 3.29,
-        "old_price": 3.79,
-        "image": "https://www.selver.ee/img/800/800/resize/2/7/2715485000008.jpg",
         "store": "Selver"
     }
 ]
