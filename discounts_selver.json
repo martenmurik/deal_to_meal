@@ -84,13 +84,6 @@
         "store": "Selver"
     },
     {
-        "name": "Eesti Taluvõi laktoosivaba, ESTOVER, 150 g",
-        "price": 1.29,
-        "old_price": 2.99,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572007002.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Kohupiimapallid 5tk, SELVERI PAGARID, 200g",
         "price": 2.49,
         "old_price": 3.99,
@@ -8292,6 +8285,13 @@
         "price": 1.69,
         "old_price": 2.79,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4744735010328.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Eesti Taluvõi laktoosivaba, ESTOVER, 150 g",
+        "price": 1.29,
+        "old_price": 2.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572007002.jpg",
         "store": "Selver"
     }
 ]
