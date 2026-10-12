@@ -1,5 +1,19 @@
 [
     {
+        "name": "Chunky Burger kaste, HELLMANN'S, 250 ml",
+        "price": 2.29,
+        "old_price": 3.39,
+        "image": "https://www.selver.ee/img/800/800/resize/8/7/8711200458110.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Original majonees, HELLMANN'S, 405ml",
+        "price": 2.29,
+        "old_price": 3.99,
+        "image": "https://www.selver.ee/img/800/800/resize/8/7/8720182087270.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Piret piimašokolaad tervete metspähklitega, KALEV, 270 g",
         "price": 4.97,
         "old_price": 7.27,
@@ -11,20 +25,6 @@
         "price": 3.7700000000000005,
         "old_price": 4.97,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012600916.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Original majonees, HELLMANN'S, 405ml",
-        "price": 2.29,
-        "old_price": 3.99,
-        "image": "https://www.selver.ee/img/800/800/resize/8/7/8720182087270.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Chunky Burger kaste, HELLMANN'S, 250 ml",
-        "price": 2.29,
-        "old_price": 3.39,
-        "image": "https://www.selver.ee/img/800/800/resize/8/7/8711200458110.jpg",
         "store": "Selver"
     },
     {
@@ -81,6 +81,20 @@
         "price": 1.9899999999999998,
         "old_price": 2.79,
         "image": "https://www.selver.ee/img/800/800/resize/5/7/5713388063097.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Proteiinibatoon Soft Bar Cinnamon Bun, BAREBELLS, 55 g",
+        "price": 2.49,
+        "old_price": 3.1900000000000004,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7340001807738.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Eesti Taluvõi laktoosivaba, ESTOVER, 150 g",
+        "price": 1.29,
+        "old_price": 2.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572007002.jpg",
         "store": "Selver"
     },
     {
@@ -8285,13 +8299,6 @@
         "price": 1.69,
         "old_price": 2.79,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4744735010328.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Eesti Taluvõi laktoosivaba, ESTOVER, 150 g",
-        "price": 1.29,
-        "old_price": 2.99,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572007002.jpg",
         "store": "Selver"
     }
 ]
