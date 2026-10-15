@@ -448,13 +448,6 @@
         "store": "Selver"
     },
     {
-        "name": "HULGI Madagaskari vanilliga jäätis laktoosivaba 3tk, LA MUU, 3x250g",
-        "price": 10,
-        "old_price": 13.47,
-        "image": "https://www.selver.ee/img/800/800/resize/0/2/0212000002469.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "HULGI Kummikommid Pico - Balla 3tk, HARIBO, 3x160g",
         "price": 4.5,
         "old_price": 7.17,
@@ -1614,20 +1607,6 @@
         "price": 2.49,
         "old_price": 3.1900000000000004,
         "image": "https://www.selver.ee/img/800/800/resize/7/3/7340001807813.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kreeka jogurt 5%,FAGE , 450 g",
-        "price": 2.99,
-        "old_price": 4.99,
-        "image": "https://www.selver.ee/img/800/800/resize/5/2/5201054018439.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kreeka jogurt 0,2%, FAGE, 450 g",
-        "price": 2.99,
-        "old_price": 4.99,
-        "image": "https://www.selver.ee/img/800/800/resize/5/2/5201054018415.jpg",
         "store": "Selver"
     },
     {
@@ -3759,13 +3738,6 @@
         "store": "Selver"
     },
     {
-        "name": "Täissööt. Kassikonserv kanaga, GOURMET GOLD, 85g",
-        "price": 0.5,
-        "old_price": 0.88,
-        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290502599.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Mango koonusjäätis, ERITI RAMMUS, 100 g",
         "price": 1.4500000000000002,
         "old_price": 1.78,
@@ -4672,7 +4644,7 @@
         "name": "Karastusjook Coca-Cola, COCA-COLA, 200 ml",
         "price": 0.59,
         "old_price": 0.8,
-        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000011114.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112615166.jpg",
         "store": "Selver"
     },
     {
@@ -4998,13 +4970,6 @@
         "store": "Selver"
     },
     {
-        "name": "Broileri kintsuliha karulaugu marinaadis, SELVER, kg",
-        "price": 8.99,
-        "old_price": 10.99,
-        "image": "https://www.selver.ee/img/800/800/resize/2/7/2712535000001.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Sriracha tšilli-majoneesi kaste, FLYING GOOSE, 200 ml",
         "price": 3.59,
         "old_price": 4.29,
@@ -5092,14 +5057,14 @@
         "name": "Karastusjook Sprite, SPRITE, 1,5 L",
         "price": 1.69,
         "old_price": 2.29,
-        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000110718.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651904.jpg",
         "store": "Selver"
     },
     {
         "name": "Karastusjook Sprite, SPRITE, 500 ml",
         "price": 0.99,
         "old_price": 1.27,
-        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000110671.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112679625.jpg",
         "store": "Selver"
     },
     {
