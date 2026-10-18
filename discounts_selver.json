@@ -1,5 +1,12 @@
 [
     {
+        "name": "Chunky Burger kaste, HELLMANN'S, 250 ml",
+        "price": 2.29,
+        "old_price": 3.39,
+        "image": "https://www.selver.ee/img/800/800/resize/8/7/8711200458110.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Piret piimašokolaad tervete metspähklitega, KALEV, 270 g",
         "price": 4.97,
         "old_price": 7.27,
@@ -11,13 +18,6 @@
         "price": 3.7700000000000005,
         "old_price": 4.97,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012600916.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Chunky Burger kaste, HELLMANN'S, 250 ml",
-        "price": 2.29,
-        "old_price": 3.39,
-        "image": "https://www.selver.ee/img/800/800/resize/8/7/8711200458110.jpg",
         "store": "Selver"
     },
     {
@@ -3479,6 +3479,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kohupiim metsmaasika, ALMA, 200 g",
+        "price": 0.89,
+        "old_price": 1.25,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740125638547.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Vitamiin D₃ + C + acerola-kirsi ekstrakt N42, ONTHEGO, 38 g",
         "price": 2.49,
         "old_price": 3.45,
@@ -4644,7 +4651,7 @@
         "name": "Karastusjook Coca-Cola, COCA-COLA, 200 ml",
         "price": 0.59,
         "old_price": 0.8,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112615166.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000011114.jpg",
         "store": "Selver"
     },
     {
@@ -5064,14 +5071,14 @@
         "name": "Karastusjook Sprite, SPRITE, 1,5 L",
         "price": 1.69,
         "old_price": 2.29,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651904.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000110718.jpg",
         "store": "Selver"
     },
     {
         "name": "Karastusjook Sprite, SPRITE, 500 ml",
         "price": 0.99,
         "old_price": 1.27,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112679625.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000110671.jpg",
         "store": "Selver"
     },
     {
@@ -7539,13 +7546,6 @@
         "store": "Selver"
     },
     {
-        "name": "Sefiir vaniljemaitseline, LAIMA, 200 g",
-        "price": 1.5699999999999998,
-        "old_price": 2.19,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4750001002508.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Pumpernikkel, REVAL KONDIITER, 165 g",
         "price": 1.29,
         "old_price": 1.79,
@@ -8474,6 +8474,13 @@
         "price": 1.9899999999999998,
         "old_price": 2.39,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4742063000936.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Sefiir vaniljemaitseline, LAIMA, 200 g",
+        "price": 1.5699999999999998,
+        "old_price": 2.19,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4750001002508.jpg",
         "store": "Selver"
     }
 ]
