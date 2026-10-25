@@ -175,6 +175,20 @@
         "store": "Selver"
     },
     {
+        "name": "Rummi-rosina koorejäätis, BALBIINO, 500 ml",
+        "price": 3.19,
+        "old_price": 4.59,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740188020594.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Karamelli-vahukoorejäätis karamellitükkidega, BALBIINO, 500 ml",
+        "price": 3.19,
+        "old_price": 4.59,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740188020563.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Ürdivõi ahjukana, TALLEGG, kg",
         "price": 5.49,
         "old_price": 6.99,
@@ -193,6 +207,13 @@
         "price": 4.19,
         "old_price": 5.49,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003018485.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kodune guljašš, RAKVERE, 500 g",
+        "price": 4.19,
+        "old_price": 5.49,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003018478.jpg",
         "store": "Selver"
     },
     {
@@ -3486,6 +3507,13 @@
         "store": "Selver"
     },
     {
+        "name": "Mahe hapukoor 20% laktoosivaba, SAARE ÖKO, 300 g",
+        "price": 1.29,
+        "old_price": 1.82,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4742231005404.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Nutella küpsised, NUTELLA, 193 g",
         "price": 3.79,
         "old_price": 4.59,
@@ -3952,6 +3980,13 @@
         "price": 2.59,
         "old_price": 2.99,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740669040752.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Sisefilee trühvlimarinaadis, SELVER, kg",
+        "price": 9.99,
+        "old_price": 11.99,
+        "image": "https://www.selver.ee/img/800/800/resize/2/7/2714216000003.jpg",
         "store": "Selver"
     },
     {
@@ -5659,7 +5694,7 @@
         "name": "Täissööt. Eine koertele kanasüdamega, PIPER, 500 g",
         "price": 2.25,
         "old_price": 2.69,
-        "image": "https://www.selver.ee/img/800/800/resize/5/9/5900842014034.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/9/5902921307198.jpg",
         "store": "Selver"
     },
     {
@@ -6086,7 +6121,7 @@
         "name": "Lahustuv kohv Classic (klaaspurk), NESCAFE, 200 g",
         "price": 7.99,
         "old_price": 11.99,
-        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290303080.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613031918881.jpg",
         "store": "Selver"
     },
     {
@@ -6136,6 +6171,13 @@
         "price": 2.89,
         "old_price": 3.85,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740086014978.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Koorene jogurt maasikatega, FARMI, 400 g",
+        "price": 1.39,
+        "old_price": 1.79,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740113034269.jpg",
         "store": "Selver"
     },
     {
@@ -7276,7 +7318,7 @@
         "name": "Šokolaad, TWIX, 50 g",
         "price": 0.99,
         "old_price": 1.29,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000159459228.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/9/5900951313592.jpg",
         "store": "Selver"
     },
     {
