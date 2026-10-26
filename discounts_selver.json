@@ -5694,7 +5694,7 @@
         "name": "Täissööt. Eine koertele kanasüdamega, PIPER, 500 g",
         "price": 2.25,
         "old_price": 2.69,
-        "image": "https://www.selver.ee/img/800/800/resize/5/9/5902921307198.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/9/5900842014034.jpg",
         "store": "Selver"
     },
     {
@@ -6121,7 +6121,7 @@
         "name": "Lahustuv kohv Classic (klaaspurk), NESCAFE, 200 g",
         "price": 7.99,
         "old_price": 11.99,
-        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613031918881.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290303080.jpg",
         "store": "Selver"
     },
     {
@@ -8278,6 +8278,13 @@
         "price": 3.99,
         "old_price": 5.39,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4744735010915.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Advendikalender 2026, BAREBELLS, 1,32 kg",
+        "price": 69.9,
+        "old_price": 89.9,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4745010069413.jpg",
         "store": "Selver"
     }
 ]
