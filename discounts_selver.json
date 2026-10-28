@@ -1,5 +1,12 @@
 [
     {
+        "name": "Küüslaugu küüned, 100 g",
+        "price": 2.49,
+        "old_price": 2.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4745011069511.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Ahjuvorstid mozzarella, tomati-basiiliku, MATSIMOKA, 365 g",
         "price": 3.99,
         "old_price": 5.39,
@@ -221,13 +228,6 @@
         "price": 4.19,
         "old_price": 5.49,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003018485.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kodune guljašš, RAKVERE, 500 g",
-        "price": 4.19,
-        "old_price": 5.49,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003018478.jpg",
         "store": "Selver"
     },
     {
@@ -1222,13 +1222,6 @@
         "price": 2.59,
         "old_price": 3.55,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4742024131105.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Toonik Ginger Beer, FEVER TREE, 500 ml",
-        "price": 2.59,
-        "old_price": 3.55,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4742024131082.jpg",
         "store": "Selver"
     },
     {
@@ -6006,13 +5999,6 @@
         "store": "Selver"
     },
     {
-        "name": "Porgandi-pastinaagi maisipulgad mahe 6+, ELLA'S KITCHEN, 20g",
-        "price": 1.29,
-        "old_price": 1.5899999999999999,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5060503500013.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Aroomisool, SANTA MARIA, 74 g",
         "price": 1.29,
         "old_price": 1.5899999999999999,
@@ -6510,6 +6496,20 @@
         "store": "Selver"
     },
     {
+        "name": "\"Nutri Mio\" gluteenivaba pasta FUSILLI, REGGIA, 400 g",
+        "price": 2.49,
+        "old_price": 3.12,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8008857114484.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "\"Nutri Mio\" gluteenivaba pasta PENNE RIGATE, REGGIA, 400 g",
+        "price": 2.49,
+        "old_price": 3.12,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8008857114347.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Kohviuba Qualita Oro, LAVAZZA, 1 kg",
         "price": 18.99,
         "old_price": 34.99,
@@ -6849,7 +6849,7 @@
         "name": "Toonik Ginger Ale, FEVER TREE, 500 ml",
         "price": 2.59,
         "old_price": 3.55,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5060108450287.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4751017241028.jpg",
         "store": "Selver"
     },
     {
@@ -7329,13 +7329,6 @@
         "store": "Selver"
     },
     {
-        "name": "Viinamari hele seemneteta , 500 g",
-        "price": 4.39,
-        "old_price": 5.69,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740608070581.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Kodune rosolje, SELVERI KÖÖK, 700 g",
         "price": 4.59,
         "old_price": 5.880000000000001,
@@ -7455,6 +7448,13 @@
         "store": "Selver"
     },
     {
+        "name": "Tükeldatud tomatid, REGGIA, 400 g",
+        "price": 1.35,
+        "old_price": 1.85,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8008857010038.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Kooritud tomatid, REGGIA, 400 g",
         "price": 1.35,
         "old_price": 1.68,
@@ -7490,7 +7490,7 @@
         "store": "Selver"
     },
     {
-        "name": "Mineraalvesi S. Pellegrino, SAN PELLEGRINO, 500 ml",
+        "name": "Mineraalvesi, SAN PELLEGRINO, 500 ml",
         "price": 0.89,
         "old_price": 1.29,
         "image": "https://www.selver.ee/img/800/800/resize/8/0/8002270000201.jpg",
@@ -7889,7 +7889,7 @@
         "store": "Selver"
     },
     {
-        "name": "Juust Halloumi, DODONI, 225 g",
+        "name": "Halloumi, DODONI, 225 g",
         "price": 4.49,
         "old_price": 6.7,
         "image": "https://www.selver.ee/img/800/800/resize/5/2/5201168915013.jpg",
@@ -8284,7 +8284,7 @@
         "name": "Kadaka juust 26% viilud laktoosivaba, MO SAAREMAA, 150 g",
         "price": 1.69,
         "old_price": 2.3,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740153081896.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740189081891.jpg",
         "store": "Selver"
     },
     {
@@ -8953,10 +8953,10 @@
         "store": "Selver"
     },
     {
-        "name": "Küüslaugu küüned, 100 g",
-        "price": 2.49,
-        "old_price": 2.99,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4745011069511.jpg",
+        "name": "Athletic Juust viilutatud, ESTOVER, 500 g",
+        "price": 3.59,
+        "old_price": 5.59,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572007125.jpg",
         "store": "Selver"
     }
 ]
