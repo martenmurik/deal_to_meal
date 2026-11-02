@@ -63,6 +63,27 @@
         "store": "Selver"
     },
     {
+        "name": "Joogijogurt virsiku-granadilli-mustika, YOPRO, 300 g",
+        "price": 1.99,
+        "old_price": 2.59,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7350000552737.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Joogijogurt mustikamaitsega, YOPRO, 300 g",
+        "price": 1.99,
+        "old_price": 2.59,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7350000552874.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Joogijogurt banaanimaitsega, YOPRO, 300 g",
+        "price": 1.99,
+        "old_price": 2.59,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7350000553536.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Kaerajook Barista kõrvitsa-vürtsi, ODDLYGOOD, 500 ml",
         "price": 2.09,
         "old_price": 2.59,
@@ -231,6 +252,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kodune guljašš, RAKVERE, 500 g",
+        "price": 4.19,
+        "old_price": 5.49,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003018478.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Kõrvitsasalat, FELIX, 310 g",
         "price": 1.99,
         "old_price": 2.49,
@@ -375,6 +403,13 @@
         "price": 2.69,
         "old_price": 3.55,
         "image": "https://www.selver.ee/img/800/800/resize/5/0/5053990175888.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Vitamiinijook Limited Edition, VITAMIN WELL, 500 ml",
+        "price": 1.57,
+        "old_price": 2.09,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7340222804073.jpg",
         "store": "Selver"
     },
     {
@@ -2082,7 +2117,7 @@
         "name": "Närimiskumm Peppermint suhkruvaba, ORBIT, 14 g",
         "price": 0.69,
         "old_price": 0.89,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/50173204.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/0/0/0000050173204.jpg",
         "store": "Selver"
     },
     {
@@ -2408,7 +2443,7 @@
         "store": "Selver"
     },
     {
-        "name": "Maitserohelise segu taldrikul, GRÜNE FEE, 1 tk",
+        "name": "Maitserohelise segu taldrikul, GRÜNE FEE, 75 g",
         "price": 2.29,
         "old_price": 2.99,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4741116000480.jpg",
@@ -5302,14 +5337,14 @@
         "name": "Täiendsööt. Närimispulgad koertele pühvel 4tk, ADVENTUROS, 120g",
         "price": 1.25,
         "old_price": 1.82,
-        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613035516335.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/0/7/07613035516335.jpg",
         "store": "Selver"
     },
     {
         "name": "Täiendsööt. Nagitsad koertele metssiga 22tk, ADVENTUROS, 90g",
         "price": 1.25,
         "old_price": 1.82,
-        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613035516458.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/0/7/07613035516458.jpg",
         "store": "Selver"
     },
     {
@@ -6604,7 +6639,7 @@
         "name": "Mango karbis, EAT ME, 2 tk",
         "price": 3.6899999999999995,
         "old_price": 4.99,
-        "image": "https://www.selver.ee/img/800/800/resize/8/7/8717662020810.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740669015583.jpg",
         "store": "Selver"
     },
     {
@@ -7129,7 +7164,7 @@
         "name": "Kartulikrõpsud Koore-Sibula, PRINGLES, 165 g",
         "price": 2.69,
         "old_price": 3.55,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5053990101597.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/0/5/05053990101597.jpg",
         "store": "Selver"
     },
     {
@@ -7605,28 +7640,28 @@
         "name": "Tex Mex ananassi Salsa, SANTA MARIA, 230 g",
         "price": 2.49,
         "old_price": 3.29,
-        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311312000941.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/0/7/07311312000941.jpg",
         "store": "Selver"
     },
     {
         "name": "Mahedamaitseline taco kaste, SANTA MARIA, 230 g",
         "price": 2.49,
         "old_price": 3.29,
-        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311312002075.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/0/7/07311312002075.jpg",
         "store": "Selver"
     },
     {
         "name": "Terav taco kaste, SANTA MARIA, 230 g",
         "price": 2.49,
         "old_price": 3.29,
-        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311312002143.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/0/7/07311312002143.jpg",
         "store": "Selver"
     },
     {
         "name": "Jalapeno viilud, SANTA MARIA, 215 g",
         "price": 3.29,
         "old_price": 4.39,
-        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311310038403.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/0/7/07311310038403.jpg",
         "store": "Selver"
     },
     {
@@ -7696,7 +7731,7 @@
         "name": "Salatikaste Caesar, FELIX, 375 g",
         "price": 2.19,
         "old_price": 2.59,
-        "image": "https://www.selver.ee/img/800/800/resize/6/4/6417808290610.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740029049524.jpg",
         "store": "Selver"
     },
     {
