@@ -1,5 +1,47 @@
 [
     {
+        "name": "Advendikalender Lumememm, MILKA,",
+        "price": 13.79,
+        "old_price": 18.99,
+        "image": "https://www.selver.ee/img/800/800/resize/7/6/7622202367663.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Advendikalender, MILKA, 90 g",
+        "price": 5.89,
+        "old_price": 7.99,
+        "image": "https://www.selver.ee/img/800/800/resize/7/6/7622202044847.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Mahe Kartul, 1kg",
+        "price": 1.49,
+        "old_price": 1.79,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4742818011774.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Premium tudengieine, ARIMEX, 300 g",
+        "price": 4.99,
+        "old_price": 5.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4771249816245.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Mahe Õun, 1kg",
+        "price": 3.99,
+        "old_price": 4.79,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4742818012122.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Hirvelihaga verivorst, LINNAMÄE LIHATÖÖSTUS, 360 g",
+        "price": 2.79,
+        "old_price": 3.29,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740618009373.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Old Saare Special juust sektor, MO SAAREMAA, 280 g",
         "price": 3.49,
         "old_price": 5.07,
@@ -3976,6 +4018,13 @@
         "store": "Selver"
     },
     {
+        "name": "Redise võrsed, VÄIKE MAHETALU, 1tk",
+        "price": 2.99,
+        "old_price": 3.59,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4742023130628.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Šokolaadipastillid Minis, M&M'S, 70 g",
         "price": 1.69,
         "old_price": 2.39,
@@ -4291,10 +4340,10 @@
         "store": "Selver"
     },
     {
-        "name": "Hippis õunapüree banaaniga BIO 4+, HIPP, 100 g",
-        "price": 1.39,
-        "old_price": 2.02,
-        "image": "https://www.selver.ee/img/800/800/resize/9/0/9062300133711.jpg",
+        "name": "Memme suur sült, NÕO, 500 g",
+        "price": 2.99,
+        "old_price": 4.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740574096110.jpg",
         "store": "Selver"
     },
     {
@@ -4365,6 +4414,13 @@
         "price": 0.99,
         "old_price": 1.19,
         "image": "https://www.selver.ee/img/800/800/resize/4/0/4014400933338.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Oreo advendikalender üllatusega, MILKA, 284 g",
+        "price": 15.989999999999998,
+        "old_price": 20.99,
+        "image": "https://www.selver.ee/img/800/800/resize/7/6/7622201747411.jpg",
         "store": "Selver"
     },
     {
@@ -4984,20 +5040,6 @@
         "store": "Selver"
     },
     {
-        "name": "Burgerikaste, FELIX, 220 g",
-        "price": 1.45,
-        "old_price": 1.79,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740029048916.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kartulikaste, FELIX, 220 g",
-        "price": 1.45,
-        "old_price": 1.79,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740029048923.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Täisterapuder banaani ja mustasõstraga 6+, mahe, PÕNN, 200g",
         "price": 1.55,
         "old_price": 1.79,
@@ -5240,13 +5282,6 @@
         "price": 4.25,
         "old_price": 4.95,
         "image": "https://www.selver.ee/img/800/800/resize/2/1/210300001410.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Neljaviljapuder õuna ja mangoga, 6+, PÕNN, 110g",
-        "price": 1.45,
-        "old_price": 1.8599999999999999,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740073078822.jpg",
         "store": "Selver"
     },
     {
@@ -5551,6 +5586,13 @@
         "store": "Selver"
     },
     {
+        "name": "Pehmed kompvekid hapud, RED BAND, 100 g",
+        "price": 1.19,
+        "old_price": 1.49,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8013399117435.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Original küpsised Vegan, DOMINO, 175 g",
         "price": 1.75,
         "old_price": 2.79,
@@ -5793,6 +5835,13 @@
         "price": 1.9899999999999998,
         "old_price": 2.69,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740059007747.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Advendikalender, HARIBO, 300 g",
+        "price": 11.29,
+        "old_price": 14.49,
+        "image": "https://www.selver.ee/img/800/800/resize/4/0/4001686849163.jpg",
         "store": "Selver"
     },
     {
@@ -6933,7 +6982,7 @@
         "name": "Täissööt. Eine koertele kanasüdamega, PIPER, 500 g",
         "price": 2.25,
         "old_price": 2.69,
-        "image": "https://www.selver.ee/img/800/800/resize/5/9/5900842014034.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/9/5902921307198.jpg",
         "store": "Selver"
     },
     {
@@ -7162,7 +7211,7 @@
     },
     {
         "name": "Pohlamoos, PÕLTSAMAA, 380 g",
-        "price": 3.19,
+        "price": 3.1900000000000004,
         "old_price": 3.6899999999999995,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740029045496.jpg",
         "store": "Selver"
@@ -7560,6 +7609,13 @@
         "store": "Selver"
     },
     {
+        "name": "Advendikalender M&M´s, M&M’S, 361 g",
+        "price": 10.79,
+        "old_price": 18.99,
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000159476768.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Porgand, RAUTSI TALU, 500 g",
         "price": 1.25,
         "old_price": 1.5699999999999998,
@@ -7801,7 +7857,7 @@
         "name": "Toonik Ginger Ale, FEVER TREE, 500 ml",
         "price": 2.59,
         "old_price": 3.55,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4751017241028.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5060108450287.jpg",
         "store": "Selver"
     },
     {
@@ -10024,10 +10080,10 @@
         "store": "Selver"
     },
     {
-        "name": "Hirvelihaga verivorst, LINNAMÄE LIHATÖÖSTUS, 360 g",
-        "price": 2.79,
-        "old_price": 3.29,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740618009373.jpg",
+        "name": "Advendikalender, MERCI, 263 g",
+        "price": 18.99,
+        "old_price": 24.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/0/4014400935899.jpg",
         "store": "Selver"
     }
 ]
