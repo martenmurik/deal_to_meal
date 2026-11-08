@@ -2947,13 +2947,6 @@
         "store": "Selver"
     },
     {
-        "name": "Eestimaine broileripooltiib, TALLEGG, 400 g",
-        "price": 2.19,
-        "old_price": 3.29,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740046004810.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Krõmpsuvad kuivatatud juustupallid musta trühvli, DŽIUGAS, 40 g",
         "price": 1.79,
         "old_price": 2.29,
@@ -3462,6 +3455,13 @@
         "price": 2.59,
         "old_price": 2.99,
         "image": "https://www.selver.ee/img/800/800/resize/9/0/9006900017514.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kodused kotletid, KARNI, 360 g",
+        "price": 2.99,
+        "old_price": 3.85,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740579299110.jpg",
         "store": "Selver"
     },
     {
@@ -5824,13 +5824,6 @@
         "store": "Selver"
     },
     {
-        "name": "Požarski kotlet, TALLEGG, 350 g",
-        "price": 2.39,
-        "old_price": 2.99,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740046005435.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Piparkook glasuurita karbis, REVAL KONDIITER, 250 g",
         "price": 3.59,
         "old_price": 4.49,
@@ -6839,6 +6832,13 @@
         "store": "Selver"
     },
     {
+        "name": "Lasteviiner, RAKVERE, 200 g",
+        "price": 1.49,
+        "old_price": 1.89,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003013664.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Gouda Tšilli juust, NOPRI, 250 g",
         "price": 4.09,
         "old_price": 5.220000000000001,
@@ -7066,7 +7066,7 @@
         "name": "Täissööt. Eine koertele kanasüdamega, PIPER, 500 g",
         "price": 2.25,
         "old_price": 2.69,
-        "image": "https://www.selver.ee/img/800/800/resize/5/9/5902921307198.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/9/5900842014034.jpg",
         "store": "Selver"
     },
     {
@@ -7109,13 +7109,6 @@
         "price": 3.19,
         "old_price": 3.79,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740093824522.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Juustukukkel, EESTI PAGAR, 200 g",
-        "price": 0.95,
-        "old_price": 1.11,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740086007673.jpg",
         "store": "Selver"
     },
     {
@@ -7315,6 +7308,13 @@
         "store": "Selver"
     },
     {
+        "name": "Salatisegu, 75 g",
+        "price": 1.29,
+        "old_price": 1.49,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8012566023807.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Täistera jämedad kaerahelbed, TARTU MILL, 500 g",
         "price": 1.09,
         "old_price": 1.29,
@@ -7354,6 +7354,13 @@
         "price": 3.99,
         "old_price": 4.89,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740618003883.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Požarski kotlet, TALLEGG, 350 g",
+        "price": 2.39,
+        "old_price": 2.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740046005435.jpg",
         "store": "Selver"
     },
     {
@@ -7941,7 +7948,7 @@
         "name": "Toonik Ginger Ale, FEVER TREE, 500 ml",
         "price": 2.59,
         "old_price": 3.55,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4751017241028.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5060108450287.jpg",
         "store": "Selver"
     },
     {
@@ -8313,6 +8320,13 @@
         "price": 1.79,
         "old_price": 2.09,
         "image": "https://www.selver.ee/img/800/800/resize/3/0/3083680001793.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Eestimaine broileripooltiib, TALLEGG, 400 g",
+        "price": 2.19,
+        "old_price": 3.29,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740046004810.jpg",
         "store": "Selver"
     },
     {
@@ -9061,7 +9075,7 @@
         "name": "Šokolaad, TWIX, 50 g",
         "price": 0.99,
         "old_price": 1.29,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000159459228.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/9/5900951313592.jpg",
         "store": "Selver"
     },
     {
@@ -9555,6 +9569,13 @@
         "store": "Selver"
     },
     {
+        "name": "Juustukukkel, EESTI PAGAR, 200 g",
+        "price": 0.95,
+        "old_price": 1.11,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740086007673.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Pikksai maitserohelisega, EESTI PAGAR, 175 g",
         "price": 0.95,
         "old_price": 1.22,
@@ -9825,13 +9846,6 @@
         "price": 2.77,
         "old_price": 3.9699999999999998,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012023685.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kompvek Komeet, KALEV, 175 g",
-        "price": 1.57,
-        "old_price": 2.87,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012023531.jpg",
         "store": "Selver"
     },
     {
@@ -10143,17 +10157,10 @@
         "store": "Selver"
     },
     {
-        "name": "Kodused kotletid, KARNI, 360 g",
-        "price": 2.99,
-        "old_price": 3.85,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740579299110.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Lasteviiner, RAKVERE, 200 g",
-        "price": 1.49,
-        "old_price": 1.89,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003013664.jpg",
+        "name": "Kompvek Komeet, KALEV, 175 g",
+        "price": 1.57,
+        "old_price": 2.87,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012023531.jpg",
         "store": "Selver"
     }
 ]
