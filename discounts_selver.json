@@ -14,6 +14,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kartulikrõps juustumaitseline, ESTRELLA, 180 g",
+        "price": 2.25,
+        "old_price": 3.75,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779028345832.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Advendikalender mütsiga, KINDER, 370 g",
         "price": 29.99,
         "old_price": 39.99,
@@ -1351,13 +1358,6 @@
         "store": "Selver"
     },
     {
-        "name": "Cheese Balls maisisnäkid, TAFFEL, 190 g",
-        "price": 1.97,
-        "old_price": 2.9700000000000006,
-        "image": "https://www.selver.ee/img/800/800/resize/6/4/6410380049744.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Meelerahu 90 kapslit, ECOSH, 41g",
         "price": 21.9,
         "old_price": 25.9,
@@ -1736,7 +1736,7 @@
         "store": "Selver"
     },
     {
-        "name": "Školaadikook kirsi ja soolakaramelliga, GOURMET CLUB, 450 g",
+        "name": "Šokolaadikook kirsi ja soolakaramelliga, GOURMET CLUB, 450 g",
         "price": 9.99,
         "old_price": 12.59,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740670002671.jpg",
@@ -1971,13 +1971,6 @@
         "price": 0.99,
         "old_price": 1.29,
         "image": "https://www.selver.ee/img/800/800/resize/8/7/8712429350407.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Gaseeritud tsitrusemaitseline jook, BELIEF, 530 ml",
-        "price": 1.59,
-        "old_price": 1.98,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4744433010347.jpg",
         "store": "Selver"
     },
     {
@@ -3262,6 +3255,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kartulikrõpsud tšilli- ja tsitrusemaitselised, TAFFEL, 180 g",
+        "price": 1.97,
+        "old_price": 2.9700000000000006,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4750024003582.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Fit Broileri rinnafilee mustikamarinaadis, TALLEGG, 500 g",
         "price": 4.79,
         "old_price": 5.99,
@@ -3336,13 +3336,6 @@
         "price": 1.64,
         "old_price": 2.19,
         "image": "https://www.selver.ee/img/800/800/resize/4/0/4011800296117.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Vegan taimne majonees klaaspurgis, HELLMANN'S, 330 g",
-        "price": 3.49,
-        "old_price": 5.290000000000001,
-        "image": "https://www.selver.ee/img/800/800/resize/8/7/8721201922435.jpg",
         "store": "Selver"
     },
     {
@@ -3518,13 +3511,6 @@
         "price": 3.79,
         "old_price": 5.48,
         "image": "https://www.selver.ee/img/800/800/resize/8/5/8595229927846.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kartulikrõpsud tšilli- ja tsitrusemaitselised, TAFFEL, 180 g",
-        "price": 1.97,
-        "old_price": 2.9700000000000006,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4750024003582.jpg",
         "store": "Selver"
     },
     {
@@ -3770,6 +3756,13 @@
         "price": 3.1900000000000004,
         "old_price": 4.39,
         "image": "https://www.selver.ee/img/800/800/resize/7/3/7314710603103.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Heeringafilee kergsoola, VICI, 220 g",
+        "price": 1.79,
+        "old_price": 2.85,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4770190377669.jpg",
         "store": "Selver"
     },
     {
@@ -5166,6 +5159,13 @@
         "store": "Selver"
     },
     {
+        "name": "Šašlõki ja röstitud sibula maitselised kartulikrõpsud, TAFFEL, 180g",
+        "price": 1.97,
+        "old_price": 2.9700000000000006,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4750024002783.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Juustupulgad, VÄIKE VÄÄNIK, 140 g",
         "price": 2.25,
         "old_price": 2.79,
@@ -5415,13 +5415,6 @@
         "price": 6.99,
         "old_price": 10.489999999999998,
         "image": "https://www.selver.ee/img/800/800/resize/4/0/4008429089930.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Šašlõki ja röstitud sibula maitselised kartulikrõpsud, TAFFEL, 180g",
-        "price": 1.97,
-        "old_price": 2.9700000000000006,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4750024002783.jpg",
         "store": "Selver"
     },
     {
@@ -6069,13 +6062,6 @@
         "store": "Selver"
     },
     {
-        "name": "Majonees Original, HELLMANN'S, 855 ml",
-        "price": 4.49,
-        "old_price": 7.99,
-        "image": "https://www.selver.ee/img/800/800/resize/8/7/8720182112644.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Verivorstid kanalihaga Fitlap, NÕO, 210 g",
         "price": 1.79,
         "old_price": 2.29,
@@ -6136,13 +6122,6 @@
         "price": 1.79,
         "old_price": 2.29,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740153700025.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Seahakkliha, RAKVERE, 400 g",
-        "price": 2.19,
-        "old_price": 2.79,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003015095.jpg",
         "store": "Selver"
     },
     {
@@ -6612,20 +6591,6 @@
         "price": 4.19,
         "old_price": 5.39,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740046011726.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kartulikrõps suitsupeekonimaitseline, ESTRELLA, 180 g",
-        "price": 2.25,
-        "old_price": 3.75,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779028345818.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kartulikrõps juustumaitseline, ESTRELLA, 180 g",
-        "price": 2.25,
-        "old_price": 3.75,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779028345832.jpg",
         "store": "Selver"
     },
     {
@@ -7948,7 +7913,7 @@
         "name": "Toonik Ginger Ale, FEVER TREE, 500 ml",
         "price": 2.59,
         "old_price": 3.55,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5060108450287.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4751017241028.jpg",
         "store": "Selver"
     },
     {
@@ -8173,13 +8138,6 @@
         "price": 2.69,
         "old_price": 3.55,
         "image": "https://www.selver.ee/img/800/800/resize/5/0/5053990101597.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Heeringafilee kergsoola, VICI, 220 g",
-        "price": 1.79,
-        "old_price": 2.85,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4770190377669.jpg",
         "store": "Selver"
     },
     {
@@ -9849,6 +9807,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kompvek Komeet, KALEV, 175 g",
+        "price": 1.57,
+        "old_price": 2.87,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012023531.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Batoon Kaseke, KALEV, 150 g",
         "price": 1.87,
         "old_price": 2.39,
@@ -10136,13 +10101,6 @@
         "store": "Selver"
     },
     {
-        "name": "Apelsin Navel Lane Late, kg",
-        "price": 2.19,
-        "old_price": 2.59,
-        "image": "https://www.selver.ee/img/800/800/resize/2/7/2700002000005.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Vutimunad, JÄRVEOTSA, 12 tk",
         "price": 2.29,
         "old_price": 3.05,
@@ -10157,10 +10115,45 @@
         "store": "Selver"
     },
     {
-        "name": "Kompvek Komeet, KALEV, 175 g",
-        "price": 1.57,
-        "old_price": 2.87,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012023531.jpg",
+        "name": "Majonees Original, HELLMANN'S, 855 ml",
+        "price": 4.49,
+        "old_price": 7.99,
+        "image": "https://www.selver.ee/img/800/800/resize/8/7/8720182112644.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Vegan taimne majonees klaaspurgis, HELLMANN'S, 330 g",
+        "price": 3.49,
+        "old_price": 5.290000000000001,
+        "image": "https://www.selver.ee/img/800/800/resize/8/7/8721201922435.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Cheese Balls maisisnäkid, TAFFEL, 190 g",
+        "price": 1.97,
+        "old_price": 2.9700000000000006,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6410380049744.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kartulikrõps suitsupeekonimaitseline, ESTRELLA, 180 g",
+        "price": 2.25,
+        "old_price": 3.75,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779028345818.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Seahakkliha, RAKVERE, 400 g",
+        "price": 2.19,
+        "old_price": 2.79,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003015095.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Gaseeritud tsitrusemaitseline jook, BELIEF, 530 ml",
+        "price": 1.59,
+        "old_price": 1.98,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4744433010347.jpg",
         "store": "Selver"
     }
 ]
