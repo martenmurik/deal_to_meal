@@ -1,9 +1,9 @@
 [
     {
-        "name": "Tumeda šokolaadi kommid alkoholitäidisega Signature Collection, ANTHON BERG, 219g",
-        "price": 16.49,
-        "old_price": 20.99,
-        "image": "https://www.selver.ee/img/800/800/resize/5/7/5774540803807.jpg",
+        "name": "Vegan taimne majonees klaaspurgis, HELLMANN'S, 330 g",
+        "price": 3.49,
+        "old_price": 5.290000000000001,
+        "image": "https://www.selver.ee/img/800/800/resize/8/7/8721201922435.jpg",
         "store": "Selver"
     },
     {
@@ -14,10 +14,10 @@
         "store": "Selver"
     },
     {
-        "name": "Vegan taimne majonees klaaspurgis, HELLMANN'S, 330 g",
-        "price": 3.49,
-        "old_price": 5.290000000000001,
-        "image": "https://www.selver.ee/img/800/800/resize/8/7/8721201922435.jpg",
+        "name": "Tumeda šokolaadi kommid alkoholitäidisega Signature Collection, ANTHON BERG, 219g",
+        "price": 16.49,
+        "old_price": 20.99,
+        "image": "https://www.selver.ee/img/800/800/resize/5/7/5774540803807.jpg",
         "store": "Selver"
     },
     {
@@ -2842,6 +2842,13 @@
         "store": "Selver"
     },
     {
+        "name": "Supersmuuti Apelsini-Granadilli-Tšilli, AURA, 300 ml",
+        "price": 0.69,
+        "old_price": 0.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740051002016.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Pere lihapallid, RAKVERE, 400 g",
         "price": 2.19,
         "old_price": 2.69,
@@ -3294,13 +3301,6 @@
         "price": 1.69,
         "old_price": 2.59,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740003014920.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Eesti Juust viilud, ESTOVER, 500 g",
-        "price": 3.29,
-        "old_price": 6.289999999999999,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572000409.jpg",
         "store": "Selver"
     },
     {
@@ -5971,6 +5971,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kookose šokolaad, NICKS, 40 g",
+        "price": 1.29,
+        "old_price": 2.09,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7350104401078.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Koerale lateksmänguasi valik, S suurus, DOGMAN, 1 tk",
         "price": 6.5,
         "old_price": 8.12,
@@ -7200,6 +7207,13 @@
         "price": 1.99,
         "old_price": 2.49,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740581108370.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Maksapasteet, SELVERI KÖÖK, 150 g",
+        "price": 1.29,
+        "old_price": 1.69,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740581108332.jpg",
         "store": "Selver"
     },
     {
@@ -8848,6 +8862,13 @@
         "store": "Selver"
     },
     {
+        "name": "Eesti Juust viilud, ESTOVER, 500 g",
+        "price": 3.29,
+        "old_price": 6.289999999999999,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572000409.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Keele zeleevorst, OSKAR, 120 g",
         "price": 1.69,
         "old_price": 2.39,
@@ -9499,7 +9520,7 @@
         "store": "Selver"
     },
     {
-        "name": "Mandariin Tango, kg",
+        "name": "Klementiin Tango, kg",
         "price": 3.29,
         "old_price": 3.99,
         "image": "https://www.selver.ee/img/800/800/resize/2/7/2700003000004.jpg",
@@ -9510,20 +9531,6 @@
         "price": 16.49,
         "old_price": 20.99,
         "image": "https://www.selver.ee/img/800/800/resize/5/7/5774540804507.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Kookose šokolaad, NICKS, 40 g",
-        "price": 1.29,
-        "old_price": 2.09,
-        "image": "https://www.selver.ee/img/800/800/resize/7/3/7350104401078.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Maksapasteet, SELVERI KÖÖK, 150 g",
-        "price": 1.29,
-        "old_price": 1.69,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740581108332.jpg",
         "store": "Selver"
     }
 ]
