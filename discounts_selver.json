@@ -35,17 +35,17 @@
         "store": "Selver"
     },
     {
-        "name": "Pehme passionivili SP, ELLYT, 80g",
-        "price": 2.79,
-        "old_price": 3.55,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4745010184703.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Kuivatatud pehme papaia, MYSNACK, 80 g",
         "price": 2.65,
         "old_price": 3.45,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4745010184505.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Mandel, PREMIUM, 200g",
+        "price": 2.99,
+        "old_price": 3.89,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4742155003173.jpg",
         "store": "Selver"
     },
     {
@@ -249,6 +249,20 @@
         "price": 1.49,
         "old_price": 1.79,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4745010069444.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Pohlamoos pudelis, FELIX, 385 g",
+        "price": 2.99,
+        "old_price": 3.79,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7316110005617.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Maasikamoos pudelis, FELIX, 390 g",
+        "price": 2.99,
+        "old_price": 3.49,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7316110005556.jpg",
         "store": "Selver"
     },
     {
@@ -773,7 +787,7 @@
         "name": "Roheline jäätee Citrus, FUZETEA, 500 ml",
         "price": 1.09,
         "old_price": 1.4500000000000002,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651935.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000189370.jpg",
         "store": "Selver"
     },
     {
@@ -2992,7 +3006,7 @@
         "name": "Karastusjook Fanta Apelsini Zero kalorivaba, FANTA, 330 ml",
         "price": 0.95,
         "old_price": 1.11,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112678918.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000235367.jpg",
         "store": "Selver"
     },
     {
@@ -7269,14 +7283,14 @@
         "name": "Karastusjook Coca-Cola Zero magusainetega, COCA-COLA, 330 ml",
         "price": 0.95,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112678284.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000214799.jpg",
         "store": "Selver"
     },
     {
         "name": "Karastusjook Coca-Cola, COCA-COLA, 330 ml",
         "price": 0.95,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112677973.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000214911.jpg",
         "store": "Selver"
     },
     {
@@ -7304,7 +7318,7 @@
         "name": "Jäätee Sidrunheina, FUZETEA, 500 ml",
         "price": 1.09,
         "old_price": 1.4500000000000002,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651959.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000235947.jpg",
         "store": "Selver"
     },
     {
@@ -8456,6 +8470,13 @@
         "store": "Selver"
     },
     {
+        "name": "Punase apelsini jook, PFANNER, 2 L",
+        "price": 2.69,
+        "old_price": 3.65,
+        "image": "https://www.selver.ee/img/800/800/resize/9/0/9006900013998.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Täiendsööt. Bisrock vitamiini-koeraküpsised, PEDIGREE, 200g",
         "price": 1.29,
         "old_price": 1.89,
@@ -8956,7 +8977,7 @@
         "name": "Karastusjook Fanta Apelsini, FANTA, 2 L",
         "price": 1.99,
         "old_price": 3,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112614183.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000004840.jpg",
         "store": "Selver"
     },
     {
