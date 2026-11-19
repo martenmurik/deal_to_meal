@@ -35,6 +35,13 @@
         "store": "Selver"
     },
     {
+        "name": "Pehme passionivili SP, ELLYT, 80g",
+        "price": 2.79,
+        "old_price": 3.55,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4745010184703.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Kuivatatud pehme papaia, MYSNACK, 80 g",
         "price": 2.65,
         "old_price": 3.45,
@@ -151,13 +158,6 @@
         "price": 10.19,
         "old_price": 12.99,
         "image": "https://www.selver.ee/img/800/800/resize/8/0/8000500390825.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Mix advendikalender 3D maja, KINDER, 234 g",
-        "price": 15.25,
-        "old_price": 19.990000000000002,
-        "image": "https://www.selver.ee/img/800/800/resize/8/0/8000500294772.jpg",
         "store": "Selver"
     },
     {
@@ -4655,13 +4655,6 @@
         "store": "Selver"
     },
     {
-        "name": "Kungla valik pralineekomme, KALEV, 390 g",
-        "price": 14.870000000000001,
-        "old_price": 19.69,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012600589.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Kalkuni-suvikõrvitsakotlet, SELVERI KÖÖK, 240 g",
         "price": 4.49,
         "old_price": 5.38,
@@ -5369,20 +5362,6 @@
         "store": "Selver"
     },
     {
-        "name": "Advendikalender kassile, DOGMAN, 96 g",
-        "price": 10.99,
-        "old_price": 17.99,
-        "image": "https://www.selver.ee/img/800/800/resize/7/3/7312133060688.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Advendikalender koerale, DOGMAN, 120 g",
-        "price": 10.99,
-        "old_price": 17.99,
-        "image": "https://www.selver.ee/img/800/800/resize/7/3/7312133060671.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Šokolaadimedalid võrgus Magical Unicorns, STEENLAND, 50 g",
         "price": 1.89,
         "old_price": 2.69,
@@ -5681,13 +5660,6 @@
         "price": 2.39,
         "old_price": 2.8899999999999997,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740029040767.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Täissuitsu hirvevorst Trühvline, LINNAMÄE LIHATÖÖSTUS, 230 g",
-        "price": 3.79,
-        "old_price": 5.89,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740618006884.jpg",
         "store": "Selver"
     },
     {
@@ -7042,7 +7014,7 @@
         "store": "Selver"
     },
     {
-        "name": "Bio kanapuljong, MAGGI, 80 g",
+        "name": "Mahe kanapuljong, MAGGI, 80 g",
         "price": 1.99,
         "old_price": 3.1900000000000004,
         "image": "https://www.selver.ee/img/800/800/resize/8/5/8585002469915.jpg",
@@ -9110,7 +9082,7 @@
         "name": "Karastusjook Coca-Cola, COCA-COLA, 2 L",
         "price": 1.99,
         "old_price": 2.73,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651355.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4743050000045.jpg",
         "store": "Selver"
     },
     {
