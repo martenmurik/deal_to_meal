@@ -2373,6 +2373,13 @@
         "store": "Selver"
     },
     {
+        "name": "Spagetid Spaghetti, PANZANI, 500 g",
+        "price": 1.59,
+        "old_price": 1.9899999999999998,
+        "image": "https://www.selver.ee/img/800/800/resize/3/0/3038351165007.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Universaalne Chop Suey vokikaste, SANTA MARIA, 150 g",
         "price": 2.09,
         "old_price": 2.79,
@@ -4697,13 +4704,6 @@
         "store": "Selver"
     },
     {
-        "name": "Maiuspala pralineekommid talvekollektsioon, KALEV, 200 g",
-        "price": 5.77,
-        "old_price": 7.970000000000001,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012600503.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Knoppers vahvel mini, KNOPPERS, 200 g",
         "price": 5.1899999999999995,
         "old_price": 6.69,
@@ -6430,6 +6430,13 @@
         "price": 2.39,
         "old_price": 2.8899999999999997,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740029040767.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Täissuitsu hirvevorst Trühvline, LINNAMÄE LIHATÖÖSTUS, 230 g",
+        "price": 3.79,
+        "old_price": 5.89,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740618006884.jpg",
         "store": "Selver"
     },
     {
@@ -8911,13 +8918,6 @@
         "store": "Selver"
     },
     {
-        "name": "Kodujuust hapukoorega, PIIMAMEISTER OTTO, 330 g",
-        "price": 1.49,
-        "old_price": 1.88,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572004360.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Aedpeedi hummus, GOURMET CLUB, 200 g",
         "price": 2.49,
         "old_price": 3.04,
@@ -9075,7 +9075,7 @@
         "name": "Kohvikapslid Dolce Gusto Lungo, NESCAFE, 16 tk",
         "price": 5.99,
         "old_price": 8.49,
-        "image": "https://www.selver.ee/img/800/800/resize/7/6/7613037933611.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/4/8445290871992.jpg",
         "store": "Selver"
     },
     {
@@ -9097,13 +9097,6 @@
         "price": 3.79,
         "old_price": 4.77,
         "image": "https://www.selver.ee/img/800/800/resize/8/8/8851978801067.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Nisujahu T550, KALEW, 1 kg",
-        "price": 0.95,
-        "old_price": 1.19,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740493002162.jpg",
         "store": "Selver"
     },
     {
@@ -9845,7 +9838,7 @@
         "name": "Karastusjook Coca-Cola, COCA-COLA, 2 L",
         "price": 1.99,
         "old_price": 2.73,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651355.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4743050000045.jpg",
         "store": "Selver"
     },
     {
@@ -10556,10 +10549,10 @@
         "store": "Selver"
     },
     {
-        "name": "Spagetid Spaghetti, PANZANI, 500 g",
+        "name": "Specialita Penne Rigate, PANZANI, 500 g",
         "price": 1.59,
         "old_price": 1.9899999999999998,
-        "image": "https://www.selver.ee/img/800/800/resize/3/0/3038351165007.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/3/0/3038351483804.jpg",
         "store": "Selver"
     },
     {
@@ -10647,17 +10640,31 @@
         "store": "Selver"
     },
     {
-        "name": "Specialita Penne Rigate, PANZANI, 500 g",
-        "price": 1.59,
-        "old_price": 1.9899999999999998,
-        "image": "https://www.selver.ee/img/800/800/resize/3/0/3038351483804.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Valik marmelaadikomme, KALEV, 300g",
         "price": 4.47,
         "old_price": 5.97,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012601401.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kodujuust hapukoorega, PIIMAMEISTER OTTO, 330 g",
+        "price": 1.49,
+        "old_price": 1.88,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572004360.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Maiuspala pralineekommid talvekollektsioon, KALEV, 200 g",
+        "price": 5.77,
+        "old_price": 7.970000000000001,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012600503.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Nisujahu T550, KALEW, 1 kg",
+        "price": 0.95,
+        "old_price": 1.19,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740493002162.jpg",
         "store": "Selver"
     }
 ]
