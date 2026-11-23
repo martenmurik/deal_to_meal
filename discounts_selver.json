@@ -759,7 +759,7 @@
         "name": "Roheline jäätee Citrus, FUZETEA, 500 ml",
         "price": 1.09,
         "old_price": 1.4500000000000002,
-        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000189370.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651935.jpg",
         "store": "Selver"
     },
     {
@@ -2289,13 +2289,6 @@
         "store": "Selver"
     },
     {
-        "name": "Paneeritud kodused hakk-kotletid, LINNAMÄE LIHATÖÖSTUS, 840 g",
-        "price": 5.49,
-        "old_price": 7.99,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740618005306.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Täisteratortilla 25 cm x 6 tk, BANDEROS, 1 tk",
         "price": 2.49,
         "old_price": 2.99,
@@ -2321,13 +2314,6 @@
         "price": 0.89,
         "old_price": 1.19,
         "image": "https://www.selver.ee/img/800/800/resize/7/6/7611612700818.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Apelsinimoos, FIRST PRICE, 400 g",
-        "price": 2.49,
-        "old_price": 2.99,
-        "image": "https://www.selver.ee/img/800/800/resize/7/3/7311041089262.jpg",
         "store": "Selver"
     },
     {
@@ -2370,13 +2356,6 @@
         "price": 1.39,
         "old_price": 1.79,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4745010372124.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Spagetid Spaghetti, PANZANI, 500 g",
-        "price": 1.59,
-        "old_price": 1.9899999999999998,
-        "image": "https://www.selver.ee/img/800/800/resize/3/0/3038351165007.jpg",
         "store": "Selver"
     },
     {
@@ -2999,7 +2978,7 @@
         "name": "Karastusjook Fanta Apelsini Zero kalorivaba, FANTA, 330 ml",
         "price": 0.95,
         "old_price": 1.11,
-        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000235367.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112678918.jpg",
         "store": "Selver"
     },
     {
@@ -4704,6 +4683,13 @@
         "store": "Selver"
     },
     {
+        "name": "Maiuspala pralineekommid talvekollektsioon, KALEV, 200 g",
+        "price": 5.77,
+        "old_price": 7.970000000000001,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012600503.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Knoppers vahvel mini, KNOPPERS, 200 g",
         "price": 5.1899999999999995,
         "old_price": 6.69,
@@ -4988,13 +4974,6 @@
         "price": 6.5,
         "old_price": 6.9,
         "image": "https://www.selver.ee/img/800/800/resize/2/1/210500003573.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "HULGI Küpsetatud oad 6tk, CAMPAGNA, 6 x 400g",
-        "price": 5.5,
-        "old_price": 5.940000000000001,
-        "image": "https://www.selver.ee/img/800/800/resize/2/1/214100000413.jpg",
         "store": "Selver"
     },
     {
@@ -7819,13 +7798,6 @@
         "store": "Selver"
     },
     {
-        "name": "Hummus päiksekuivatatud tomatiga, MARTA KULINAARIA, 150 g",
-        "price": 2.15,
-        "old_price": 2.63,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740667249003.jpg",
-        "store": "Selver"
-    },
-    {
         "name": "Hummus klassikaline, MARTA KULINAARIA, 150 g",
         "price": 2.15,
         "old_price": 2.69,
@@ -7962,14 +7934,14 @@
         "name": "Karboniseeritud mineraalvesi Mündi, NEPTUNAS, 500 ml",
         "price": 0.69,
         "old_price": 0.95,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779017040762.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651546.jpg",
         "store": "Selver"
     },
     {
         "name": "Mineraalvesi Still karboniseerimata, NEPTUNAS, 1,5 L",
         "price": 0.79,
         "old_price": 1.09,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779017040496.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651454.jpg",
         "store": "Selver"
     },
     {
@@ -8018,14 +7990,14 @@
         "name": "Karastusjook Coca-Cola Zero magusainetega, COCA-COLA, 330 ml",
         "price": 0.95,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000214799.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112678284.jpg",
         "store": "Selver"
     },
     {
         "name": "Karastusjook Coca-Cola, COCA-COLA, 330 ml",
         "price": 0.95,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000214911.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112677973.jpg",
         "store": "Selver"
     },
     {
@@ -8053,7 +8025,7 @@
         "name": "Jäätee Sidrunheina, FUZETEA, 500 ml",
         "price": 1.09,
         "old_price": 1.4500000000000002,
-        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000235947.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651959.jpg",
         "store": "Selver"
     },
     {
@@ -8918,6 +8890,13 @@
         "store": "Selver"
     },
     {
+        "name": "Kodujuust hapukoorega, PIIMAMEISTER OTTO, 330 g",
+        "price": 1.49,
+        "old_price": 1.88,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572004360.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Aedpeedi hummus, GOURMET CLUB, 200 g",
         "price": 2.49,
         "old_price": 3.04,
@@ -9097,6 +9076,13 @@
         "price": 3.79,
         "old_price": 4.77,
         "image": "https://www.selver.ee/img/800/800/resize/8/8/8851978801067.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Nisujahu T550, KALEW, 1 kg",
+        "price": 0.95,
+        "old_price": 1.19,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740493002162.jpg",
         "store": "Selver"
     },
     {
@@ -9705,7 +9691,7 @@
         "name": "Karastusjook Fanta Apelsini, FANTA, 2 L",
         "price": 1.99,
         "old_price": 3,
-        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000004840.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112614183.jpg",
         "store": "Selver"
     },
     {
@@ -9838,7 +9824,7 @@
         "name": "Karastusjook Coca-Cola, COCA-COLA, 2 L",
         "price": 1.99,
         "old_price": 2.73,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4743050000045.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651355.jpg",
         "store": "Selver"
     },
     {
@@ -10556,6 +10542,13 @@
         "store": "Selver"
     },
     {
+        "name": "Spagetid Spaghetti, PANZANI, 500 g",
+        "price": 1.59,
+        "old_price": 1.9899999999999998,
+        "image": "https://www.selver.ee/img/800/800/resize/3/0/3038351165007.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Salatisibul, kg",
         "price": 1.49,
         "old_price": 2.49,
@@ -10647,24 +10640,17 @@
         "store": "Selver"
     },
     {
-        "name": "Kodujuust hapukoorega, PIIMAMEISTER OTTO, 330 g",
-        "price": 1.49,
-        "old_price": 1.88,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740572004360.jpg",
+        "name": "Hummus päiksekuivatatud tomatiga, MARTA KULINAARIA, 150 g",
+        "price": 2.15,
+        "old_price": 2.63,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740667249003.jpg",
         "store": "Selver"
     },
     {
-        "name": "Maiuspala pralineekommid talvekollektsioon, KALEV, 200 g",
-        "price": 5.77,
-        "old_price": 7.970000000000001,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012600503.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Nisujahu T550, KALEW, 1 kg",
-        "price": 0.95,
-        "old_price": 1.19,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740493002162.jpg",
+        "name": "Paneeritud kodused hakk-kotletid, LINNAMÄE LIHATÖÖSTUS, 840 g",
+        "price": 5.49,
+        "old_price": 7.99,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740618005306.jpg",
         "store": "Selver"
     }
 ]
