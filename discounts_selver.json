@@ -1,5 +1,180 @@
 [
     {
+        "name": "Väike kuup T7, RAFFAELLO, 70g",
+        "price": 3.99,
+        "old_price": 4.99,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8000500330074.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kompvekid Kinder Shoko-Bons, KINDER, 100g",
+        "price": 3.29,
+        "old_price": 3.99,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8000500462522.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kinderini küpsised, KINDER, 100 g",
+        "price": 2.29,
+        "old_price": 2.8899999999999997,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8000500447130.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Küpsised, NUTELLA, 41 g",
+        "price": 0.89,
+        "old_price": 1.15,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8000500359358.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Muna, RAFFAELLO, 125 g",
+        "price": 7.79,
+        "old_price": 9.29,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8000500446492.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Collection kinkekarp, ROCHER, 197 g",
+        "price": 17.39,
+        "old_price": 21.489999999999995,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8000500431719.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Vahukomm šokolaadis Jõuluvana, AROMA, 80 g",
+        "price": 1.29,
+        "old_price": 1.69,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7394269079253.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Vahukomm Jõuluvana, AROMA, 90 g",
+        "price": 1.29,
+        "old_price": 1.69,
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7394269079185.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Crispy šokolaadibatoon, KINDER, 34,5 g",
+        "price": 0.99,
+        "old_price": 1.29,
+        "image": "https://www.selver.ee/img/800/800/resize/8/0/8000500434123.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Glögikuulid küpsised, JAFFA, 300g",
+        "price": 3.1900000000000004,
+        "old_price": 4.69,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453555594.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Remix Xmas kommikott, TUTTI FRUTTI, 150g",
+        "price": 1.09,
+        "old_price": 1.69,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453066663.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Remix Sour Greetings kommikarp, TUTTI FRUTTI, 450g",
+        "price": 3.29,
+        "old_price": 4.79,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453055308.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kommikarp Vaarika pralinee, GEISHA, 250g",
+        "price": 5.99,
+        "old_price": 8.99,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453099371.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kommikarp Favourites, FAZER, 430g",
+        "price": 8.99,
+        "old_price": 13.689999999999998,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453099203.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kommikarp Crème Brûlée, KARL FAZER, 250g",
+        "price": 5.99,
+        "old_price": 8.99,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453076471.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Piima- ja valge šokolaadikompvekid, KARL FAZER, 250g",
+        "price": 5.99,
+        "old_price": 8.99,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453053168.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Šokolaadikommikarp Klassikot, FAZER, 260g",
+        "price": 5.99,
+        "old_price": 8.99,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453026353.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Crispy Truffle, KARL FAZER, 250 g",
+        "price": 5.99,
+        "old_price": 8.99,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453053021.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Christmas pralineekompvekid, FAZER, 295 g",
+        "price": 5.99,
+        "old_price": 8.99,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453053427.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Green Jellies Marmelaadikompvekid, FAZER, 295 g",
+        "price": 5.99,
+        "old_price": 8.99,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453053472.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Marmelaadikompvekid, JAFFA, 295 g",
+        "price": 5.99,
+        "old_price": 8.99,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453053458.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Kommikarp, LIQUEUR FILLS, 295 g",
+        "price": 5.99,
+        "old_price": 8.99,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453053540.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Marmelaadikompvekid, JULIA, 295 g",
+        "price": 5.99,
+        "old_price": 8.99,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453054639.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Winter Mix kommikott, DUMLE, 180 g",
+        "price": 2.99,
+        "old_price": 4.49,
+        "image": "https://www.selver.ee/img/800/800/resize/6/4/6416453057043.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Valik marmelaadikomme, KALEV, 300g",
+        "price": 4.47,
+        "old_price": 5.97,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012601401.jpg",
+        "store": "Selver"
+    },
+    {
         "name": "Kommipakk Head uut aastat, KALEV, 420g",
         "price": 6.970000000000001,
         "old_price": 9.47,
@@ -794,7 +969,7 @@
         "name": "Roheline jäätee Citrus, FUZETEA, 500 ml",
         "price": 1.09,
         "old_price": 1.4500000000000002,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651935.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000189370.jpg",
         "store": "Selver"
     },
     {
@@ -879,13 +1054,6 @@
         "price": 0.59,
         "old_price": 0.99,
         "image": "https://www.selver.ee/img/800/800/resize/2/7/2715539000008.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Mahe Ebaküdoonia, ARAN FARMING, 500 g",
-        "price": 4.99,
-        "old_price": 6.289999999999999,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4744021010360.jpg",
         "store": "Selver"
     },
     {
@@ -2922,7 +3090,7 @@
         "name": "Karastusjook Fanta Apelsini Zero kalorivaba, FANTA, 330 ml",
         "price": 0.95,
         "old_price": 1.11,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112678918.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000235367.jpg",
         "store": "Selver"
     },
     {
@@ -8046,14 +8214,14 @@
         "name": "Karboniseeritud mineraalvesi Mündi, NEPTUNAS, 500 ml",
         "price": 0.69,
         "old_price": 0.95,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651546.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779017040762.jpg",
         "store": "Selver"
     },
     {
         "name": "Mineraalvesi Still karboniseerimata, NEPTUNAS, 1,5 L",
         "price": 0.79,
         "old_price": 1.09,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651454.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4779017040496.jpg",
         "store": "Selver"
     },
     {
@@ -8102,14 +8270,14 @@
         "name": "Karastusjook Coca-Cola Zero magusainetega, COCA-COLA, 330 ml",
         "price": 0.95,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112678284.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000214799.jpg",
         "store": "Selver"
     },
     {
         "name": "Karastusjook Coca-Cola, COCA-COLA, 330 ml",
         "price": 0.95,
         "old_price": 1.21,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112677973.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000214911.jpg",
         "store": "Selver"
     },
     {
@@ -8144,7 +8312,7 @@
         "name": "Jäätee Sidrunheina, FUZETEA, 500 ml",
         "price": 1.09,
         "old_price": 1.4500000000000002,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112651959.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000235947.jpg",
         "store": "Selver"
     },
     {
@@ -9208,7 +9376,7 @@
         "name": "Must tee English Brakfast niidiga kotis 25pk, LIPTON, 50 g",
         "price": 1.89,
         "old_price": 2.84,
-        "image": "https://www.selver.ee/img/800/800/resize/8/7/8712100510526.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/8/7/8720608011919.jpg",
         "store": "Selver"
     },
     {
@@ -9852,7 +10020,7 @@
         "name": "Karastusjook Fanta Apelsini, FANTA, 2 L",
         "price": 1.99,
         "old_price": 3,
-        "image": "https://www.selver.ee/img/800/800/resize/5/0/5000112614183.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/5/4/5449000004840.jpg",
         "store": "Selver"
     },
     {
@@ -10070,6 +10238,13 @@
         "price": 1.9899999999999998,
         "old_price": 2.49,
         "image": "https://www.selver.ee/img/800/800/resize/4/7/4740669000602.jpg",
+        "store": "Selver"
+    },
+    {
+        "name": "Sealihasnäkk, SELVER, 85 g",
+        "price": 1.19,
+        "old_price": 1.69,
+        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740581411104.jpg",
         "store": "Selver"
     },
     {
@@ -10773,24 +10948,17 @@
         "store": "Selver"
     },
     {
-        "name": "Klementiin Arrufatina , kg",
+        "name": "Klementiin Clemenules , kg",
         "price": 2.99,
         "old_price": 3.59,
         "image": "https://www.selver.ee/img/800/800/resize/2/7/2700003000004.jpg",
         "store": "Selver"
     },
     {
-        "name": "Valik marmelaadikomme, KALEV, 300g",
-        "price": 4.47,
-        "old_price": 5.97,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740012601401.jpg",
-        "store": "Selver"
-    },
-    {
-        "name": "Sealihasnäkk, SELVER, 85 g",
-        "price": 1.19,
+        "name": "Vahukomm hapu Jõuluvana, AROMA, 80g",
+        "price": 1.29,
         "old_price": 1.69,
-        "image": "https://www.selver.ee/img/800/800/resize/4/7/4740581411104.jpg",
+        "image": "https://www.selver.ee/img/800/800/resize/7/3/7394269079383.jpg",
         "store": "Selver"
     }
 ]
